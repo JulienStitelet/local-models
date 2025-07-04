@@ -1,26 +1,35 @@
 import os
+import json
 import pandas as pd
 from huggingface_hub import HfApi, create_repo, upload_file
+from langchain_pydantic_minifier.minifier_pydantic import MinifiedPydanticOutputParser
 
-TESTS = "./resources/openai_skills"
-INPUT = "./resources/raw_resumes"
+from local_models.prompts import get_prompt
+from local_models.schema.resume import SkillsResponse
+
+RESUMES = "./resources/raw_resumes"
+EXPECTED = "./resources/openai_skills"
 DATASET = "./resources/dataset"
 
 ## ENV ===> HUGGINGFACE_TOKEN="hf_wwwwwww"
 
 conversations = []
+parser = MinifiedPydanticOutputParser(pydantic_object=SkillsResponse)
 
-for filename in os.listdir(TESTS):
-    filepath = os.path.join(TESTS, filename)
+for filename in os.listdir(EXPECTED):
+    filepath = os.path.join(EXPECTED, filename)
     if os.path.isfile(filepath):
         # Do your thing here
         print(f"Processing {filepath}")
         file_id = os.path.splitext(os.path.basename(filepath))[0]
-        with open(f"{INPUT}/{file_id}.txt", "r", encoding="utf-8") as rr:
-            with open(f"{TESTS}/{file_id}.json", "r", encoding="utf-8") as resp:
+        with open(f"{RESUMES}/{file_id}.txt", "r", encoding="utf-8") as raw_resume:
+            with open(f"{EXPECTED}/{file_id}.json", "r", encoding="utf-8") as expected:
+                prompt = get_prompt(parser, raw_resume.read())
+                json_dict = json.load(expected)
+                expected_output = f"```json{json.dumps(json_dict)}```"
                 conversations.append(
                     {
-                        "text": f"<bos><start_of_turn>user\n{rr.readlines()}<end_of_turn>\n<start_of_turn>model\n{resp.readlines()}<end_of_turn>"
+                        "text": f"<bos><start_of_turn>user\n{prompt}<end_of_turn>\n<start_of_turn>model\n{expected_output}<end_of_turn>"
                     }
                 )
 

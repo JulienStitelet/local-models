@@ -9,10 +9,11 @@ from llama_cpp import Llama
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from langchain_pydantic_minifier.minifier_pydantic import MinifiedPydanticOutputParser
-from langchain_core.prompts import PromptTemplate
+
 import re
 import json
 
+from local_models.prompts import get_prompt
 from local_models.schema.resume import ProfileResponse, SkillsResponse
 
 # Configuration du logging
@@ -105,67 +106,13 @@ async def health_check():
     }
 
 
-@app.post("/generate", response_model=PromptResponse)
-async def generate_text(request: PromptRequest):
-    if llm is None:
-        raise HTTPException(status_code=503, detail="Modèle non chargé")
-
-    try:
-        logger.info(f"Génération pour prompt: {request.prompt[:50]}...")
-
-        # Génération du texte
-        output = llm(
-            request.prompt,
-            max_tokens=request.max_tokens,
-            temperature=request.temperature,
-            top_p=request.top_p,
-            stop=request.stop,
-            echo=False,  # Ne pas répéter le prompt
-        )
-
-        response_text = output["choices"][0]["text"].strip()
-
-        # Informations sur le modèle
-        model_info = {
-            "tokens_generated": len(output["choices"][0]["text"].split()),
-            "finish_reason": output["choices"][0].get("finish_reason", "length"),
-            "platform": platform.system(),
-        }
-
-        logger.info("Génération terminée avec succès")
-
-        return PromptResponse(response=response_text, model_info=model_info)
-
-    except Exception as e:
-        logger.error(f"Erreur lors de la génération: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
-
-
 @app.post("/chat")
 async def chat_completion(request: PromptRequest):
     """Route alternative avec format plus simple"""
     if llm is None:
         raise HTTPException(status_code=503, detail="Modèle non chargé")
 
-    chat_prompt = PromptTemplate(
-        template="{system_prompt}\n\n{format_instructions}\n\nHere is the resume:\n{query}\n.## IMPORTANT:{important}",
-        input_variables=["human_message"],
-        partial_variables={
-            "system_prompt": "Extract information from the given raw text resume. Wrap the output in `json` tags",
-            "format_instructions": parser.get_format_instructions(),
-            "important": """Return a JSON object containing only fields that have meaningful values.
-
-- Do NOT include fields with null, empty strings, empty arrays, or missing data.
-- Omit any field for which no reliable value is found.
-- For example, if the value for "d" is not available, do not include "d" at all in the JSON output.
-
-The final JSON should be as compact as possible with only non-empty, non-null fields.
-Field names must be lower case""",
-        },
-    )
-
-    prompt = chat_prompt.invoke({"query": request.prompt}).to_string()
-    print(prompt)
+    prompt = get_prompt(parser, request.prompt)
     try:
         output = llm(
             prompt,
