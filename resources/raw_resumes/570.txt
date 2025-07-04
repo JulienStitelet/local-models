@@ -1,0 +1,265 @@
+
+Pamela Taylor    (704) 583-4207
+12716 Ivey Creek Drive, Charlotte NC 28273    Ptaylor1237@Carolina.rr.com
+Professional Profile:
+                                 
+  An accomplished professional with strong business & technology acumen competent
+  in motivating and directing teams to achieve desired goals.  Highly effective
+  in managing multiple projects within a defined budget, timeframe, and scope of
+  work.  Excellent communication and interpersonal skills coupled with a team
+  player attitude and strong initiative. Seeking a position as a Senior Data
+  Analyst/Business Analyst where I can contribute extensive business and
+  technical skills.
+
+Strengths:
+
+Problem Resolution
+User-centered System Analysis & Design
+Project Management
+Organizational Behavior
+Strategic Analysis & Planning
+Creativity
+
+Team Building
+Time Management
+Adaptability
+Dedication
+Attention to Detail
+Resource Management
+
+Education:
+                                 
+
+1989 - 1991
+
+
+1987 - 1989
+Bachelor of Science in Office Information Systems
+University of South Carolina, Columbia, SC
+
+Emphasis in Computer Science
+Benedict College, Columbia, SC
+
+Computer Skills/Experience:
+                                 
+
+TSO/ISPF
+UNIX
+JCL
+Cobol
+APS Code Generator
+EZT Plus
+Windows 98,2000,NT
+
+
+MS-DOS
+Microsoft Word
+Microsoft Excel
+
+
+QMF (DB2)
+Teradata (Queryman)
+SQL (Oracle)
+Toad(Oracle)
+File Aid
+Microsoft Project
+Microsoft Access
+Microsoft Outlook
+Lotus 123
+Lotus Notes
+
+Xchange
+Change Management System
+Endevor
+Xpediter
+
+
+NDM
+Visio
+CIMulator
+Sourcesafe
+
+Other Applicable Skills:
+
+  Decisive leader who can lead by example with a hands-on tactical approach when
+  necessary.
+
+  Superb troubleshooting skills, persistence in problem solving and the ability
+    to
+  coach and mentor others.
+
+Excellent written, verbal and presentation related communication skills.
+Proven interpersonal skills with the ability to work with all levels of the
+  organization
+Good humored, creative, persistent, dependable, discreet, thorough and attentive
+  to detail.
+
+  Highly organized and efficient, a flexible and versatile team player who will
+  work hard and excel in any environment.
+
+  A positive approach to all tasks, and pride in achievements has resulted in
+    many
+  successes.
+
+Work Experience:
+
+    Bank of America, Charlotte, NC    November 2006 - June 2007
+    (Consultant)
+                      Industry:  Banking/Information Technology
+                Position Title:  Senior Data Analyst/Business Analyst
+                                 
+Responsibility Summary:
+
+  Create multiple reports for the business to resolve differences between Oracle
+  databases. Extract files from Toad(Query Tool) to use as input into a Microsoft
+  database.
+
+  Provide extensive research and problem resolution for clients on an as needed
+  basis.
+
+Provide support to clients involving Unix production Jobs.
+Review Business Requirements and evaluate data sources.
+
+    Bank of America, Charlotte, NC    March 2006 - October 2006
+    (Consultant)
+                      Industry:  Banking/Information Technology
+                Position Title:  Senior Data Analyst/Business Analyst
+                                 
+Responsibility Summary:
+
+  Served as the liaison between various Finance operational areas and the
+  Technology Development and Supported teams for financial applications to ensure
+  data requirements were properly understood, documented, communicated, and
+  implemented.
+
+  Reviewed Business Requirements, evaluated data sources, and translated
+  requirements into specifications for the technology teams.
+Analyzed data needs via the W query tools.
+
+Used extensive SQL to research data on Oracle databases.
+Monitored change control processes to ensure changes were properly reflected in
+  production.
+
+Provided analysis on data integrity issues.
+
+    Wachovia Corporation, Charlotte, NC    January 2003 - March 2006
+    (Consultant)
+                      Industry:  Banking/Information Technology
+                Position Title:  Senior Data Analyst
+                                 
+Responsibility Summary:
+
+Provided data needs for PEGASIS (Loan Application System) from the Mainframe.
+Provide assistance as needed to research CIM problems and/or questions through
+  Lotus Notes database.
+
+  Reviewed written Business Requirements in order to determine data requirements
+  needed to support the business request.
+
+Located data needs within existing CIMs and/or legacy systems.
+Designed and test new CIMS and/or the addition of data elements to existing CIMS.
+Prepared data mapping to support business request and developers.
+Documented data mapping using SourceSafe version control application.
+Monitored development and test efforts between the requesting system and
+  servicing system.
+
+Located test data to support testing efforts.
+
+Acted as liaison between PEGASIS developers and Mainframe developers.
+Provided production support with CIM problems as well as regional support
+Utilized queries (file Aid, DB2, etc.) to access and review data patterns and
+  build test cases.
+
+    Bank of America, Charlotte, NC    October 2002 - December 2002
+    (Consultant)
+                      Industry:  Banking/Information Technology
+                Position Title:  Senior Business Analyst/Quality Assurance
+                                 Analyst
+
+Responsibility Summary:
+
+  Provided support for the Performance Management Group that supports the PCHH
+  Referral Database.
+
+  Responsible for creating quality test cases and test plans for a two-tier
+  project.
+
+  Responsible for creating detailed specifications from the JCL and Visio flow
+  charts.
+
+  Involved in User Acceptance testing (UAT), System Integration testing (SIT) and
+  functional testing for each process.
+
+  Used Queryman to extract data from the 'W' in order to build test cases and
+  research critical information.
+
+                                                                                                 Bank of America Charlotte, NC    Jan 2001 - Jan 2002 (FTE)
+                                                                                                 1998 - 2000 (Consultant)
+                      Industry:  Banking/Information Technology
+                Position Title:  Programmer Analyst 2 / Business Analyst (Data
+                                 Warehouse)
+       Responsibility Summary::
+                                 
+  Responsible for integration of Model Releases for BOSS/ATM applications in the
+  'W' (formally known as EDW/CKDS) data warehouse.
+
+Modified Cobol/EZT Plus programs to meet project requirements.
+Used such tools as File Aid and EZT Plus for testing and analyzing data results.
+Responsible for loading DB2 tables and providing test results and scripts with
+  queries.
+
+Provided production support for all applications when on-call for the department.
+Provided Y2K testing with a tool called Xchange.  Used Xpediter as a debugging
+  tool. Participated in unit testing as well as implementation of each release.
+Used Microsoft Project to keep track of each task for a successful
+  implementation.
+
+  Developed Functional/Technical designs and technical flowcharts using Visio.
+    Used
+  Lotus Notes extensively.
+
+    First Union National Bank, Charlotte, NC    April 2000 - July 2000
+    (Consultant)
+                      Industry:  Banking/Project Management
+                Position Title:  Project Coordinator
+      Responsibility Summary:::
+                                 
+  Responsible for the coordination of the Householding Project for Design and
+  Architecture within the Retail Investment Group at First Union National Bank.
+Maintained a detailed work-plan for all deliverables and all phases of the
+  project.
+
+  Worked strictly from a standard methodology. Assisted the Designer/Data Modeler
+  with the Functional and Detail designs.
+
+Assisted with manipulating data from an Access Database.
+Responsible for giving estimates on deliverables to the Project Manager.
+Accumulated standard documentation for the project binder.
+Assisted with data mapping.
+
+Blue Cross and Blue Shield of SC, Columbia, SC    June 1996 - September 1998
+
+                      Industry:  Insurance/Information Technology
+                Position Title:  Information systems Engineer II (Data Warehouse)
+      Responsibility Summary:::
+                                 
+  Responsible for internal/external Champus reports created within QMF(DB2) as
+    well
+  as Easytrieve Plus.
+
+Used SQL to build reports, extract data off tables, and join multiple tables.
+Used Cobol and EZT Plus for processing of reports and files.
+Utilized many other utilities to test and debug such as Xpediter and Maxdata.
+Responsible for downloading/uploading files from the Mainframe to the PC.
+  Experienced with TSO.
+
+Developed programs in APS, Cobol and EZT Plus for several projects.
+Responsible for writing specifications for projects.
+
+Provided clients with initial designs and mock-up reports as well as deadlines.
+
+References:
+
+Professional and personal references available upon request.
+
+        Pamela S. Taylor - 2 -

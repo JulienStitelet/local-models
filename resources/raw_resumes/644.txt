@@ -1,0 +1,217 @@
+
+Varun Goud
+Senior UI Developer
+Email ID: Venkatesh@sriusa.com
+Ph# 732-579-9335
+
+PROFESSIONAL SUMMARY
+
+* Over 7 years of strong development experience in User Interface
+  applications and integration of highly transactional and scalable
+  applications using Object Oriented Analysis and design (OOA/OOD)
+  principals.
+* Experience in interacting with clients/users in gathering the user
+  requirements.
+* Proficiency in the Entire Software Development Life Cycle (SDLC).
+* Followed Waterfall and Agile/Scrum methodology of software development,
+  which satisfies the customer through early and continuous delivery of
+  valuable software.
+* Very Strong in developing applications using HTML, HTML5, CSS, CSS3,
+  DOM Manipulation, JavaScript, jQuery, AJAX and JSON.
+* Validated the client side applications using jQuery Validation
+  Plug-in.
+* Experience in working with JavaScript frameworks like Bootstrap, EXT
+  JS, Backbone.js, and AngularJS
+* Experience in working with RESTful Web Services and implementing
+  RESTful API's.
+* Experience of working on CSS Preprocessors like LESS and SASS along
+  with JavaScript task runners like GruntJS.
+* Experience in taking performance optimization measures for website/web
+  applications to reduce the response times and hence enhancing the end
+  user experience.
+* Good experience in development of Database Components (Tables, Views,
+  Stored Procedures, queries constraints) in Oracle.
+* Creative Knowledge in art creation, modification and conversion Logos,
+  print media, web page and software interface design.
+* Experienced in using UI editors like Sublime Text Editor, Eclipse, and
+  Aptana Studio.
+* Strong understanding of Animation and how things should look, feel and
+  move.
+* Involved in the production support of the applications.
+* Prepared test case scenarios and internal documentation for validation
+  and reporting.
+
+TECHNICAL SKILLS
+
+Languages            :     JavaScript, jQuery, AJAX, Java, JDBC, JSP.
+Front End            :     HTML, DHTML, XHTML, HTML5, XML, JSON, XSL,
+XPath, XSLT, CSS,
+CSS3, and FlexBuilder2.0/3.0.
+Frameworks            :     AngularJS, Backbone.js, ExtJS
+Web/App Servers        :     Web Sphere 8.0(beta), Web logic and Tomcat
+5.0/6.0/7.0
+Version Control System    :    SVN, CVS, Clear Case.
+Desktop Tools            :     Acrobat Writer, MS Word, MS Excel, MS
+PowerPoint, MS Access
+
+PROFESSIONAL EXPERIENCE
+
+Capital Group, Newark, DE
+Mar 2014 - Till Date
+Senior UI Developer
+
+Responsibilities
+* Worked closely with internal clients to define business objectives,
+  project scope, solution space and design/development approach for
+  various knowledge research applications.
+* Setting up AngularJS framework for UI development. Developed html views
+  with HTML 5, CSS 3, JQuery 1.1.0, JSON, and Java Script.
+* Utilized Modernizer extensively to build HTML5/CSS3 based page layouts
+  that are cross-browser compatible and standards-compliant.
+* Built custom UI Widgets and Application logic using AngularJS MVC
+  architecture.
+* Produced and consumed Rest Web Services, developed DAO's and DTO
+  classes for services and consumed through Angular factory service calls
+  from front end.
+* Used CSS3 to develop Rich UI Components such as Accordions and Modal
+  Windows using pure HTML 5 and CSS3.
+* Built Web pages that are more user-interactive using jQuery plugins for
+  Drag and Drop, jqValidtor, AutoComplete, AJAX, JSON, AngularsJS and
+  JavaScript.
+* Implemented various Validation Controls for form validation and
+  implemented custom validation controls using Object Oriented
+  JavaScript.
+* Developed code to call the web service/APIs to fetch the data and
+  populate on the UI using JQUERY/AJAX
+* Used 'TestNG' for backend test cases and 'Jasmine' for AngularJS test
+  cases.
+* Using Google analytics reports, optimized the page load time for the
+  pages that had heavy traffic and improvised those pages using CSS.
+* Worked on Twitter Bootstrap to create Responsive Web Design.
+Environment
+HTML5, CSS3, Angular JS, AJAX, JavaScript, Angular.js, jQuery, JSON, SVN,
+JSP and Eclipse, TestNG.
+
+John Deere, Moline, IL
+Jun 2012 - Feb 2014
+UI Developer
+
+Responsibilities
+* Interacted with the client to understand their existing applications
+  and design the site according to their system requirements thereby
+  played important role in requirement gathering.
+* Involved in structuring and facilitating Rapid Application Development
+  sessions.
+* Designed and developed the front end using HTML, DHTML, and XML.
+* Created CSS templates for use in all pages on the website working with
+  CSS Background, positioning, text, border, margin, padding, table,
+  Pseudo classes, Pseudo elements and CSS3 Border, CSS3 Background, CSS3
+  Transitions.
+* Used JSON for data interchange, as it's faster and can be parsed using
+  JavaScript.
+* Extensively worked with JavaScript cookies.
+* Developed JavaScript and optimized existing scripts for efficiency.
+* Used JavaScript, HTML5, and jQuery for forms validations.
+* Used the jQuery widgets like Accordion, Date picker, Draggable,
+  Droppable, Resizable jQuery interactions.
+* Redesigned user interface HTML frameworks with Bootstrap and refined
+  CSS styling.
+* Worked with jQuery UI plug-in like Widgets, Interactions, and Effects.
+* Worked on AngularJS, which combines web applications with Model View
+  Controller capability to make development and testing of code
+  efficient.
+* With responsive design to create one well-planned site to deliver an
+  optimized experience in context to each device or screen size.
+* Worked with jQuery Message plug-in, jQuery Validation Plug-in.
+* Applied optimization techniques to reduce page size and load times to
+  enhance user experience using sprites.
+* Used Ajax XML Http Request to post chat messages and to periodically
+  check the server for new messages and update your chat window.
+* Designed graphics, buttons, logos and flash animation for the website.
+* Validated the code using W3C Mark-Up validation and also checked for
+  the cross-browser compatibility using Cloud Testing.
+Environment
+HTML, HTML5, XHTML, DHTML, CSS, CSS3, JavaScript, jQuery, AngularJS, XML,
+XSL, XSLT, JSON, DTD, Restful API.
+
+EBay, San Jose, CA
+Nov 2010 - May 2012
+UI Developer
+
+Responsibilities
+* Communicate with the client to understand the requirement of the
+  website, gained experience in project planning, involved in writing the
+  Project Design Document and Project Plan Document.
+* Hands on the process of development, testing and maintenance.
+* Participated as a team member in designing the user interface using
+  HTML and CSS to make the interface use-friendly, especially
+  child-friendly.
+* Applied jQuery validation plugin to validate the user input and to
+  improve user experience.
+* Worked in form validation using JavaScript for providing the user
+  interface and communication between the client and server.
+* Hands on JSON for data transform and page transform.
+* Implement the function of automatic Email notification referring
+  confirmation, rescheduling and promotions through JavaScript and
+  jQuery.
+* Conducted unit testing and end-to-end testing on the supported
+  browsers.
+* Wrote a script file in JavaScript and jQuery to handle the events that
+  were triggered by the users.
+* Provide the users with the physical status form regularly with
+  information about their workout frequencies, physical data, etc. using
+  JavaScript and SQL Server.
+* Used JavaScript to link the website to the social websites with
+  feedback features and accomplished the function of online voting for
+  customers.
+* Used CSS/CSS3 to embed the online videos for product introduction.
+* Communicate with other members in the team to better understand the
+  functional requirements and transfer them into technical requires.
+* Participated in building up the online chatting Q&A pop-up section as
+  well as the feedback features using CSS3 and JavaScript.
+* Designed the login system using jQuery.
+* Worked with other members in the group, committed code change using
+  version control tool SVN and merge code from other developers using
+  tool Win Merge.
+* Experienced debugging and solving cross-browser compatibility
+  problems.
+* Participated in the maintenance of the website.
+Environment:
+HTML/HTML5, CSS/CSS3, JavaScript, jQuery, AJAX, JSON, XAMPP, SQL Server,
+SVN
+
+Intergraph, Hyderabad, India
+Sep 2007 - Oct 2010
+UI Developer
+
+Responsibilities
+* Worked closely with product management teams to strategize design
+  solutions, produced navigation flows and prototypes.
+* Instrumental role in the development of Hi-fidelity prototypes using
+  HTML, HTML5.
+* Designed the user interface and navigation for the whole web
+  application using XHTML, XML.
+* Created cross-browser compatible and standards-compliant CSS-based page
+  layouts usingCSS margin, CSS padding, CSS table, Pseudo classes, Pseudo
+  elements and CSS behaviors in CSS andCSS3 Background, CSS positioning,
+  CSS3 text, CSS3 border.
+* Designed animated icons, vector images, banners, templates and
+  presentations with the help of Macromedia Flash MX and Action Script
+  2.0
+* Created client side validation tool using JavaScript.
+* Created Test Plans for Unit Testing and System Testing.
+* Involved in supporting the User Acceptance Testing for the first
+  implementation.
+* Devised optimal Human Computer Interactions by minimizing dialogue and
+  reducing ambiguity in various project screens.
+* Drafted usability evaluation as needed in planning, preparation, and
+  follow up so that, each design iteration was evaluated effectively, and
+  at the correct time.
+Environment
+HTML, HTML5, DHTML, XHTML, CSS, CSS 3, XML, XSL, XSLT, ExtJS, JavaScript,
+jQuery, Adobe Dreamweaver, Java, JSP, Servlets and Microsoft products.
+
+EDUACATIONAL QUALIFICATION
+
+* Bachelor's Of Technology, Jawaharlal Nehru Technological University -
+  Hyderabad, INDIA

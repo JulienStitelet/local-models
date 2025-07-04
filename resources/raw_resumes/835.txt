@@ -1,0 +1,224 @@
+
+
+PAUL A. LOAYZA
+
+11510 NW 34th Pl. * Sunrise, Fl 33323 * ploayza.m@gmail.com *
+
+(561) 929-0072
+
+
+
+TECHNICAL SKILLS
+
+
+
+MS SQL SERVER 2008 / 2005 / 2000
+
+T-SQL / MDX
+
+ASP.NET 4 MVC
+
+JavaScript / VBScript
+
+Excel 2010 / Access 2010
+
+MYSQL
+
+XHTML / CSS----
+
+Cisco VPN
+
+UML / Erwin
+
+ADO.NET
+
+.NET Web Services
+
+Win XP / 7 / Server 2003
+
+SPSS
+
+C# / VB.NET
+
+MS Project / Visio
+
+AS/400
+
+
+
+CERTIFICATIONS
+
+
+
+MCITP Microsoft Certified IT Professional
+
+SQL SERVER 2008: DBA 70-432 & 70-450
+
+Jan. 16, 2010
+
+MCTS Microsoft Certified Technology Specialist
+
+SQL SERVER 2008: BI 70-448
+
+Apr. 20, 2010
+
+MCTS Microsoft Certified Technology Specialist
+
+SQL SERVER 2008: Developer 70-433
+
+Feb. 15, 2010
+
+
+
+EDUCATION
+
+
+
+Master of Science Information Systems Operation and Management
+
+University of Lima Lima, Peru
+
+Bachelor of Science Business Administration University
+
+of Lima Lima, Peru
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+Senior SQL DBA / Developer
+
+EMAX
+
+03/07 to 04/10
+
+* Administered and Maintenance, tuning, migration, install and Upgrade
+
+(SQL Server 2008 / 2005).
+
+* Designed Disaster Recovery plan and successfully tested it.
+
+* Managed Capacity planning related to SQL database servers (Resource
+
+Utilization) to ensure adequate CPU, Disk, Memory, I/O, etc. Monitor
+
+log files to proactively resolve issues.
+
+* Experienced in SQL Server performance using index tuning wizards, SQL
+
+Profiler and SQL Query Analyzer.
+
+* Evaluated database consistency check, rebuild indexes, and update
+
+statistics.
+
+* Created triggers to keep track of changes to the fields of tables when
+
+changes are made.
+
+* Created and Modified Tables, Stored Procedures, Views, Indexes,
+
+User-defined Functions as required.
+
+* Provided 24x7 on-call and day-to-day support.
+
+
+
+Credit & Collection IT Analyst
+
+TELEFONICA DEL PERU
+
+11/99 to 02/07
+
+* Planned and implemented testability, major software releases/upgrades
+
+of the billing systems (VB.NET, C#).
+
+* Monitor and manage 43 databases at the headquarters running on 6
+
+servers (performance & availability).
+
+* Maintenance, tuning, disaster recovery plan, replication and Upgrade
+
+(SQL Server 2000/2005).
+
+* Designed and populated reporting tables, views and stored procedures
+
+(SQL Server 2000/2005).
+
+* Created utility to upload data between Excel files, AS/400 and SQL
+
+Server. (ETL)
+
+* Responsible for retrieved data from SQL Server and AS400 to create
+
+different financial reports for executive management, providing data
+
+management strategy.
+
+* Implemented and managed delinquent customer tracking tools (SSAS,
+
+Excel).
+
+* Responsible for managing and implementing an automated telemarketing
+
+system of 50K+ calls per day.
+
+* Provided 24x7 on-call.
+
+
+
+Audit Manager
+
+ALMACENERA DEL PERU
+
+01/96 to 10/99
+
+* Managed team of 37 warehouse auditors, 15 on-site and 22 in warehouses
+
+across Peru.
+
+* I created a spreadsheet (Macros and Functions) to decide the daily
+
+route for every one of the 37 Auditors.
+
+* Daily tracking and reporting of merchandise with a value of
+
+$400Million monthly.
+
+* Executive level reporting or dashboards to the Federal Government
+
+entities (Peruvian SEC).
+
+* Responsible for monthly audit of merchandise under financial
+
+warranty.
+
+
+
+Marketing Manager
+
+I.B.M. DEL PERU
+
+07/92 to 12/95
+
+* Manage security, backup and restore on AS400 systems (DB2).
+
+* Developed and implemented marketing strategies, customer letters, Mail
+
+Data Specialist.
+
+* Managed development and administrative activities for the AS/400
+
+platform. (RPG & SQL/400)
+
+* Worked with executive management to enhance strategic business partner
+
+relationships.
+
+
+
+Bilingual: (English-Spanish)
+

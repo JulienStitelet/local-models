@@ -1,0 +1,184 @@
+
+
+Chaitanya CH
+Chaitanyasql246@gmail.com
+Contact: 408.359.6629
+SQL BI Developer
+
+
+Summary:
+    *      7` years of diversified experience in Business Intelligence with an emphasis on Data Warehouse
+      Design, SSIS, SAP BODS, T, -SQL Development, Tableau, Python, Data Modelling, Development and
+      proposing cost effective solutions to meet user requirements.
+    *      Extensive project development experience in ETL using SSIS, SAP BODS.
+    *      Experience in developing, monitoring, extracting and transforming data using DTS/SSIS, Import
+      Export Wizard, and Bulk Insert.
+    *      Excellent in High Level Design of ETL DTS Packages & SSIS Packages for integrating data using
+      OLE DB connection from heterogeneous sources like (Excel, CSV, Oracle, flat file, Text Format
+      Data) by using multiple transformations provided by SSIS such as Data Conversion, Conditional
+      Split, Bulk Insert, Merge and union all.
+    *      Experience in creating packages by using ETL Tools like DTS, SSIS
+    *      Strong data warehouse experience using SQL Server 2000 to 2016 and Oracle10g as the main RDBMS
+       under many platforms.
+    *      Excellent Experience in T-SQL Development like writing stored Procedures, Triggers, Functions,
+      and Views in SQL Server Management Studio (SSMS).
+    *      Hands on experience in Creating Star Schema and Snow Flake Schemas.
+    *      Very good experience in Oracle tools like SQL Plus, SQL Loader, SQL Developer using TOAD in
+      secure databases.
+    *      Well versed in Oracle Database and worked on various versions11g/10g.
+    *      Developing reports on SSRS on SQL Server (2008R2,2012,2017). Sound Experience and
+      understanding of SSAS, OLAP cube and Architecture.
+    *      Proficient in SQL Server and T-SQL (DDL and DML) in constructing Tables, Normalization/ DE
+      normalization Techniques on database Tables.
+    *      Extensively worked in tuning and troubleshooting the SSIS mappings to perform maximum
+      efficiency and performance.
+    *      Involved in writing MDX Scripts for the OLAP CUBES.
+    *      Building and writing MDX Queries, Calculated Members, and KPI's using Microsoft SQL Server
+      2008,2017 Analysis Services Business Intelligence (SSAS, SSRS)
+    *      Hands on experience working with ticketing system Service NOW.
+    *      Experience in SAP BO Data Services as ETL tools.
+    *      Working Knowledge in Tableau and Microsoft POWER BI
+    *      Can work through Python and java scripts.
+    *      Identified Key Performance Indicators (KPI) and Metrics for Business needs in SSAS 2008
+    *      Sound analytical and problem solving skills.
+    *      Extensive experience in coordinating development effort, ensuring on time deliverables and
+      status reporting to management.
+    *      Expert in defining and deploying Cubes using SQL Server Analysis Services (SSAS).
+    *      Successfully deployed reports in various sources like XML, Web browser and PDF
+    *      Excellent communication skills in both verbal and written forms.
+
+
+Education:
+    *      Bachelors of Technology in Computer and Sciences.
+
+Technical Skills:
+
+SQL Server Tools    SSMS,BIDS, Enterprise Manager, DTS, Profiler, DTA, Upgrade Advisor
+ETL & Reporting Tools    SSIS, SSRS, SSAS, BIDS, DTS, Business Objects, Informatica 7.1.3/6.2
+Databases    SQL Server 2000/2005/2008/2008 R2,2012 MS Access, Oracle
+Programming Languages    SQL ,T-SQL, PL/SQL, VB, C#, ASP.NET
+Operating System          Windows Server 2000/2003,2008, 2008 R2, Windows NT 4.0
+Windows    XP/98/95,MS DOS, Linux.
+Scripting          HTML ,XML, VBScript, JavaScript, ASP, C#, ASP.NET, VB.NET, ADOMD.NET
+Tools          Erwin ,Visual Studio 2008/2005 and SharePoint, Report Builder 1.0/2.0/ 3.0
+
+
+
+Work Experience:
+
+Intuitive Surgical Inc. - Sunnyvale, CA                                                March 2019 - Till date
+BI SQL Developer
+
+Intuitive Surgical, Inc. designs, manufactures, and markets da Vinci surgical systems, and related
+instruments and accessories in the United States and internationally. The company's da Vinci
+Surgical System include surgeon's consoles, patient-side carts, 3-D vision systems, da Vinci skills
+simulators, da Vinci Xi integrated table motions, and Firefly fluorescence imaging products that
+enable surgeons to perform various surgical procedures, including gynecologic, urologic, general,
+cardiothoracic, and head and neck surgical procedures. Intuitive Surgical, Inc. was founded in 1995
+and is headquartered in Sunnyvale, California.
+
+Responsibilities:
+    *      Actively interacted with Team Members and Project Management team to analyze the business
+      process and requirements.
+    *      Implemented and supported ETL processes (BODS) to migrate large data volumes from multiple
+      source systems: CRM (SAP), ECC (SAP) into an enterprise data warehouse.
+    *      Worked on developing, monitoring, extracting and transforming data using DTS/SSIS, Import
+      Export Wizard, and Bulk Insert.
+    *      Used ETL (SSIS) to develop jobs for extracting, cleaning, transforming and loading data into
+      data warehouse.
+    *      Experience on creating Packages with Visual studio 2017,2019.
+    *      Strong experience on SQL Server Database
+    *      Scheduled and monitored T-SQL Jobs for Full and Incremental loads.
+    *      Scheduled jobs to execute BO objects, which were developed to update database objects daily
+      and maintained nightly loads of data by creating the corresponding tasks.
+    *      Performed migration of Microsoft SQL server to Azure SQL database.
+    *      Extensively worked on writing of SQL query, T-SQL, batchjobs, optimizing batch processes well
+      tuning various ETL jobs.
+    *      Expertise in SQL Server Integration Services (SSIS) and with good knowledge on Tableau Reports
+      .
+    *      Involved in creating multiple parameterized stored procedures, Views which were used by the
+      reports to get the data.
+    *      Worked on writing of Custom SQL queries for Tableau Reports.
+    *      Created Functional Requirement Specification document as well as Design Specification Document
+      based on User Requirement Specification document.
+    *      Extensively using joins and sub-queries for complex queries which were involving multiple
+      tables from different databases. Analyzing data and re-mapping fields based on business
+      requirements.
+    *      Good Hand on Resolving complex issues and Error Handling in SSIS.
+    *      Extract Transform Load (ETL) development using SQLServer2016, SQL2017, SQL
+      2008R2IntegrationServices (SSIS).
+    *      Involved in bug fixing of the current production issues and delivery in short time frame.
+    *      Used table variables and Common Table Expressions (CTEs).
+    *      Provided Knowledge Transfer to the end users and created extensive documentation on the
+      design, development, implementation, daily loads and process flow of the mappings.
+Environment: MSSQLServer Management Studio, Business Object Data Services (BODS), SSIS, Tableau,
+Windows XP, XML, MS Excel, Service Now.
+
+Cardinal Health                                                      Feb 2017 - January 2019
+SQL Developer
+
+Cardinal Health, Inc. operates as an integrated healthcare services and products company in the
+United States and internationally. It provides customized solutions for hospitals, healthcare
+systems and pharmacies. The company operates through two segments, Pharmaceutical and Medical. The
+Pharmaceutical segment distributes branded and generic pharmaceutical, specialty pharmaceutical. In
+addition, this segment distributes a range of national brand products, including medical, surgical,
+and laboratory products; and provides supply chain services and solutions to hospitals, ambulatory
+surgery centers, clinical laboratories, and other healthcare providers. Cardinal Health, Inc. was
+founded in 1979 and is headquartered in Dublin, Ohio.
+
+Responsibilities:
+    *      Created databases and schema objects including tables, indexes and applied constraints,
+      connected various applications to the database and written functions, stored procedures and
+      triggers.
+    *      Used ETL (SSIS) to develop jobs for extracting, cleaning, transforming and loading data into
+      data warehouse.
+    *      Prepared the complete data mapping for all the migrated jobs using SSIS.
+    *      Designed SSIS Packages to transfer data from flat files to SQL Server using Business
+      Intelligence Development Studio.
+    *      Extensively used SSIS transformations such as Lookup, Derived column, Data conversion,
+      Aggregate, Conditionalsplit, SQL task, Script task and Send Mail task etc.
+    *      Maintained a series of UNIX Shell Scripts to manage batch order processing.
+    *      Deploying and Scheduling Reports using SSRS to generate all daily, weekly, monthly and
+      quarterly Reports including current status
+    *      Generated parameterized reports, sub reports, tabular reports using SSRS 2016
+    *      Made Master Child package using variables and Execute package task in SSIS.
+    *      Used Execution Plan, SQL Profiler and Database Engine Tuning Advisor to optimize queries and
+      enhance the performance of databases.
+    *      Developed Shell scripts for job automation and daily backup.
+Dealer Track Inc. -NY                                                      May 2015 - December 2016
+SQL Server BI (SSAS, SSRS, SSIS) Developer
+
+Dealer track operates the largest online credit application network in North America. In addition,
+Dealer track's award-winning solution set for dealers is the industry's most comprehensive including
+a Dealer Management System (DMS); Inventory, Sales/F&I, and Interactive; a web-based network for
+arranging vehicle transportation and shipping; electronic motor vehicle registration and titling
+applications; paper title storage; and digital document services.
+Dealer track and its web-based software solutions and services enhance efficiency and profitability
+for all major segments of the automotive retail industry, including dealers, lenders, OEMs,
+third-party retailers, agents, and aftermarket providers.
+
+Responsibilities:
+    *      Business requirements gathering, proposing a system design.
+    *      Extract Transform Load (ETL) development using SQLServer2005, SQL2008, SQL
+      2008R2IntegrationServices (SSIS).
+    *      Creating New Data Warehouse and loading the data from different source systems.
+    *      Coordinated with source system owners, day-to-day ETL progress monitoring, Data warehouse
+      target schema design (Star Schema) and maintenance.
+    *      Created SQL Server Reports using SSRS2008.Identified the data source and defined them to build
+      the data source views.
+    *      Worked on Visual studio Script task using VB.net and C#
+    *      Experience in Developing and Extending SSAS Cubes, Dimensions and data source view
+      SSAS-Datamining Models and Deploying and Processing SSAS objects.
+    *      Developed Analysis Services Project. Developed, deployed and monitored SSIS Packages including
+      upgrading DTS to SSIS. Responsible for identifying and defining Data Source and Data Source
+      views. Created cubes and defined the dimensions.
+    *      Generated parameterized reports, sub reports, tabular reports using SSRS 2008
+    *      Made Master Child package using variables and Execute package task in SSIS.
+    *      Deployed, Tested and Scheduled SSIS packages.
+    *      Deploying and scheduling Reports using SSRS to generate all daily, weekly, monthly and
+      Quarterly Reports including current status.
+    *      Developed incremental loading using MERGE statement in SQLserver2008R2.
+    *      Experience in Data Warehouse Modeling with SQL Server Analysis Service(SSAS)
+Environment: SQL Server 2008R2, SQL Profiler, SSIS, SSRS, SSAS, SQL*Plus, MS Visio, T-SQL, Visual
+Studio 2008R2/2012, ERWIN, MS Office, SQL, Oracle 10g, Tableau.
+

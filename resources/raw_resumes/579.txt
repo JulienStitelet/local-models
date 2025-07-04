@@ -1,0 +1,52 @@
+
+Cristopher De La Cruz
+cidlc@pm.me       *   (864) 431-6281      *   Roebuck, SC
+
+WORK EXPERIENCE
+
+BMW Manufacturing Co., LLC                                                                Aug 2022  - Present
+Data Analyst Intern                                                                                               Greer, SC
+*  Created new and maintain existing Power BI dashboards for reporting various critical department KPIs.
+*  Lead an effort to connect transactional SAP data to AWS data lake (BMW Cloud Data Hub) for greater data
+   accessibility with the purpose of improving and accelerating critical department KPI reporting.
+*  Lead a digitalization effort to onboard over 2,000 vendors to an electronic invoicing portal with the purpose of
+   removing process waste and eliminating manual, lengthy processes.
+TD SYNNEX                                                                               May 2022   - Aug 2022
+Credit & Finance Intern                                                                                       Greenville, SC
+*  Supported FP&A team in producing budget and periodic forecasting to aid senior management in decision
+   making.
+*  Supported FP&A team in analyzing forecast model outputs and optimize them with the purpose of improving
+   performance, minimize risk or capture new opportunities.
+*  Supported FP&A team in capital allocation of specific vendor products and report on various best and worstcase
+   scenarios.
+BMW Manufacturing Co., LLC                                                               Jan 2022             - May 2022
+Data Analyst Intern                                                                                               Greer, SC
+*  Created an automated KPI dashboard that rated supplier part quality and logistics performance by performing
+   descriptive and diagnostic data analysis on relevant data points from Oracle databases.
+*  Created a Power BI dashboard that tracked the manufacturing progress of manufactured cars daily by
+   aggregating and summarizing relevant data points from Oracle databases.
+*  Inspected tier-2 and 3 suppliers on a weekly basis to determine if necessary leadership, organizational structure
+   and operational process controls were in place to meet purchase contract material and service requirements.
+
+CERTIFICATIONS
+
+*  Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+*  Microsoft Certified: Azure Data Fundamentals (DP-900)
+*  Microsoft Certified: Azure Fundamentals (AZ-900)
+*  Microsoft Certified: Power Platform Fundamentals  (PL-900)
+*  Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+
+EDUCATION
+
+University of South Carolina Upstate                                         Expected Graduation May 2024
+Bachelor of Arts in Information Management Systems                                                          Spartanburg, SC
+Minor in Business Administration
+*  MLK Dreamer Scholarship, LIFE Scholarship
+*  Secretary of the Computer Science Club (2021)
+*  Jesse Bridges Investment Society, University Business Society, Accounting & Finance Club
+
+SKILLS
+
+SQL (T-SQL); Microsoft Power BI; SQL Server Management Studio; Microsoft Excel; Data Analytics; Databases; Data
+Visualization; Leadership; Communication; Teamwork; Problem Solving
+

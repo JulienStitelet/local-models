@@ -1,0 +1,93 @@
+
+Robert W. Huber
+1732 6th  Ave. Apt. 1 Oakland CA 94606  *  510-761-5066  *  rw_huber@yahoo.com
+
+Summary	Extensive quality assurance experience
+
+?	Proven track record of ability and judgment in quality definition.
+?	Agility with multiple assignments.
+?	Confident with all levels of management.
+Experience 	      
+ Software QA Technician (Contractor)
+ Manpower Professional
+ August 2007 to December 2008
+ February 2009 to November 2009
+
+?	Performed Final Test Protocol Acceptance prior to s/w release
+?	Assisted  in review and correction of test protocols prior to final  acceptance testing
+?	Performed functionality, regression, black and gray box testing
+?	Collaborated with SW development with extensive discovery testing
+?	Performed documentation editing and writing, when necessary
+	 Software QA Technician Consultant
+ Magnum Semiconductor, Milpitas CA
+ June 2006 to August 2007
+
+?	Tested and analyzed  daily and release candidate builds, requiring extensive regression testing
+?	Generated Excel & Testlog? reports for engineering evaluation
+?	Entered bug reports and fixes via Bugzilla  system
+?	Verification testing of known and resolved s/w defects
+?	Ran Final Systems Testing prior to shipment for Beijing engineering acceptance
+
+ Test Technician/Quality Assurance Inspector
+ Coastcom, Alameda CA
+ June 2000 to August 2004
+
+  Performed all manufacturing quality assurance functions.
+
+?	Consolidated receiving and in-process quality functions.
+?	Worked with engineering, marketing and vendor to reduce out of box assembly
+failures from 90% to 10%
+?	Teamed with engineering and quality management in defining new product final system testing
+?	Represented quality department for final customer buyoff on Boston's "Big Dig "project
+?	Initiated manufacturing, quality and test procedures updates for ISO 
+audits
+?	Maintained calibration schedules and records.
+	
+  Quality Control Inspector
+  Harbor Plastics, Richmond CA
+  February 1999 to February 2000
+?	 Approved tool and materials setups prior to production runs
+?	Identified discrepant conditions and developed collaborative corrective actions during production runs.
+?	Provided training for 2nd and 3rd shift inspection personnel.
+	
+  Quality Control Inspector
+  Coastcom, Alameda CA
+  April 1996 to February 1999
+
+?	Approved all parts and subassemblies prior to release to stock
+?	Inspected and approved all finished goods
+?	Performed First Article inspection
+?	Managed and maintained calibration accounts
+?	Performed Source Inspection and assisted in ISO audits
+	 Quality Assurance Technician
+ Nellcor, Hayward CA
+ August 1987 to September 1993
+
+?	Restructured test procedures that resulted in higher final product yields.
+?	Traveled extensively to OEM sites for manufacturing and quality verification.
+?	Validated hardware and software test protocols for engineering.
+?	Initiated manufacturing, quality and test procedures updates for ISO and FDA
+Audits.
+?	Maintained and revised calibration account schedules and records.
+?	Released all RMA repairs, including Red Tag items, for Customer Return 
+Education	
+ Technical Writing and Communications Certificate
+ San Jose State University, Professional Development Center
+
+  A.A. Liberal Arts Major
+ Monroe Community College, Rochester N.Y.
+ 36.5 credit hours completed in Liberal Arts A.A. program.
+
+Skills
+
+
+	
+ Microsoft Word & Excel
+ Bugzilla defect tracking system
+ HTML, CSS  basics
+ ISO, GMP, FDA  document  review auditing
+ IPC 600, 610 Standards
+ HyperTerminal & Docklight basics
+
+References	
+References available on request.

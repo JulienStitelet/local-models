@@ -1,0 +1,62 @@
+
+Rhett I. Keffer Jr.
+rhett_keffer@yahoo.com
+44 Village Park Drive
+Grove City, PA 16127
+724-372-0633
+
+OBJECTIVE
+   * Earn a challenging and exciting position as an Electrical/Controls
+     Engineer, with the goal of advancing my knowledge in automation,
+     controls, and testing procedures.
+
+EDUCATION
+   * Penn State Erie, The Behrend College, May 2013
+   - Major: Electrical Engineering
+   - Cumulative GPA: 2.57
+
+WORK EXPERIENCE
+   * Master Maintenance Technician                June 3, 2014 - Present
+   Dairy Farmers of America                    West Middlesex, PA
+   - Troubleshot and repaired automated equipment used to produce
+   shredded cheese.
+   - Prepared and installed new equipment throughout the plant.
+
+   * Test Engineer                                   March 3, 2014 - May
+     15,2014
+AGCO Corporation                               Jackson, MN
+      - Calibrated and installed various test instruments on equipment
+        and test stands based on requirements passed down from
+        engineering.
+      - Assisted other Test Engineers in carrying out tests pasted down
+        from engineering.
+
+   * Machine Operator and Assistant Store Manager               May 2010
+     - October 2013
+Seivers Farm Market                          Grove City, PA
+      - Operated and maintained a Case 8880, Hesston 8500 and a Case 1845
+        Skid Steer in various farming situations
+      - Worked with the public selling a variety of produce and goods at
+        the main store. While also organizing delivery of produce to six
+        separate stands.
+
+   * Communications Systems
+   * Electronic Circuit Design
+   * Electrical Circuit Analysis
+   * Signals and Control Systems
+
+RELATED COLLEGE COURSES
+   * PLC and HMI/SCADA Systems
+   * Electromagnetic Fields and Waves
+   * Embedded Controllers
+   * Circuit and Device Analysis
+   * Energy Conversion
+
+SKILLS
+   * Software: RSLogix5000, Factory Talk View Studio, MPLAB IDE, MATLAB,
+     Glyphworks nCode 9.1, Dewesoft X, Microsoft Office Suite, PSpice
+     Circuit Simulation
+   * Hardware: Allen Bradley PLCs, Windows 7, XP, HP-PC, eDaq Data
+     Collection, Data Collection Instrumentation
+   * Mechanical: Automobiles, Farm Equipment, Heavy Machinery, Production
+     Machinery

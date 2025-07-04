@@ -37,8 +37,8 @@ class PromptResponse(BaseModel):
 # Variable globale pour le modèle
 llm = None
 
-parser_profile = MinifiedPydanticOutputParser(pydantic_object=ProfileResponse)
-parser_skills = MinifiedPydanticOutputParser(pydantic_object=SkillsResponse)
+# parser = MinifiedPydanticOutputParser(pydantic_object=ProfileResponse)
+parser = MinifiedPydanticOutputParser(pydantic_object=SkillsResponse)
 
 
 @asynccontextmanager
@@ -84,7 +84,7 @@ async def lifespan(app: FastAPI):
 
 # Initialisation FastAPI
 app = FastAPI(
-    title="Gemma 3 API",
+    title="Gemma 3n API",
     description="API pour générer du texte avec Gemma 3 via llama.cpp",
     version="1.0.0",
     lifespan=lifespan,
@@ -93,7 +93,7 @@ app = FastAPI(
 
 @app.get("/")
 async def root():
-    return {"message": "Gemma 3 API is running"}
+    return {"message": "Gemma 3n API is running"}
 
 
 @app.get("/health")
@@ -152,7 +152,7 @@ async def chat_completion(request: PromptRequest):
         input_variables=["human_message"],
         partial_variables={
             "system_prompt": "Extract information from the given raw text resume. Wrap the output in `json` tags",
-            "format_instructions": parser_profile.get_format_instructions(),
+            "format_instructions": parser.get_format_instructions(),
             "important": """Return a JSON object containing only fields that have meaningful values.
 
 - Do NOT include fields with null, empty strings, empty arrays, or missing data.
@@ -179,7 +179,8 @@ Field names must be lower case""",
         # text to dict to obj
         text = output["choices"][0]["text"]
         print(text)
-        match = re.search(r"```(?:json)?\s*([\s\S]*?)```", text, re.DOTALL)
+        # match = re.search(r"```(?:json)?\s*([\s\S]*?)```", text, re.DOTALL)
+        match = re.search(r"```json\s*(\{.*?\})\s*```", text, re.DOTALL)
         # if not match:
         #     match = re.search(r"```json\s*(\{.*?\})\s*```", text, re.DOTALL)
 
@@ -189,9 +190,9 @@ Field names must be lower case""",
             json_str_clean = json_str.strip()
             data = json.loads(json_str_clean)
             print(data)
-            data = parser_profile._remove_none_values(data)
-            minified = parser_profile.minified(**data)
-            r = parser_profile.get_original(minified)
+            data = parser._remove_none_values(data)
+            minified = parser.minified(**data)
+            r = parser.get_original(minified)
             print(r)
             return r
         else:

@@ -1,0 +1,253 @@
+
+SHIJOTHOMAS
+  Bahrain
+  Email: shijoat@gmail.com
+  Mobile:+97335081006
+
+  OBJECTIVE:
+
+
+*      To be part of an organization where my technical and human skills can be effectively utilized and
+I can set levels and standards that exceed expectations & grow both as a person and an Engineer.
+
+  PROFILE:
+
+      *      Professionally qualified Engineer with more than 5 year experience as Software-Developer
+      *      Sound Knowledge in ASP.NET ,C# ,VB.NET ,SQL
+        *      Good interpersonal relationships.
+        *      Fast learner, positive attitude and hardworking
+
+  PROFESSIONAL PROFILE:
+
+        *      Sound knowledge in ASP.NET,C#,VB.NET,SQL SERVER
+     *      4 Year experience as DOT-NET DEVELOPER
+        *      Proficiency in MS SQL-SERVER
+ *      Ability to work with a sense of urgency in an aggressive, multi-tasking environment and meet
+   deadlines.
+  EXPERIENCE:
+
+ Sl.No
+ .
+Company/ Institution
+ From
+ To
+ Designation
+ Description
+ 1     ARP
+Solutions, Kochi
+ January 2012
+ Nov 2014
+ Software Developer
+ Worked as Software Developer using ASP .NET,C# ,VB.NET
+ ,SQL-SERVER
+ 2     Infocom Software Park    Oct 2015    Aug 2017     Software Developer     Worked as Software Developer using ASP .NET,C# ,VB.NET
+ ,SQL-SERVER
+ 3     century gate software
+ solutions
+May 2018
+ Dec 2019
+ Software Developer
+ Worked as Software Developer
+ 4     Almoayed Services    Nov 2021     Software developer     Worked as Software Developer
+
+  TECHNICAL SUMMARY:
+
+  Languages & Frameworks      :      C#,ASP.NET,VB.NET,SQL,,
+
+  Operating Systems      :      Windows 10/8/7/ XP/2000/NT/Vista
+  Database Exposure      :      MS SQL-SERVER
+
+  PROFESSIONAL QUALIFICATIONS:
+
+
+   Course/ Degree
+   Year of passing
+  Percentage
+
+    BCA
+   2011
+  60
+
+  Plus Two
+   2003
+  50
+
+  10th std.
+   2000
+  49
+
+
+  Work Experience :
+
+  ARP SOLUTIONS:
+  Junior Software Developer
+
+ 1)      Project: HMS (07-09-2012 Onwards) Client: Rose Hotels, Chennai
+      Technology Used: ASP.NET,SQL-SERVER 2008,HTML,CSS,JAVASCRIPT
+        Responsibilities:
+               *      To develop forms for Creation, update and Deletion of Rooms,
+               reservations, Customer's, Customer Stay Details.
+ *      To develop forms for Creation, update, Deletion of Kitchen orders, dishes, feedbacks.
+               *      To create necessary Database tables and stored procedures
+         Description:
+             This was a web based project for managing daily activities of a 3 Star Hotel, store
+        data regarding rooms, customer stay details, reservation facilities etc
+Modified this software to detect and correct errors, improve performance, and upgrade interfaces
+
+     2)Project: PHARMACY SOFTWARE( 02-10-2012 to 15-1-2013) Client: NATIONAL PHARMACY,KOCHI
+       Technology Used: VB.NET ,SQL-SERVER 2008 Responsibilities:
+
+              *      To create necessary database tables and Stored Procedures
+                To develop code for creation, update, deletion of Pharmacy Products
+              *      To develop code for generating necessary reports
+              *      Test the code and fix bugs
+              *      Description:
+This was a windows based project for managing daily activities of a Pharmacy, store data's regarding
+Pharmacy products with necessary reports.
+Consulted with clients regularly regarding projects, proposals, and technical issues that arise
+during the development process
+
+     3)Project: SCHOOL-ADMINISTRATION SOFTWARE( 06-03-2013 to 13-06-2013) Client: SAFA ENGLISH
+     MEDIUM SCHOOL
+       Technology Used: C#.NET ,SQL-SERVER 2008 Responsibilities:
+              *      To create necessary database tables and Stored Procedures
+              *      To develop code for creation, update, deletion of Student Details
+              *      To develop code for generating necessary reports
+              *      Test the code and fix bugs
+        Description:
+             This was a windows based project for managing daily activities of a School, regarding
+        Students, Study materials ,Library Fee, Building Funds with necessary reports.
+Consulted with clients regularly regarding projects, proposals, and technical issues that arise
+during the development process
+
+
+
+     4)Project: CATTLE-FARM Software ( 05-02-2014 to 10-06-2014) Client: SURABHI CATTLE-FARM
+  Technology Used: C#.NET ,SQL-SERVER 2008 Responsibilities:
+              *      To create necessary database tables and Stored Procedures
+              *      To develop code for creation, update, deletion of animals, stock of food, milk
+                products
+              *      To develop code for generating nessasery reports
+              *      Test the completed code and fix bugs
+
+   Description:
+  This was a windows based project for managing daily activities of a cattle farm,
+  Store data regarding cattle products etc. for generating reports, waste management etc.
+
+
+     5)Project: CivilEngineersTool( 20-6-2013 to 13-11-2013) Client: DhamodherBuilders
+       Technology Used: Vb.NET ,SQL-SERVER 2008 Responsibilities:
+              *      To create necessary database tables and Stored Procedures
+              *      To develop code for creation, update, deletion of Student Details
+              *      To develop code for generating necessary reports
+              *      Test the code and fix bugs
+       Description:
+  This was a windows based project for managing Materials Usage And its balance And Worke progress
+  with necessary      reports.
+
+
+
+
+  INFOCOM PROJECT
+  Software Developer
+   2)      Project: Hospital Management ( 10-17-2015) Client: PAUL'S HOSPITAL ERNAKULAM , kadamapuzha
+      hospital kanjirapally Technology Used: C#.NET ,SQL-SERVER 2008
+  Responsibilities:
+              *      To create necessary database tables and Stored Procedures
+              *      To develop code for creation, update, deletion of Doctors ,Stock Item in medical
+                store, Room Details
+             *      To develop code for generating nessasery reports using crystal reports
+              *      Test the completed code and fix bugs
+    Description:
+
+  This was a windows based project for managing daily activities of a Hospital Management System
+  ,for generating reports
+
+  Migrate existing VBA software to C# .Net Consulted with clients regularly regarding projects,
+  proposals, and technical issues that arise during the development process
+
+2)Project: HR Management System ( Apr 2016 to may 2017) Client: Infocom software park
+       Technology Used: C# ,SQL-SERVER 2008 Responsibilities:
+              *      To create necessary database tables and Stored Procedures
+              *      To develop code for creation, update, deletion of Details
+              *      To develop code for generating necessary reports
+              *      Test the code and fix bugs
+        Description:
+            This was a windows based project for managing
+
+
+
+
+  CENTURY GATE PROJECT
+  Software Developer
+1)Project Enquiry Management System ( Jan 2019 to Apr 2019) Client: Century Gate ,1000 Kitchen
+       Technology Used:Asp.net C# ,SQL- SERVER 2016 Responsibilities:
+              *      To create necessary database tables ,Stored Procedures , Trigger, View
+              *      To develop code for creation, update, deletion of Details
+              *      To develop code for generating necessary reports
+              *      To Use Bulk Insertion
+              *      To Use to Export to excel, Import to Excel Data From Search option
+              *      Test the code and fix bugs
+        Description:
+             This was a Enquiry management project for managing All types of sales or marketing
+        Related companies
+
+
+
+
+     2)      Project Education Report ( Apr 2019 to Jun 2020) Technology Used:Asp.net C# ,SQL-
+        SERVER 2016 Responsibilities:
+              *      To create necessary database tables and Stored Procedures, Trigger, View
+              *      To develop code for create, update, deletion of Details
+              *      To Use Bulk Insertion
+              *      To Use to Export to excel, Import to Excel Data From Search option
+              *      To develop code for generating necessary reports
+              *      Test the code and fix bugs
+        Description:
+             This was a Education report      project for managing All types of Educational institution
+
+
+               3)Project Work Report ( Apr 2019 to Still Continue) Technology Used:Asp.net C# ,SQL-
+        SERVER 2016 Responsibilities:
+              *      To create necessary database tables and Stored Procedures, Trigger, View
+              *      To develop code for create, update, deletion of Details
+              *      To Use Bulk Insertion
+              *      To Use to Export to excel, Import to Excel Data From Search option
+              *      To develop code for generating necessary reports
+              *      Test the code and fix bugs
+        Description:
+             This was a Work report project for managing All types of Construction Company or
+        Builders They can mention Estimated Price and there Actual price ,They can material and
+        Labor Consumption and to know the Work Progress
+
+
+
+
+   References:
+
+
+    1)Mrs.Reshmi Ajay
+
+     Project Manager, ARP Solutions,
+Mob: +919947448130
+    2)Mr.Premjith
+
+     Project Manager, INFOCOMESOFTWARE PARK
+     Mob: +919895380256
+
+    3)Mr. Joji
+     Project Manager, Century Gate Thrissur
+Mob: +919176615901
+
+
+
+  Other Details:
+
+  Address      :Flat 22 Salmaniya Build No 162 Road 2903 Block 0329 Bahrain Nationality      : Indian
+  Languages known : English, Malayalam
+  Passport Number      : k2840867 Sex      : Male
+  Marital Status      : Married Mobile Number      : +97335081006
+  Email      : shijoat@gmail.com
+
+
+SHIJO THOMAS

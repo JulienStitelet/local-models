@@ -1,0 +1,164 @@
+
+
+
+Douglas A. Snyder    DouglasASnyder@gmail.com    10113 Daufuskie Dr, Charlotte, NC 28278
+(803) 619-9569    linkedin.com/in/douglassnyder
+
+
+A trusted technology leader with a proven record of developing elastic, scalable, and resilient
+technology solutions. A data evangelist who enjoys hands-on data engineering, data design, and
+architecture roles. Focused on building, coaching, and leading technology teams and individuals.
+Highly proficient in cloud-based platforms, project management applications, and software
+development life cycles.
+
+MANAGEMENT EXPERTISE
+ *      Team Building, Coaching, Retention
+ *      Strategic Planning, Solutions Delivery, IT Strategy
+ *      Executive Leadership, Stakeholder Management
+ *      Regulatory Compliance and Audit
+ *      Cybersecurity
+ *      $MM P&L Accountability
+ *      Contract Development, Negotiations, M&A's
+ *      Process Improvements
+
+
+
+TECHNOLOGY SKILLS
+Data and Analytics    SQL Server, MySQL, Snowflake, Azure Synapse, RedShift, Hadoop, MongoDB, Power BI, Tableau,
+ThoughtSpot
+Data Frameworks    DAMA, CMMI, DCAM
+Data Ingestion    Kafka, SSIS/ADF, MuleSoft, APIs, ETL/ELT (FiveTran, Matillion, dbt)
+Cloud Technologies    Amazon Web Services: EC2, IAM, S3, EFS, Route 53, Connect, Transcribe, Elastic Beanstalk, and
+several other services. Equivalent Azure services and technologies. (SaaS, PaaS)
+App Dev    Python, C#, Angular
+
+
+CAREER EXPERIENCE
+Snowflake    6/2022 - Pres
+Senior Sales Engineer    (Remote) Charlotte, NC
+
+Provide pre-sales technical expertise across business verticals looking to use Snowflake as data
+cloud platform.
+ *      Provide 100-level technical coverage across all areas of the Snowflake platform: technical deep
+   dives, security, governance, data science, data lake, data sharing, and cybersecurity as a data
+   platform.
+ *      Developed current state data infrastructure documents for prospects and customers, migration
+   timelines, future state objectives, feature analysis reviews, and budgeting/forecast projections
+
+VoiceSignals    5/2021 - 5/2022
+Chief Technology Officer    (Remote) Salt Lake City, UT
+
+Developed the go-to-market technology strategy for VoiceSignals People Intelligence (SaaS) Platform.
+The platform produced a real-time psychological analysis based on the acoustic features extracted
+from an audio file to provide employees with valuable communication and rapport-building guidance
+with the customer.
+ *      Led the Signal Processing and Machine Learning strategies to acquire, cleanse, extract, and
+   process audio in real-time or post-call which could predict customer/employee target behavior at
+   80%.
+ *      Drove the development of an in-house trait labeling application that enabled a team of
+   psychological assessors to evaluate and score over 5 million audio segments that provided the
+   science behind our machine learning models.
+ *      Implemented and managed VoiceSignals partner marketplace strategy, which allowed potential
+   customers to integrate directly with the platform through third-party marketplaces. Met target
+   marketplace integrations expectations set at 1 per month.
+
+LendingTree    1/2020 - 7/2021
+Director of Special Projects    Charlotte, NC
+
+Tasked with developing and conducting a maturity assessment of LendingTree's data and analytics
+organization to identify the gaps between the as-is environment and the strategic vision to become a
+world-class data and analytics company.
+ *      The data assessment resulted in short-term efforts that increased collaboration between business
+   and technology teams, streamlined the project process, increased tech throughput by 25%, and
+   improved system availability benchmarks by 10%.
+ *      The framework provided a maturity score for data governance, architecture, technology, quality,
+   security, and data management. Owned and delivered on an aggregate increase of 10% over the first
+   year.
+ *      Created a strategic roadmap to transform LendingTree's customer engagement procedures into an
+   omnichannel experience encapsulating all customer touchpoints and business verticals.
+
+Refi.com / First Direct Lending
+4/2016 - 1/2020
+Chief Technology Officer    (Remote) Irvine, CA
+
+Responsible for transitioning First Direct Lending from a consumer direct mortgage originator to
+Refi.com an online lead generation company.
+ *      Responsible for developing technology solutions and partnerships to drive Refi.com's digital
+   marketing initiatives, including affiliate marketing, social media, SEO, retargeting, email
+   marketing, blogs, SMS, and more. Provided daily operational insight into marketing channel
+   performance using Google Analytics and in-house developed reports.
+ *      Implemented an interactive voice program using Amazon's Lex technology that enabled customers to
+   opt-in to a human-free experience over the phone to determine eligibility for various product
+   offerings. This technology initiative resulted in an increase in sales per contact of 7% by
+   reducing sales agent time with customers the company could not service.
+ *      Leveraged outsourced contact center services with in-house technology to drive new lead
+   acquisitions from direct mail, third-party lead buys, and organic web leads. Call center
+   transfers generated 4x revenue versus standard data leads.
+ *      Designed, implemented, and maintained Refi technology software services and infrastructure on
+   AWS. AWS services included Aurora MySQL, DynamoDB, EC2, Elastic Beanstalk, S3, Lambda, Amazon
+   Connect/Lex, Certificate Manager, and Amazon MQ.
+
+
+Guaranteed Rate    7/2015 - 8/2016
+Senior Vice President, Technology & Information Security
+(Remote) Chicago, IL
+
+Managed Guaranteed Rate's acquisition of Discover Home Loans mortgage origination system. Led the
+transition and integration of the technology team, applications, infrastructure, and processes.
+ *      Responsible for decision-making and communication for the implementation of an in-house developed
+   loan origination system. This system supported thousands of users in 200 plus remote offices
+   throughout the country.
+ *      Developed and implemented a multi-tier defense strategy for Guaranteed Rate's information
+   security infrastructure.
+
+Discover Financial Services    6/2012 - 6/2015
+Director Technology    (Remote) Chicago, IL
+
+Managed the integration of LendingTree Loans people, technology, and processes as part of the
+Discover acquisition in 2012 and then drove the transition of services to Guaranteed Rate in 2015
+with Discover's exit from the mortgage space.
+ *      Drove the sale of an in-house developed Loan Origination system in collaboration with the
+   Executive Vice President, President Consumer Banking & Operations of Discover Financial Services
+   to Guaranteed Rate, resulting in hundreds of jobs saved.
+ *      Provided technology leadership in business strategic planning sessions. Developed a technology
+   roadmap leveraging existing technologies, new technological opportunities, cost, current resource
+   skills, and skillset shortfalls to align with the strategic business objectives.
+ *      Deployed a web portal that enabled consumers to check on the status of their loan application.
+   The site also provided the consumer with the ability to identify, upload and eSign required
+   documents. Consumers who leveraged the website resulted in an 11% increase in conversion.
+ *      Implemented a skills-based routing system that drove data, telephony, and chat requests to sales
+   agents based on performance. As part of the lead routing system implementation, deployed dialer
+   technology with a 7-second SLA on first contact.
+
+LendingTree    11/1999 - 6/2012
+Senior Vice President of Technology & Operations
+Charlotte, NC
+
+Managed all aspects of LendingTree's shared technology infrastructure. In addition, responsible for
+the application development teams and systems required to run the LendingTree Loans business
+operation.
+ *      Generated $5M+ in annual technology savings through a process of server consolidation,
+   virtualization realignment, a licensing review and contract renegotiation.
+ *      Implemented a technology solution, as part of the acquisition of First Residential Mortgage that
+   enabled technology systems to be leveraged across 5 US cities. The project was completed in less
+   than 90 days.
+ *      Conducted an offshore vendor evaluation and launched an offshore (India) development capability
+   at $50/hour less (average labor rate) for the existing labor pool.
+ *      Implemented LendingTree's Business Intelligence platform, which included data storage, business
+   analytics software, data governance, and business prioritization.
+
+
+EDUCATION
+University of South Florida    B.S. Management Information Systems (GPA 3.5)
+1990-1993
+
+
+MILITARY
+U.S. Army    Army Electronic Warfare/Signal Intelligence (05H)
+1988-1989
+    Military Intelligence - Top Secret
+
+
+
+
+

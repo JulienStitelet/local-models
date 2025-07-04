@@ -1,0 +1,56 @@
+
+
+MONICA LESTER
+ Clermont, FL | 513-265-1946 | monicalester41@gmail.com
+
+
+
+Professional Summary
+
+Service-oriented with a 23 year background in Information Technology. Core competencies include
+Quality Assurance, Release Management and Problem Solving as well as excellent communication and
+time management skills. Handles tasks with accuracy and efficiency.
+
+Skills
+
+ *      Time Management     *      Critical Thinking
+ *      Administrative     *      Quality Control Analysis
+
+
+Experience
+
+Service Management Analyst II      12/2010 to 05/2017
+Cincinnati Insurance Company - Fairfield, Ohio
+   *      Managed software development release management cycle for Life and policy administration
+     application enhancements to ensure the stability of applications.
+   *      Managed development resources to ensure timely delivery of code, defect fixes and enhancements
+     for specified build/release.
+   *      Facilitated TCAB meetings and documentation of release notes, installation instructions and go
+     live material required for successful release deployment.
+   *      CAB meeting representative.
+   *      Maintained procedure manuals of process improvements.
+   *      Entered and managed change requests in the Remedy system
+   *      Managed defect management lifecycle to ensure customer expectations were achieved with each
+     release.
+   *      Coordinator for IT Service Management best practice including Incident, Change, Problem and
+     Knowledge.
+
+Application Specialist II      11/2000 to 12/2010
+Cincinnati Insurance Company - Fairfield, Ohio
+   *      Created and maintained application user guides and training.
+   *      Provided support on application functionality.
+   *      Developed testing procedures that addressed areas such as database impacts, software scenarios,
+     regression testing, negative testing, error or bug retests, or usability for all environments
+     (i.e. QAT, UAT and PROD)
+   *      Documented software defects, using Quality Center, and reported defects to software developers.
+   *      Maintained spreadsheets for all defects and enhancements for multiple environments.
+   *      Documented test procedures to ensure replicability and compliance with standards.
+
+
+Education
+
+Associates Degree: Business Management Technology      Feb 2016
+Miami University -
+
+ITIL Foundation Certified
+

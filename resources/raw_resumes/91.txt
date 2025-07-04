@@ -1,0 +1,95 @@
+
+
+Harry owumi Madamedon
+DevOps Engineer
+Phone: 803-580-0078 | E-mail: harryowumi4u@gmail.com
+PROFESSIONAL SUMMARY
+
+ *      3+ years in practicing DevOps, CI/CD, Infrastructure automation, quality engineering and release
+   management.
+ *      Jenkins, Terraform, Ansible, Puppet and Docker hands on training on AWS and Azure.
+ *      Skilled in configured hardware, software and troubleshooting experience.
+ *      Strong leadership skills that enable the achievement of productive goals and advance workplace
+   safety initiative.
+
+PROFESSIONAL SKILLS
+
+ *      Setting up CI/CD pipelines using tools such as Jenkins, Maven, Docker, SonarQube, Nexus,
+   Artifactory, Slack and AWS and Azure pipelines.
+ *      Network monitoring, Hardware and software configuration, troubleshooting. Computer proficient,
+   Microsoft word, strong communication ability.
+ *      Extensive experience in setting up CI/CD pipelines using tools such as Jenkins, Maven, Docker,
+   Nexus, Artifactory, Slack and Azure pipelines
+ *      Extensive experience in distributed Agile and Scrum methodologies to develop best practices for
+   software development and implementation
+ *      Experience in migrating applications to both AWS and Azure cloud platforms
+ *      Strong experience in working with version control systems such as Git, GitHub, Bitbucket, Azure
+   Git
+ *      Experience working with developing scripts and automation tools used for building, integrating
+   and deploying software releases to multiple environments.
+ *      Strong hands-on experience in scripting languages such as Groovy, JSON, YAML, Shell scripting.
+ *      Strong experience in code quality and code coverage tools such as SonarQube, JaCoCo and JUnit.
+ *      Good knowledge of virtualization and container technology like Docker. Experience in creating
+   Dockerfiles and working with Docker containers.
+ *      Have good knowledge in Kubernetes and have setup clusters in Amazon EKS.
+ *      Strong exposure to configuration management tools such as Terraform, Ansible.
+ *      Strong knowledge on practicing TDD, automating Junit tests using Maven in Jenkins.
+ *      Strong knowledge in Tomcat, WebLogic servers on different Operating Systems like Windows, Linux
+   VMware, UNIX and Solaris platforms.
+ *      Participated in the release cycle of the product which involved environments like Development, QA
+   UAT and Production.
+
+WORK EXPERIENCE
+
+PepsiCo | Mesquite, TX                                                            09/2019 - Present
+DevOps Engineer
+ *      Installing, setting up & Troubleshooting Ansible, created and automated platform environment
+   setup.
+ *      Set up Git repositories and SSH Keys in GitHub for Agile teams.
+ *      Set up CI/CD pipelines for Microservices and integrated tools such as Maven, Bitbucket,
+   SonarQube, Nexus, Docker, Slack for providing immediate feedback to DEV teams after code
+   check-in.
+ *      Integrated GitHub web hooks into Jenkins to automate the code check-out process. Implemented the
+   setup for master slave architecture to improve the performance of Jenkins.
+ *      Setting up CI/CD pipelines using tools such as Jenkins, Maven, Docker, SonarQube, Nexus,
+   Artifactory, Slack and AWS and Azure pipelines.
+ *      Develop CI/CD pipeline, build and deployment of web applications.
+
+Amazon | Dallas, TX                                                            07/2017 - 09/2019
+Assistance Network Administration
+ *      Maintained system application file and upgraded network and software application to ensure they
+   are up to date.
+ *      Diagnosed and troubleshoot issue related to hardware, software.
+ *      Monitor network and systems configuration file to improve performance.
+SHARP NET | NIGERIA                                                            02/2010 - 09/2016
+Network Administrator
+ *      Installed hardware and software.
+ *      Maintained system application file and upgraded network and software application to ensure they
+   are up to date.
+ *      Diagnosed and troubleshoot issue related to hardware, software.
+ *      Monitor network and systems configuration file to improve performance.
+
+APPLICATIONS/ SOFTWARE
+
+ *      Jenkins, Containers, Ansible
+ *      Source Code Management - GitHub, Bitbucket, Amazon Web Service (AWS), Microsoft Azure DevOps
+   (ADO)
+ *      Jira, Confluence
+ *      Docker
+
+TECHNICAL SKILLS/ PROGRAMMING
+
+ *      Terraform
+ *      Ansible
+ *      JSON
+ *      YAML
+ *      Continuous Integration and Continuous Deployment (CI/CD)
+      EDUCATION AND CERTIFICATIONS
+   Sikkim Manipal University, India
+   Bachelor of Science, IT
+   Professional Development/Certifications
+   DevOps Declaration of Completion
+
+
+   HARRY OWUMI MADAMEDON
+

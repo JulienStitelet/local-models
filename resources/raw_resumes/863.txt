@@ -1,0 +1,119 @@
+
+Tao Ni
+
+San Jose, CA 95135   (503) 475-9578   mailto:nitao4648@comcast.net   https://www.linkedin.com/in/taoni
+
+ENGINEERING LEADER
+Enterprise Software   DevOps   Storage & Availability   Cloud Deployment   Customer Focus
+
+Has extensive experience with software development management with companies such as Veritas,
+Symantec Corp, HP and IBM. Experienced product owner/product manager. Hands-on Software Engineering
+leader. Strengths in building global engineering organizations. Expertise in Agile, Continuous
+integration, Test Driven Development and DevOps. Ability to drive product strategy, roadmap and
+technical architecture. Strong communication and collaboration skills with a big picture focus.
+
+
+
+ *      Project Planning
+ *      Project Management
+ *      Project Implementation
+ *      VMware
+ *      Solaris Zoning
+ *      VirtualBox
+ *      Docker
+ *      AWS,EC2,S3
+ *      Open stack
+ *      Puppet
+ *      Ansible
+ *      Vagrant
+ *      Packer
+ *      VXVM, VXFS, VCS ,NBU.
+ *      Oracle
+ *      DB2
+ *      Java
+ *      C
+ *      PERL
+ *      Shell
+ *      Linux
+ *      Solaris
+ *      Aix
+ *      HPUX
+ *      Windows
+
+
+
+ PROFESSIONAL EXPERIENCE:
+
+Veritas(Previously Symantec) - Mountain View, CA
+Senior Software Development Manager      (2014 - Present)
+
+    *      Lead InfoScale Enterprise Product Development Engineering, including playing key technical
+      lead role for InfoScale Enterprise product line (generates +$400M revenue YoY), addressing
+      InfoScale Enterprise customer deployment needs through continuous customer feedback and
+      introducing new system orchestration and cloud deployment technology into the product line.
+      Oversee release engineering and build teams, drive operational efficiencies across
+      organization by implementing DevOps and continues integration.
+    *      Technical Product Owner for Info Scale Enterprise deployment - Align deployment roadmap to
+      InfoScale Enterprise product requirements, especially focusing on buying to using and ease of
+      use.
+    *      Developed Deployment team - Manage 25 people across 3 geographies. Transformed the team from
+      traditional waterfall development to agile scrum based development team.
+    *      Introduced centralized cloud deployment framework to meet customer needs and keep up with
+      technical trends. Get very good customer feedback.
+    *      Lead and promoting innovation - redesign the deployment architecture, improve install/upgrade
+      performance 60% at phase and reduce large cluster deployment time form 2 days to 10 min in
+      face 2
+    *      Put DevOps into day to day development work flow by utilizing Vagrant, packer, VirtualBox and
+      Puppet, which reduced the overall time and resources needed during development.
+    *      Build good customer relationships with key customers like T-Mobile, Wells Fargo and HSBC....
+      Conduct product demo during development.
+    *      Design and implemented the auto patch creation/testing process which reduced the patch release
+      time from 15days + to 3-4 days with improved quality.
+
+Symantec Corp, Mountain View, CA
+Development Manager      2013 -2014
+
+    *      Focus on InfoScale Enterprise installation experience and introduced install bundle which cut
+      the fresh full patch installation time in half and reduced the system reboot time.
+    *      Oversee release engineering team. Implemented several process improvements which ensured
+      better build/patch quality.
+Symantec Corp, ChengDu, China
+SQA Manager      2012 -2013
+
+    *      Grew ChengDu development team from 9 people to 25 people with healthy team structure, high
+      moral and high productivity.
+    *      Established team stability by hiring key talent and developing rigorous training to onboard
+      team members.
+    *      Lead CPI QA group to deliver high quality products to customer. Successfully finished 2 major
+      releases and 4 minor releases.
+    *      Lead the effort to improved test automation from 82% to 96% and introduced new test framework
+      for easy case development.
+    *      Unified test framework across different product assurance teams and introduced the concept of
+      Cloud testing architecture.
+
+Hewlett-Packard, Fort Collins, Colorado
+CPE Engineer V      2010 -2012
+
+    *      Back-line customer support.
+
+Symantec Corp, Beaverton, Oregon
+Principal Software QA Engineer      2000 -2010
+
+    *      Integration test lead: leading 10 engineering across 2 geographies.
+
+
+
+AWARDS
+Symantec Star: JUNE QUARTER 2006
+
+
+EDUCATION
+
+Masters of Computer Science
+Portland State University, Portland, Oregon
+
+Masters of Automatic Control
+University of Science and Technology Beijing, Beijing, China
+
+Bachelor of Science in Computer Science
+Beijing Computer Institute, Beijing, China

@@ -1,0 +1,78 @@
+
+Page	2
+
+ANBU VADIVOO AARTHI
+
+Email: aarthidaya@gmail.com		Ph: (804)-658-0417
+
+SUMMARY
+
+Certified SCJP professional (98%). Certified ISTQB Tester.
+3+ years of experience across software product development
+(Finacle - Banking Business Unit), design, development and
+testing Online Banking software using J2EE framework, Core
+Banking and Treasury, SWIFT ( Society for
+Worldwide Interbank Financial Telecommunications) and teaching.
+
+Systems and Tools
+
+Languages:  Core Java, EJB, JSP, C, J2EE Framework, Java Script
+Database: Oracle 8i SQL/PL/SQL
+Operating System: Windows, UNIX
+Tools: IBM Websphere Studio (WSAD) tool, WinRunner, LoadRunner, Quick Test
+Professional, Test Director, Visual Source Safe, SCM, CVS Repository
+
+EXPERIENCE
+
+Software Engineer, Infosys, Bangalore		Nov 2003 to Jan 2007
+The Banking Business Unit (BBU) (now Finacle) of INFOSYS
+provides banking solutions. Finacle suite of solution
+comprises Core Banking, eChannels, eCorporate, CRM and Treasury.
+Finacle Front end Personalization: Project to personalize
+the e-Banking pages for an end user.
+This included Logo of bank's choice, Choosing Page scheme, loading modules directly.
+Cash Management System (CMS) upload Module: Designed,
+developed and tested (unit and Integration testing) CMS
+module meant to upload Cash Management files in specified Finacle format.
+Bill Payment Module:  Designed, developed and tested
+components of the module including Customer registration,
+Biller registration, Bank Level Parameters and Adhoc
+Payment. This module enabled end users to pay bill online and at branch.
+SWIFT Enhancements: SWIFT messages are sent from Issuing
+Bank to Negotiating bank or vice versa which
+result in credit or debit of NOSTRO/VOSTRO account.
+Was involved in framing message enhancements in SWIFT.
+Finacle Core Finacle Treasury Interface: Responsible for
+developing and testing the module.
+Module involved development of an interface for the Finacle
+Core User to inquire Current market rate from Treasury.
+Connecting to treasury involved setting up connection to
+the Treasury Server and sending data from Core branch and receiving data from Treasury.
+Dynamic SWIFT Message Generation: Did a proof of Concept to
+check if the prototype could be extended to generate all
+the swift messages dynamically. Then designed the dynamic
+SWIFT message generation. It involved reduction of coding
+from hundreds of files to a single file. This project later got "GEM OF FINACLE AWARD".
+
+PSN College of Engineering and Technology, Tirunelveli, India
+June02 to Dec 02
+Lecturer
+Faculty member in Dept of Electronic and communication.
+Conducted courses on Digital electronics for engineering students.
+
+EDUCATION
+
+B.E. (Distinction), Government College of Engineering,
+Manonmaniam Sundaranar University, Tirunelveli, TN. India 1997-2001
+OTHER
+
+SCJP Certification (98%)
+ISTQB Certification (75%)
+Trained from Infosys Leadership Institute, Mysore. Some major training include
+Java, EJB, JSP and an overview of J2EE framework
+C
+Software Testing
+Oracle 8
+Visual Basic
+RDBMS
+UNIX

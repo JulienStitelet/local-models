@@ -1,0 +1,213 @@
+
+DOUGLAS T. WEAVER
+
+542 Turlington Rd Suffolk, VA 23434 | D.Weaver.Consulting@gmail.com | 757-633-0610
+
+OBJECTIVE
+Seeking a position with a professional organization that can utilize my 20 plus years of proven
+skills in Network Engineering, Network Administration, Network Monitoring, Customer Service, and
+currently holding a Secret Security Clearance.
+
+
+Technical Certifications
+
+ *      MCSA Windows Server 2016 Certification
+ *      Comptia Security+CE Certification 2019
+ *      Microsoft Certified Systems Engineer 2003: Security                  {MCSE 2003: Security}
+ *      Microsoft Certified Systems Engineer 2000: Security                  {MCSE 2000: Security]
+ *      Microsoft Certified Systems Engineer 2003: Messaging                  {MCSE 2003: Messaging}
+ *      Microsoft Certified Systems Engineer 2000: Messaging                  {MCSE 2000: Messaging}
+ *      Microsoft Certified Systems Engineer 2003                        {MCSE 2003}
+ *      Microsoft Certified Systems Engineer 2000                        {MCSE 2000}
+ *      Cisco Certified Design Associate                              {CCDA}
+ *      Cisco Certified Network Associate            {CCNA}
+ *      Cisco Certified Network Professional                              {CCNP}
+ *      Microsoft Certified Systems Administrator 2000/2003: Security            {MCSA 2000/2003: Security}
+ *      Microsoft Certified Systems Administrator 2000/2003: Messaging            {MCSA 2000/2003: Messaging}
+ *      Microsoft Certified Systems Administrator 2000/2003                  {MCSA 2000/2003}
+ *      Microsoft Certified Professional                                    {MCP}
+ *      Fiber-Optic Certified      {U.S. ARMY}
+ *      Wire Systems Installer / Maintainer Course      {U.S. ARMY}
+ *      Communications-Electronics Installers Course (BIC)      {U.S. ARMY}
+ *      Fiber-Optic Certified      {U.S. ARMY}
+ *      Wire Systems Installer / Maintainer Course      {U.S. ARMY}
+ *      Communications-Electronics Installers Course (BIC)      {U.S. ARMY}
+
+
+
+TECHNICAL SKILLS SUMMARY
+
+ OS & Enterprise Apps      Windows NT/2000/2003 Server, Exchange, Trend Micro Antivirus, ISA firewall,
+                     Proxy Server, Linux Red Hat Fedora 2, VM Ware, Terminal Server, 2003 & 2006
+ Desktop Technologies      Windows 10/7/98/NT/2000/XP, Microsoft Word, Excel, Access, PowerPoint,
+                     FrontPage, Internet Explorer, Mozilla Firefox, Scanners, Stand Alone, and
+                     Desktop Networked Printers
+ Cable Technologies      OTDR, Wire Scope, Power Meters, Red Light Tester, Fusion-Splicing, CAT-5, CAT-6,
+                     Coax, Fiber-Optic, Single, Multi-Mode
+ Electronics      Oscilloscopes, Multi-Meters Logic Probe, Prototyping Breadboard
+                                                          Multisim Simulation programs
+Equipment Operation      U.S. ARMY 2 1/2, 5 TON Tactical Vehicles, HumVee, Manual, Automatic
+ForkLift
+                                                           Power Drills, Ban Saw, Grinders,
+   Reciprocating Saw, Power Saws
+
+
+PROFESSIONAL WORK HISTORY
+
+Network Monitoring Analyst       Valdez International      Hampton, VA - January 2020 - Present
+As a Network Monitor I utilize tools such as SolarWinds, and SCOM to monitor the network and provide
+proactive and reactive identification of network infrastructure problems across the enterprise. I
+follow and execute established network monitoring procedures to quickly identify troubleshoot, and
+resolve network incidents which negatively impact the enterprise capabilities and report network
+status to Network Operations Controllers as events unfold and track incidents to resolution. I
+perform routine, scheduled hardware and software checks on Infrastructure and core services which
+will be documented in our Master Log. I collect and document all available data on potential and
+actual problem areas in order to support rapid hand-off of problems to management, or incident
+response teams when necessary. I do daily routine scans of our Remedy incident ticket system, and
+resolve and escalate as necessary to the appropriate internal organizations for incident resolution.
+I add delete, configure, and troubleshoot all nodes on the network using the SCOM, and SolarWinds
+monitoring tools, and applications.
+
+
+Construction Assistant Callis Construction      Suffolk, VA - September 2018 - January 2020
+I am a construction assistant that assists with site cleanup and grading work, and taking phone
+calls to picking up and delivering materials to the job site, and coordinating and documenting all
+information with other trade personnel as needed
+for all materials to be on site so each trade can do their job efficiently and get all work done by
+estimated deadlines.
+
+
+
+
+Communication Specialist Spectrum Services Group Portsmouth, VA - November 2016 - August 2018
+As a Communication Specialist for (NMCP) Naval Medical Center Portsmouth we monitor all buildings
+inside and
+out through our camera systems. We also monitor the Hugs Tag system, and C-Cure system which alarms
+us of
+any Intrusion Alarms, and Hugs Tag baby alarms for each baby on all the hospital wards. We follow a
+preplanned
+response protocol for each code that we call in the hospital. We are in charge of keeping a key log
+for the signing
+in and out of keys for all hospital staff and military personnel. We do four daily pager recall
+roster test checks for proper functionality and accountability of all pagers used by our Doctors and
+Nurses. We communicate through landline phones
+and 2-way radios with the NSA security team to go investigate code calls and Intrusion Alarm calls.
+We take rough draft notes throughout our shifts and transfer them into our daily electronic log
+journal. We monitor all of NMCP fire panels for code red calls for all types of building fires. At
+the end of each shift we do a brief pass down of any important information the oncoming shift needs
+to know. We do a checklist sheet at the beginning of each shift to make sure all equipment is in
+good working order.
+
+
+IT Consultant / Software Troubleshooter      Suffolk, VA 2008 - November 2016
+Walked customers through troubleshooting their computers and printers, such as doing checks for spy
+ware and viruses. Fixed and troubleshot all Dell, and various other installed programs and Microsoft
+applications. Walked customers through OS Reinstalls, Driver Reinstalls and application
+installations for windows XP, VISTA, windows 7 and windows 10. Troubleshot and fixed Microsoft
+Outlook and Outlook Express email issues. Helped customers with cookie cleanup, disk cleanup, and
+registry clean up. and defragmentation. Helped customers with file and data recovery and backup by
+using CDR, CDRW blank CD'S, USB flash drives and external hard drives, and set up and troubleshot
+Symantec, McAfee, and Trend Micro anti-virus software's.
+
+
+Security Professional       Multiple employers      VA Beach, VA October 2010 - November - 2016
+I have provided customer and security service to patrons in multiple venues (restaurants, night
+clubs, and, department stores) by answering any questions and offering assistance regarding the
+subject establishment. I greet customers at the door, check ID's, and do physical pat downs when
+required, as well as wand probe detection. I monitor the subject establishment both physically and
+electronically, for adherence to shoplifting laws and unruly physical conduct that may occur. I am
+directly responsible for the documentation of any verbal or physical incidents that occurred for
+company records. I also work with the surveillance personnel through radio communication, and make
+apprehensions and arrests of customers and employees that were documented or recorded as shoplifters
+through electronic surveillance. I record and generate incident reports as required.
+
+
+Medical Delivery Courier       BAU      PORTSMOUTH, VA      September 2008 - September 2010
+I am working as a professional delivery courier delivering all forms of medicine, medical supplies,
+and equipment to all Nursing Homes and Hospitals in the Hampton Roads area.
+
+
+Doug's Personal Safety Products    Safety Products Business Suffolk, VA      January 2008 - October
+2010
+I have several retail locations set up in the Hampton Roads area where I deliver and sell Personal
+Safety Products from Pepper Sprays, First Aid Kits, Auto Nap Zappers, Door Stop Alarms, and Pet
+Safety Lights.
+
+
+Network Systems Analyst       DRS      IRAQ      July 2007 - December 2007
+Maintained DELL Power Edge rack mount servers, and Cisco 2600, 3700, series routers and Cisco 2950,
+3550, and 3750G series switches on the Non Secure [NIPR], and Secure [SIPR] networks. Setup switches
+and routers for IOS upgrades and port security using Cisco's Sticky Mac. Setup routers and switches
+using Telnet and SSH for remote access. Maintain and monitor networks using the Cisco Network
+Assistant, NTOP, and Whats Up Gold monitoring applications. Documented and designed networks using
+VISIO applications. Familiar with the operation and inputting of keys in the KIV 7, and KIV 19 for
+total encryption of the SIPR, and NIPR, networks. Maintained Cisco 7910, 7940, and 7960 series VOIP
+phones using Cisco Call manager 3.3. Imaged new PCs for the network updated PCs for the network
+using Harris Stat Scan. Used Microsoft Exchange Server 2003 to create, modify, add, and move
+accounts, and users to proper groups and OU'S using Active Directory. Added PC's to the network and
+to the domain through DHCP.
+
+
+Network Administrator       ITT Systems      Afghanistan      March 2007 - July 2007     Setup
+configure, and maintain DELL Power edge rack mount servers, and Cisco 2600 routers and Cisco 2950,
+3550, and 3500 series switches on the Non Secure [NIPR], and Secure [SIPR] and Secure Centrix
+networks. Setup switches and routers for IOS upgrades and port security using Cisco's Sticky Mac.
+Setup routers and switches using Telnet and SSH for remote access. Maintain and monitor networks
+using Solarwinds and Whats Up Gold monitoring applications. Documented and designed networks using
+VISIO applications. Familiar with the operation and inputting of keys in the KIV 7, and KIV 19 for
+total encryption of the SIPR, NIPR, and Centrix networks. Maintain Cisco 7960 series VOIP phones.
+Imaged new PC's for the network.
+
+
+
+Tech Pros Group       LAN/WAN Engineer Program Irvine, CA      August 2006 - November 2006
+Used VM-WARE to install setup and configure Domain Controllers, MS Exchange 2003, and [RIS] using
+windows XP. Installed Active Directory and components such as WINS, DNS, and DHCP. Setup users and
+groups and set permissions and setup client email and internet. Setup and configured Microsoft ISA
+firewalls and branch Domain Controllers servers and hosts for MS network operations. Gained
+conceptual and hands on knowledge of Cisco routers and switches through intense hands on labs on the
+CCNA and CCNP levels. Setup routers and switches with cross-over, roll-over, and straight through
+cables. Configured routers and switches using various routing protocols such as RIP, RIP V2, EIGRP,
+OSPF, and setup Cisco VLANS.
+
+
+System Administrator       EDS      Norfolk, VA      October 2005 - August 2006
+Assisting customers on the Navy Marine Corp Intranet [NMCI Project] with password resets, account
+setup, Microsoft Outlook email issues, spy ware, and virus removal. Assisted customers with RAS
+setup, mapping printers, and installing software applications for customers. Assisted customers with
+NetMeeting and Tivoli remote access tools to resolve issues. Worked in Active Directory using
+Microsoft windows exchange server 2000 for account, and domain lookup for customers. Helped
+customers resolve connectivity issues on laptop and Desktop computers and used the Remedy
+application to document all case issues.
+
+
+Software Dell Help Desk Agent       ICT GROUP   Chesapeake, VA      April 2005 - October 2005
+Walking customers through troubleshooting their computers and printers, such as doing checks for spy
+ware and viruses. Fixed and troubleshot all Dell installed programs and Microsoft applications.
+Walked customers through OS Reinstalls, Driver Reinstalls and application installations for windows
+98, ME, 2000, and XP. Troubleshot and fixed Microsoft Outlook and Outlook Express email issues.
+Helped customers with cookie cleanup, disk cleanup, and defragmentation. Helped customers with file
+and data recovery and backup by using CDR, CDRW blank CD'S, USB flash drives and external hard
+drives, and setup and troubleshot Symantec, McAfee, and Trend Micro anti-virus software.
+
+
+ECPI College of Technology       Virginia Beach, VA      April 2003 - Dec 2004
+Gained conceptual and hands on knowledge through written and physical hands on lab testing. Worked
+on all 7 layers of the OSI model using various protocols TCP/IP, ARP, Trace Routing, Tel-Netting,
+and Sub-Netting. Setup various routing and switching diagrams using VISIO applications. Used various
+routing protocols such as RIP, RIP V2, OSPF, IGRP, and EIGRP for setup and configuration of routers
+and switches. Setup all routers and switches using a combination of cross over, roll over and
+straight through cables. Minored in Electronics taking several classes in Electricity, and
+Electronics gaining written and hands on lab testing knowledge.
+
+
+U.S. ARMY       Wire Systems Installer      Various Locations      May 1996 - May 2000
+Installed maintained, and tested various forms of cabling from Cat 5, Fiber Optic, Coax, Shielded,
+Unshielded, and 26 Pair cabling. Supervised teams and, ran all forms of cabling on base and when
+setting up for field maneuvers training and when deployed state side, and overseas.
+
+
+EDUCATION
+ ECPI College of Technology      AAS Degree in Computer Network Technology            Virginia Beach, VA
+ Tech Pros Group, Inc.              LAN/WAN Engineer Program      Irvine, CA
+ U.S. ARMY                  Wire Systems Installer Course                        FT. Gordon, GA

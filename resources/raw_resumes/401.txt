@@ -1,0 +1,220 @@
+
+
+change management
+
+male      Larry      Hatcher      1203 Briarwood Drive      Water Works      NJ      08401      New Jersey      psteirman@aaaabailbonds.com
+856-416-2368      12/20/2000      21      US
+Resume:
+Profile Overview
+*+ years developing Android apps.
+* **** ********* ** **** store.
+Advanced Java and Kotlin programming skill.
+Hands-on with RxJava, RxKotlin, RxAndroid, RxBluetooth, and Coroutines.
+Apply MVVM architecture, MVP architecture, MVC architecture, and SOLID design principles.
+Experience in planning, designing, developing, and implementing successful large-scale mobile
+projects from client requirements to completion.
+Implemented customized HTTP clients to consume a Web Resource with Retrofit, Volley, OkHTTP, and the
+native HttpURLConnection.
+Experience requirement gathering for Android mobile app projects.
+RXKotlin, RXJava, RXAndroid, and RXBluetooth experience.
+Experience in the use of GIT, GitHub for version control on Android projects.
+Experience in working with Video, Static content, and advertising.
+Experience interacting with RESTful API and data formats like (JSON, XML, etc.) in an Android
+environment.
+Solid relational DBMS skills using MySQL, PostgreSQL, or other DBMS products.
+Fluent in Android SDK/NDK and device driver development.
+Ability to ask the right questions, provide feedback to stakeholders, break down the tasks, and
+create plans to achieve intended results.
+Proven working in Agile (iterative) development (XP, SCRUM, etc.) on Android teams.
+Set up proper interactions of the front-end design and implementation with backend servers.
+Extensive experience with source control tools such as CVS, Rational ClearCase, SVN, and Git.
+Experienced getting Android app approval on the Google Play Store.
+Publish release packages and records.
+Use of multiple MBaaS (Mobile Backend as a service) and cloud integration tools like Parse,
+Firebase, Google Cloud Services, and Amazon Web Services.
+Hands-on with Kotlin Coroutines, LiveData, Android Jetpack, ViewModel, RxJava, Retrofit, Glide,
+ButterKnife., Databiding, Volley, and more.
+Technical Skills Table
+IDEs: Android Studio, NetBeans, Microsoft Visual Studio, Eclipse,
+Incident Report Tracking: Jira, InstaBug, Firebase Crashlytics
+Testing Frameworks: Espresso, Mockito, Junit, MonkeyRunner, Robolectric
+Multithreading: IntentService, AsyncTask, WorkManager, ThreadPoolExecutor, WorkManager, RxJava.
+Kotlin Coroutines, Handler, Looper
+Android UI: Animations, CustomViews, CompoundViews. ConstraintLayout, BottomNavigationView,
+ViewPager, Layout Qualifiers, AnimationDrawable, RecycleView
+Notifications: Firebase Cloud Messaging, Airship
+Version Control Software: SVN, Git, Bitbucket, Visual Source Safe, SourceTree, GitHub, GitLab
+Languages: Android SDK, Java, Kotlin, J2EE, JSP, JavaScript
+Libraries: RxKotlin/Native Libraries, RxJava, Universal Image Downloader, Picasso, Glide, Volley,
+ORMLite, SQLCipher, JUnit, NineOldAndroids, Urban Airship, ViewPagerIndicator, Android System Bar
+Tint library, SecurePreferences, SlidingUpPanel, Crittercism, comScore, Facebook, LiveRail,
+LeakCanary, GSON, Mosh, Jackson, Retrofit, OkHttp, SimpleContentProvider, Schematic, GCM, Google
+Location, Google Maps API, Dagger, Mobile Development, RSA, AES, Retrofit
+Methodologies: Agile, Waterfall, RUP
+Databases: SQLite, MySQL, SQL Server, Oracle, Room, Firebase, Realtime
+Multimedia: Glide, Picasso, ExoPlayer, TextureVideoView
+Continuous Integration Tools: Jenkins, CircleCI, Travis
+Web Services: RESTful, SOAP, JSON, XML
+Work Experience
+My Molina
+Long Beach, FL
+09/2021 - Present
+Senior Android Application Software Developer
+https://play.google.com/store/apps/details?id=com.molina.mobile.myhealthinhand&hl=en_CA&gl=US
+Molina members can sign into the app using their My Molina User ID and Password to access our secure
+features; view health coverage; view your benefits and eligibility; view/download and share ID card;
+make premium payments; manage your payment profile; save favorite doctors; change PCP; access to
+other services; and more.
+Configured app to collect identifiers within Google Firebase to create a unique identifier for each
+application when downloaded.
+Created Custom Views and animations and implemented Android components to specifications (pre-format
+and stable).
+Integrated ExoPlayer with the app's activity lifecycle to support backgrounding, foregrounding, and
+playback resumption to view videos.
+Created an algorithm that filters user input when the user is entering their birthdate in
+registration.
+Migrated JobService to WorkManager API to sync user information, analytics data with RevenueCat SDK.
+Created functional programs to handle adaptive video streams, register event listeners to monitor
+playback state and show how listeners can be used to measure the quality of playback.
+Programmed in Kotlin and applied a MVVM architecture.
+Used the Google Calendar API to achieve deeper integration with Google Calendar and Firebase push
+notifications to add medication and appointment reminders.
+Created set of programming interfaces using Reactive Streams library to define the transmission of
+stream elements regulated through back-pressure and perform serialization/deserialization of the
+data elements using Google Protocol buffers.
+Integrated Stripe Purchases SDK to unlock access to the same subscription content.
+Resolved defects/bugs during QA testing, pre-production, production, and post-release patches.
+Maintained and improved the CI/CD Jenkins pipeline.
+Performed testing procedures using Espresso and Mockito tools.
+Created documentation and flow diagrams in Confluence.
+Applied Kotlin extension functions to efficiently re-use existing codes and reduce code duplication
+to its bare minimum.
+Practiced pair programming in support of best-practice Agile development practices.
+Utilized Espresso for the automated UI testing RecyclerView interactions.
+Utilized Mockito with Retrofit for mocking the API call (Mockserver).
+Used JetPack for Android components to improve back-end management.
+Used RecyclerView extensively to display list data from RESTful web services proficiently.
+Used Leak Canary to manage, trace and fix memory leaks issue within the Android app.
+Used APIs such as GET, POST and PUT to update servers and retrieve information for users.
+Handled user interactions such as button clicks and page swipes.
+Assisted with code reviews on every PR to ensure quality code and a stable development process.
+Worked closely with a present Figma design to bring the developed UI/UX design to life through
+Android Studio.
+Red Lobster
+Orlando, FL
+07/2020 - 09/2021
+Android Software Developer
+https://play.google.com/store/apps/details?id=com.cardfree.android.redlobster&hl=en_CA&gl=US
+Use the Red Lobster app to Earn points toward delicious rewards every time you eat at Red Lobster;
+Take your pick of freebies; Receive notifications about Red Lobster offers and events; Find the
+closest Red Lobster; and more...
+Programed functions/features in Kotlin.
+Programmed Kotlin extensions for commonly used code to reuse it and avoid repeating it everywhere
+it's needed, including loading images into ImageViews, requesting permissions, write/read from
+shared preferences, among others.
+Migrated project to AndroidX to use the newest JetPack libraries.
+Used databinding to reduce code in fragments and LiveData to handle lifecycle data to only update
+the UI when it's available.
+Used Crashlytics to track user behavior and obtain mobile analytics.
+Built app on MVVM architecture.
+Integrated Mapbox SDK to implement a better performing maps experience than the old Google Maps
+implementation.
+Worked with Google Analytics with Tag manager to Firebase analytics.
+Implemented push notifications features with Firebase's Cloud Messaging Service.
+Provided feedback on the design process for all screens for food ordering and ways to reduce number
+of taps needed.
+Joined in the planning of food ordering feature and decide on a direction to go regarding how the
+mobile apps should communicate.
+Implemented new designs using InVision prototype to obtain the assets and optimized them for
+Android.
+Implemented BrainTree SDK for payment processing.
+Migrated database from DBFlow to Room.
+Yahoo
+Sunnyvale, CA
+09/2019 - 07/2020
+Android Software Developer
+https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.weather
+Prepare for your day with the most accurate hourly, 5-day, and 10-day forecasts. Stunning Flickr
+photos match your location, time of day, and current conditions.
+Applied OO design experience.
+Performed build work on a MVP architecture base.
+Programmed in Java and Kotlin and began the shift from Java to Kotlin.
+Used RxJava for most of the asynchronous processes.
+Implemented new custom views to replace old ones from the previous version.
+Implemented Flurry and Google for traffic and usage analytics.
+Utilized ExoPlayer with a DASH adaptive bit rate streaming technique to show ads and videos of the
+locations.
+Wrote code to interact with the RESTful service server, as well as serializing the returned code
+into POJOs via the GSON library.
+Consumed Restful Web service in JSON strings.
+Used reactive frameworks such as RxAndroid, RxBluetooth, and RxKotlin.
+Worked with testing libraries and frameworks JUnit, Espresso, Mockito, and Robolectric.
+Integrated with some distribution services - HockeyApp/TestFairy.
+Developed in Java programming language using the Eclipse IDE and the Android Development Tool (ADT).
+Made use of implicit and explicit intents to access content and other resources from the web.
+Created the database using SQLite local file and a Firebase implementation.
+Integrated early debug builds with a real-time database built with Firebase.
+Set up new Jenkins tasks for nightly builds and continuous integration.
+Modified the navigation and replaced activities with Fragments.
+Implemented the new Material Design capabilities supported in Android Lollipop.
+Used Retrofit to handle the API consumption with a Jackson built-in converter.
+Landry's
+Houston, TX
+11/2017 - 09/2019
+Android Software Developer
+https://play.google.com/store/apps/details?id=net.landrysinc.lac&hl=en_CA&gl=US
+Download the LSC app to manage your Landry's Select Club account, find Landry's locations near you,
+make reservations, view menus, purchase gift cards and more. Find restaurants nearby or search based
+upon city, state or zip code; view menus, make reservations and get directions; and more.
+Generated app build on a MVP architecture.
+Used APIs from different API levels to support backward compatibility.
+Implemented best practices for Android mobile development with their main components: Activities,
+Services, Content Providers and Broadcast Receivers.
+Implemented Push Notifications to notify users when there is a new price update.
+Implemented newer features in Kotlin and migrated older features coded in Java to Kotlin.
+Ensured backward compatibility by using Android support libraries.
+Applied and configured Geo-Fencing capabilities that were built-in with the Google APIs.
+Configured multiple analytic tools to get valuable information on a post-install state: Crashlytics,
+Mixpanel.
+Persisted non-sensitive data with Realm database and ensured that the database was using encryption
+algorithms when persisting user information.
+Secured the database using SQLCipher and Secure Preferences.
+Added Flurry for user behavior tracking and quality control over crashes.
+Used Android Studio as IDE.
+Created unit, integration and stress test cases with JUnit, Espresso, and Monkeyrunner.
+Configured the continuous integration process with a Jenkins instance hosted on a private server.
+Utilized Android and third-party frameworks to use the multithreading capabilities of the physical
+devices: AsyncTasks, IntentServices, Handlers, Threads, RXJava instances.
+Peel Technologies
+MountainView, CA
+01/2016 - 10/2017
+Android Developer
+https://play.google.com/store/apps/details?id=com.peel.remote.control.universal&hl=en_CA&gl=US
+Peel Smart Remote is always good and easy to use a single universal remote-control device to control
+all your electronic equipment tired using different different remote control for each electronic
+device. try universal Peel Smart Remote to use all remote control from your android mobile. no need
+to use different different remote control just use a single app from your phone to handle all your
+device from one remote control.
+Implemented Dagger to address many of the development and performance issues.
+Managed quality build process using Jenkins continuous integration, with a Git repository on a
+private Git server. Git was managed using BitBucket on the existing Android app and we migrated the
+process to SourceTree.
+Created and developed unit testing, instrumentation testing and automation testing for each new
+feature implemented using Junit, Mockito, Roboelectric, Powermock, Espresso, Calabash for Android.
+Used Implicit and Explicit Intents.
+Developed Custom Views, Compound Views, and various layouts to construct the complex but
+user-friendly user interface.
+Worked on Starva Bluetooth BLE SDK to design module to pair with Bluetooth devices and transmit
+large bytes of attributes.
+Designed the UI layout with Balsamiq Mockups wireframe tool for the apps look and feel.
+Ensured display and on-screen rotation worked well on all devices and screen, ensuring integrity
+with the onSaveInstanceState and onRestoreInstanceState methods.
+Used GSON library to deserialize JSON information.
+Handled Fragment data retention to ensure data integrity in Android on-screen rotation with the
+onSaveInstanceState and onRestoreInstanceState methods.
+Engaged with cross-functional teams to define new product requirements, features, and functionality
+in the app.
+Education
+Bachelor of Computer Science from Catawaba College in Salisbury, North Carolina.
+
+

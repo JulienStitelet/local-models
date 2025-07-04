@@ -1,0 +1,237 @@
+
+Fernando Menendez
+
+7102 Alexandra Dr., DE 19702
+Phone: (917) 753-5034 * fmenendez.career@gmail.com
+
+IT Professional
+
+
+ PROFILE:
+
+A dedicated technology professional with over 20 years of solid experience in enterprise and small
+business support environments. A hybrid tech well versed in both Windows and Mac environments with a
+strong focus on client service.
+
+PROFESSIONAL EXPERIENCE:
+
+Calico Corners; Kennett Square,PA 3/28/2022-7/15/2022
+System Administrator (Temporary Contractor)
+Inhouse Systems, Network, and end user support
+VMWare support and maintenance.
+Support of Windows and Graphic users on a Mac Environment.
+Exchange and O365 support in a Hybrid Environment.
+2nd Level response to ticketing system using Service Desk.
+Documentation of IT procedures, operations in Sharepoint.
+Azure and Active Directory administration, configuration and maintenance.
+PDQ Deploy and Inventory for software Deployment and Patch Management
+WSUS for Windows Updates
+Installation of Ingenico Payment Terminals at Calico Corners store.
+Networking experience with TCP/IP, routing, firewalls and subnets.
+Assisted with major company move of router, switches, network devices and PC's.
+
+Fiserv/First Data; Wilmington, DE 9/7/2021-12/31/2021
+IT Support (Temporary Contractor)
+Supporting Windows and Mac users in a dual domain, untrusted environment between Fiserv and First
+Data.
+Setup and support of users in the Wilmington, DE office as part of the RTO (Return to Office)
+initiative.
+2nd level elevated support of remote users on the East Coast. Resolution of tickets as assigned.
+SCCM for deployments and imaging.
+Troubleshooting of network connectivity issues for end users in both the Fiserv and First Data
+domains,
+Configuration of BipIP and Anyconnect VPN's.
+Installation, configuration and troubleshooting of multiple applications: O365, Oracle, Toad, Visio,
+Infopath, and others.
+IOS and Android e-mail configuration and support.
+Setup, configuration and deployment of Windows laptops, and peripheral equipment.
+Projects as assigned.
+
+
+Continental Finance Company, LLC; Wilmington, DE 8/2015-6/2021
+System Administrator - IT Consultant
+Systems, Network, and end user support both in-house and remote.
+Support of over 200 EC2 Instances in AWS (Amazon) cloud. Server builds and configuration.
+AWS Cloud Technology: VPC, EC2, S3, ELB, RDS, ECS, AMI
+Creation of new IAM accounts in the AWS cloud.
+Exchange and O365 E-mail Support in a Hybrid Environment.
+O365 Administration: created and maintained user accounts, distribution groups and shared mailboxes.
+Mobile e-mail support for iOS and Android.
+Configuration and installation of MFA Duo software for user network authentication.
+PBX Support: Maintenance and support of Freepbx Cloud server and Office VOIP phone system.
+Reviewed and implemented Windows Updates for all on prem and AWS Servers.
+Active Directory administration, configuration and maintenance.
+Networking experience with TCP/IP, routing, firewalls and subnets.
+Liaison to 3rd party vendors and IT support Personnel.
+Tableau server and desktop configuration, software and Tableau user support.
+Support of SAGE server and software for the accounting department.
+Support of SAS servers for the Risk Management department.
+Configuration and support of OpenVPN, Forticlient, and Virtual Machines for end user remote
+connectivity.
+Documentation of IT procedures, operations, and network topology.
+Installed, configured, tested and maintained operating software and system management tools.
+Familiar with the principles and practice of configuration for change management and releases.
+Configuration of Cerebus SFTP server for remote FTP vendors.
+Troubleshooting of day to day software, and infrastructure issues.
+Onboarding of new hires; creation of O365 and AD accounts. Building of new user VMs in the AWS
+cloud.
+Executive support of CEO, CFO, President and upper Management.
+Fernando Menendez
+
+(Continental Finance Company, Cont'd)
+Conference Room AV setup and configuration using TEAMS.
+Varied projects as assigned.
+
+Publisher's Clearing House; Port Washington, N.Y. 5/2015-8/2015
+IT Mac OS X Desktop Support Consultant
+Assisted in the deployment project roll out of Mac minis, iMac desktops, and laptops for PCH users
+Software and hardware configuration, upgrades and installation of all Mac desktops and laptops
+Creation of Software packages for Mac using Package Maker and Casper.
+Software maintenance, support and network configuration of iMac desktops.
+Troubleshooting of software, hardware and connectivity issues.
+
+Consolidated Data Services; NYC 11/2014 - 3/2015
+IT Support Consultant
+As the sole IT support technician in a mixed Windows and Mac OSX environment consisting of 60+ users
+including upper management;
+Providing day to day technical support via telephone, e-mail, remote access, and face-to-face
+Installation, configuration, deployment and troubleshooting for all laptops, desktops, workstations
+and mobile devices..
+Administration of Active Directory platform.Setup of end user Exchange e-mail accounts through Cloud
+PortalSupport of software, core and business apps including Adobe CS6, MS Office Suite 365;
+Configuration of Outlook Client for exchange e-mail, Time Machine backups, Safari, Firefox and
+Chrome and Internet Explorer browsers, Filezilla and Putty for FTP transmissions, updating of user
+database in Filemaker, UTC server support, Windows Server support. Sophos Antivirus software,
+installation of Computrace for laptops, Network VPN setup and maintenance.
+Setup of user i.p. telephones including programming of extensions and voicemail through the Avaya
+system.
+Setup and Maintenance of Teleconference room systems for webinars and presentations. Maintenance and
+troubleshooting of Audio Visual Equipment.Provided peripheral support of network and local printers,
+faxes and scanners.
+Maintained on-site server room
+Setup, supported and maintained on-site backup of company data onto tape via Veam software.
+Documented, tracked and monitored client incidents in the Footprints ticketing system to ensure a
+timely resolution.
+Awareness of SOX (Sarbanes-Oxley) compliance.
+
+
+Newsday, Melville, N.Y. 6/2013-11/2014
+Technology Coordinator Consultant
+Mac support for Creative Services graphic artists' workstations for Newsday and AM New York
+Application installation, configuration, and support of Adobe Creative Suite apps: InDesign,
+Photoshop, Illustrator, Acrobat and Creative Cloud.Other applications include: Suitcase Fusion (Font
+Management), MSOffice Suite 365 and Cumulus.
+Creation of 10.8.x (Mountain Lion) and 10.9.x (Mavericks) OSX images using disk utility, Disck maker
+X, Carbon Copy Cloner for iMac Desktop deployment.
+iPad and iPhone setup, configuration, support and deployment for Newsday Media Sales group.
+Installation of peripherals on iMacs such as scanners, network and local printers.
+Maintenance of asset tag, application and hardware inventory.
+Software maintenance, support and network configuration of iMac desktops.
+Troubleshooting of all software and hardware issues.
+Executive Support of CTO and upper management.
+
+
+New World Solutions; NYC 10/2008-7/2009; 4/2010-5/2013
+IT Consultant
+System administration and support in a Windows server environment
+Application support on front and back end of C2, a java and .Net in-house application.
+Installation of Oracle client and ODBC configuration.
+Active Directory
+VMWare Support
+Network Troubleshooting
+Nagios Monitoring System
+Windows desktop and server support
+Tape Backups using Backup Exec software.
+Elastix server and i.p. phone setup
+Executive support as assigned by the CTO. Supporting CEO and CFO and managers.
+
+
+Comedy Central; NYC
+The Daily Show with Jon Stewart 7/2009-3/2010
+The Colbert Report 8/2008- 10/2008
+IT Administrator
+Windows Server, Windows XP, Windows 7 Desktop and Laptop support.
+Apple Mac OS Laptop and Desktop support.
+Installation of ENPS/AP and configuration of user accounts, MSOffice 2003-2010, all standard desktop
+apps
+Fernando Menendez
+
+(Comedy Central; Cont'd)
+software with Ghost and Acronis.
+Executive support of Upper management, online talent producers and directors and all personnel.
+
+MERRILL LYNCH; NYC 9/2000 - 5/2008
+IT Consultant
+Worked closely with application developers both local and offshore. Well versed in complex
+multi-tiered application setup. Trouble shooting of application related issues on servers.
+Server and application support of approximately 50 servers in Development, QA, and Production Global
+Environments.
+Installation and support of mixed homegrown applications using .Net Framework, Asp.net, Java, Html,
+and Xml related software on servers. Application Migrations.
+Troubleshooting of database connection issues, for Oracle. Knowledgeable in SQLNet configuration,
+Oracle Names server, TNS Names.ora, TNS Ping and SQL Plus.
+Responded to alerts, emergencies, and trouble tickets through the Help Desk NetIQ Monitoring
+services.
+Setup, configuration, and troubleshooting of IIS and Apache Tomcat server for web based
+applications. Creation of virtual websites and application pools. Configuration of COM+ Components
+for Component driven applications.
+Involved in server and application decommissions. Review and Implementation of QA and Production
+releases.
+Setup and configuration of Centera Storage using DiskXtender. Permissioning of application
+directories.
+Executive Support including CFO, CTO, CEO and upper management.
+Scheduling and trouble shooting of Autosys jobs. Supported the CTG Financial Reporting Technology
+group's server and desktop platform. Platform is comprised of 22 servers and 70+ desktops spread
+among 3 different physical locations as well as all aspects related to server and desktop
+configurations, upgrades, account creations, problem trouble shooting, file and directory recovery,
+and use of Process Explorer for monitoring.
+ARC Serve data backups, production lights on continuity, recovering from disk and server failures.
+Successfully spearheaded the CTG Financial Reporting Technology Group September 11th 2001 server
+environment recovery efforts.
+Provided Help Desk, administrative support and troubleshooting for multiple in house Financial
+Applications: Headcount, Greensheets, Tax, Payroll, Balance Sheet, Analyst Call, BSAO, Cair, Opra,
+Alpha, BSR, StorQM and Corporate Reporting.
+Executive support of CTO and upper management.
+
+TECHNICAL SKILLS:
+AWS Cloud Technology: EC2, VPC, S3, ELB, RDS, ECS, AMI, IAM
+Windows Powershell Scripting
+Apple Mac OSX support:
+Linux: Ubuntu, Redhat, Unix
+Windows Desktops;
+Windows Servers
+iPad, iPhone and other mobile device deployment and support
+Cisco VPN and Citrix Receiver Support
+Open VPN and Forticlient support
+Adobe product support including Adobe Reader and Creative Suite 6, Creative Cloud
+Windows Operating Systems: Windows 2019, 2016, XP, Windows 10
+MSOffice Suite 365 and previous versions.
+Administration & Monitoring tools: ARCServe, Microsoft ADS, Microsoft SMS, IPMonitor, PcAnywhere,
+VNC
+Telecommuting, Remote Access Services, Terminal Services
+Infrastructure Components: Domain Controllers (PDC & BDC), DHCP, DNS, FTP, WINS, IP / DNS resolution
+Centera storage configuration
+Performance monitoring via Teamquest / perfmon
+Backup / Restore utilizing: Autosys, AWS S3 bucket, Legato NetWorker and Veam software
+Server monitoring via NetIQ / Sitewatch, PRTG and Event Sentry
+Support of multiple browsers: Microsoft IE, Firefox, Safari, Chrome.
+Software applications and environments: Microsoft suite of applications MS Office Suite, Microsoft
+IIS, Client and Server installations, Anti-Virus software protection, ADP.
+Teleconference Setups
+Participated in Systems/software implementation, and deployment in large-scale, complex
+organizations.
+Strong verbal and written communication skills.
+Ability to work independently, self-motivating
+Customer Service friendly
+Bi-lingual: Fluent in English and Spanish
+
+EDUCATION:
+      Xavier H.S.; NYC, N.Y. (Graduated)
+New York University 9/1977- 4/1981
+      Kingsborough College 9/1992-7/1994
+      AWS Certified Practitioner (In Progress)
+
+HOBBIES & INTERESTS:
+      Digital Media, Audio/Visual (Final Cut, Camtasia), Recording/Logic Software, Creative Writing,
+Health & Fitness,
+Music/Musician (Drums, Piano, Guitar), Cycling, Nutrition, A.I., Physics, Math, Astronomy, Reading

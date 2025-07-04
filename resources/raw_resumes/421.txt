@@ -1,0 +1,237 @@
+
+
+Krunal Patel
+Data Engineer
+krunal.dbengg@gmail.com
+(916) 235-3673
+
+Professional Summary
+
+* Over 8+ years of working experience as Data Engineering with high proficient knowledge in Data
+Analysis and Big data.
+* Experienced using "Big data" work on Hadoop, Spark, PySpark, Hive, HDFS and other NoSQL
+platforms.
+* Experience in developing Map Reduce Programs using Apache Hadoop for analyzing the big data as
+per the requirement.
+* Experienced in Technical consulting and end-to-end delivery with architecture, data modeling,
+data governance and design - development - implementation of solutions.
+* Experience in installation, configuration, supporting and managing -Cloudera Hadoop platform
+along with CDH4&CDH5 clusters.
+* Strong experience and knowledge of NoSQL databases such as MongoDB and Cassandra.
+* Proficient in Normalization/De-normalization techniques in relational/dimensional database
+environments and have done normalizations up to 3NF.
+* Hands on experience with Amazon Web Services along with provisioning and maintaining AWS
+resources such as EMR, S3 buckets, EC2instances, RDS and others.
+* Hands on experience with Google cloud services like GCP, BigQuery, GCS Bucket and G-Cloud
+Function.
+* Experienced in Informatica ILM and Informatica Lifecycle Management and its tools.
+* Efficient in all phases of the development lifecycle, coherent with Data Cleansing, Data
+Conversion, Data Profiling, Data Mapping, Performance Tuning and System Testing.
+* Experience in Big Data Hadoop Ecosystem in ingestion, storage, querying, processing and
+analysis of Big data.
+* Good understanding of Ralph Kimball (Dimensional) & Bill Inman (Relational) model Methodologies
+.
+* Experienced working extensively on the Master Data Management(MDM) and application used for MDM.
+* Experience in transferring the data using Informatica tool from AWS S3 to AWS Redshift.
+* Good Knowledge on SQL queries and creating database objects like stored procedures, triggers,
+packages and functions using SQL and PL/SQL for implementing the business techniques.
+* Supporting ad-hoc business requests and Developed Stored Procedures and Triggers and
+extensively used Quest tools like TOAD.
+* Good understanding and exposure to Python programming.
+* Excellent working experience in Scrum/Agile framework and Waterfall project execution
+methodologies.
+* Experience in migrating the data using Sqoop from HDFS and Hive to Relational Database System
+and vice-versa according to client's requirement.
+* Extensive experience working with business users/SMEs as well as senior management.
+* Strong experience in using MS Excel and MS Access to dump the data and analyze based on
+business needs.
+* Good experienced in Data Analysis as a Proficient in gathering business requirements and
+handling requirements management.
+
+Technical Skills
+
+* Big Data & Hadoop Ecosystem: MapReduce, Spark 3.3, HBase 2.3.4, Hive 2.3, Flume 1.9, Sqoop
+1.4.6, Kafka 2.6, Oozie 4.3, Hue, Cloudera Manager, Neo4j, Hadoop 3.3, Apache NiFI 1.6
+* Cloud Platforms: GCP, Google big-query, AWS, EC2, EC3, Redshift & MS Azure
+* NOSQL Database: Mongo DB, Azure Sql DB, Cassandra 3.11.10
+* Data Modeling Tools: Erwin R9.7/9.6, ER Studio V17
+* Databases:, Microsoft SQL Server 2017, Teradata 15.0, Oracle 12c, and MS Access
+* BI Tools: Tableau 10, SSRS, Crystal Reports, Power BI.
+* Programming Languages: SQL, PL/SQL, UNIX shell Scripting, R
+* Operating Systems: Microsoft Windows Vista7/8 and 10, UNIX, and Linux.
+* Methodologies: Agile, RAD, JAD, RUP, UML, System Development Life Cycle (SDLC), Waterfall
+Model.
+
+Work Experience
+
+FM Global Insurance - Johnston, RI Jan 21 - Present
+Sr. Data Engineer
+Responsibilities
+* As a Data Engineer involved in Agile Scrum meetings to help, manage and organize a team of
+developers with regular code review sessions.
+* Participated in Code Reviews, Enhancement discussion, maintenance of existing pipelines &
+systems, testing and bug-fix activities on-going basis.
+* Worked closely with the business analysts to convert the Business Requirements into Technical
+Requirements and prepared low and high level documentation.
+* Worked on Spark improving the performance and optimization of the existing algorithms in Hadoop
+using Spark Context, Spark-SQL, Data Frame, Pair RDD's
+* Developed ETL Processes in AWS Glue to migrate data from external sources like S3,
+ORC/Parquet/Text
+Files into AWS Redshift.
+* Worked on Ingesting data by going through cleansing and transformations and leveraging AWS Lambda
+, AWS Glue and Step Functions.
+* Used Spark for interactive queries, processing of streaming data and integration with popular
+NoSQL
+database for huge volume of data.
+* Involved in daily Scrum meetings to discuss the development/progress and was active in making
+scrum meetings more productive.
+* Seamlessly worked on Python to build data pipelines after the data got loaded from Kafka.
+* Used Kafka Streams to Configure Spark Streaming to get information and then store it in HDFS.
+* Worked on loading data into Spark RDD's, perform advanced procedures like text analytics using
+in-memory data computation capabilities of Spark to generate the Output response.
+* Implemented usage of Amazon EMR for processing Big Data across a Hadoop Cluster of virtual
+servers on Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3)
+* Created AWS Lambda functions and assigned IAM roles to schedule python scripts using Cloud Watch
+Triggers to support the infrastructure needs (SQS, Event Bridge, SNS)
+* Involved in converting MapReduce programs into Spark transformations using Spark RDD's using Scala
+and Python.
+* Integrated Kafka-Spark streaming for high efficiency throughput and reliability.
+* Developed a python script to hit REST API's and extract data to AWS S3
+* Conducted ETL Data Integration, Cleansing, and Transformations using AWS glue Spark script
+* Worked on functions in Lambda that aggregates the data from incoming events, and then stored
+result data in Amazon Dynamo DB.
+* Deployed the project on Amazon EMR with S3 connectivity for setting a backup storage.
+* Designed and Developed ETL jobs to extract data from oracle and load it in data mart in Redshift
+* Worked on AWS Data Pipeline to configure data loads from S3 to into Redshift
+* Used JSON schema to define table and column mapping from S3 data to Redshift
+* Connected Redshift to Tableau for creating dynamic dashboard for analytics team
+* Used JIRA to track issues and Change Management
+* Involved in creating Jenkins jobs for CI/CD using GIT, Maven and Bash scripting
+Environment: Spark 3.3, AWS S3, Redshift, Glue, EMR, IAM, EC2, Tableau, Jenkins, Jira, Python,
+Kafka, Agile.
+
+Amgen - Thousand Oaks, CA Sep 18 - Dec 20
+Data Engineer
+Responsibilities
+* As a Data Engineer I am responsible for building scalable distributed data solutions using Hadoop
+.
+* Involved in Agile Development process (Scrum and Sprint planning).
+* Handled Hadoop cluster installations in Windows environment.
+* Migrated on-premise environment in GCP (Google Cloud Platform)
+* Migrated data warehouses to Snowflake Data warehouse.
+* Defined virtual warehouse sizing for Snowflake for different type of workloads.
+* Involved in porting the existing on-premise Hive code migration to GCP (Google Cloud Platform)
+BigQuery.
+* Involved in migration an Oracle SQL ETL to run on Google cloud platform using cloud Dataproc &
+BigQuery
+, cloud pub/sub for triggering the Apache Airflow jobs.
+* Extracted data from data lakes, EDW to relational databases for analyzing and getting more
+meaningful insights using SQL Queries and PySpark.
+* Developed PySpark script to merge static and dynamic files and cleanse the data.
+* Created Pyspark procedures, functions, packages to load data.
+* Designed, developed and did maintenance of data integration programs in a Hadoop and RDBMS
+environment with both traditional and non-traditional source systems.
+* Developed MapReduce programs to parse the raw data, populate staging tables and store the refined
+data in partitioned tables in the EDW.
+* Wrote Sqoop Scripts for importing and exporting data from RDBMS to HDFS.
+* Set up Data Lake in Google cloud using Google cloud storage, BigQuery and Big Table.
+* Developed scripts in BigQuery and connecting it to reporting tools.
+* Designed workflows using Airflow to automate the services developed for Change data capture.
+* Carried out data transformation and cleansing using SQL queries and PySpark.
+* Used Kafka and Spark streaming to ingest real time or near real time data in HDFS.
+* Worked related to downloading BigQuery data into Spark data frames for advanced ETL capabilities.
+* Worked on PySpark APIs for data transformations.
+* Built reports for monitoring data loads into GCP and drive reliability at the site level.
+* Participated in daily stand-ups, bi-weekly scrums and PI panning.
+Environment: Hadoop 3.3, GCP, BigQuery, Big Table, Spark 3.0, PySpark, Sqoop 1.4.7, ETL, HDFS,
+Snowflake DW, Oracle Sql, MapReduce, Kafka 2.8 and Agile process.
+
+All State Insurance - Boston, MA Nov 16 - Aug 18
+Sr. Data Analyst
+Responsibilities
+* As a Data Analyst role to review business requirement and compose source to target data mapping
+documents.
+* Interacted with Business Analyst, SMEs and other Data Engineers to understanding Business needs.
+* Participated in design discussions and assured functional specifications are delivered in all
+phases of SDLC in an Agile Environment.
+* Defined appropriate security roles related to data Define roles associated with securing,
+provisioning.
+* Audit security of the data within the domain of stewardship and define named individuals for each
+required role.
+* Worked closely with the business analyst and Data warehouse architect to understand the source
+data and need of the Warehouse.
+* Interacted with stakeholders on clearing their doubts regarding the reports in power BI.
+* Actively involved in SQL and Azure SQL DW code development using T-SQL
+* Involved in designing of star schema based data model with dimensions and facts.
+* Worked on a migration project which required gap analysis between legacy systems and new systems.
+* Involved in requirement gathering and database design and implementation of star-schema,
+snowflake schema/dimensional data warehouse using Erwin.
+* Performed and utilized necessary PL/SQL queries to analyze and validate the data.
+* Reviewed the Joint Requirement Documents (JRD) with the cross functional team to analyze the High
+Level Requirements.
+* Developed and maintained new data ingestion processes with Azure Data Factory.
+* Implemented data aggregation and business logic in Azure Data Lake.
+* Designed and developed automation test scripts using Python.
+* Created publishing reports for stakeholders using power BI.
+* Analyzed escalated incidences within the Azure SQL database.
+* Worked on the enhancing the data quality in the database.
+* Worked on Performance Tuning of the database which includes indexes, optimizing SQL Statements.
+* Involved in capturing data lineage, table and column data definitions, valid values and others
+necessary information in the data model.
+* Created or modified the T-SQL queries as per the business requirements.
+* Involved in user training sessions and assisting in UAT (User Acceptance Testing).
+* Participation in design and daily stand-up meetings.
+Environment: Erwin, Azure Sql DB, Azure Data Lake, T-Sql, UAT, PL/SQL, Power BI, Python and
+Agile/Scrum.
+
+NextEra Energy Inc. - Juno Beach, FL Feb 14 - Oct 16
+Data Analyst
+Responsibilities
+* Worked extensively along with business analysis team, scrum masters in gathering requirements and
+understanding the workflows of the organization.
+* Involved in Data mapping specifications to create and execute detailed system test plans. The
+data mapping specifies what data will be extracted from an internal data warehouse, transformed
+and sent to an external entity.
+* Analyzed business requirements, system requirements, data mapping requirement specifications, and
+responsible for documenting functional requirements and supplementary requirements in Quality
+Center.
+* Wrote and executed unit, system, integration and UAT scripts in a data warehouse projects.
+* Wrote and executed SQL queries to verify that data has been moved from transactional system to
+DSS,
+Data warehouse, data mart reporting system in accordance with requirements.
+* Created the test environment for Staging area, loading the Staging area with data from multiple
+sources.
+* Used and supported database applications and tools for extraction, transformation and analysis of
+raw data.
+* Assisted in defining business requirements for the IT team and created BRD and functional
+specifications documents along with mapping documents to assist the developers in their coding.
+* Involved in building various logics to handle Slowly Changing Dimensions, Change Data Capture,
+and Deletes for Incremental Loads in to the Data warehouse.
+* Involved in designing fact, dimension and aggregate tables for Data warehouse Star Schema.
+* Performed Reverse Engineering of the legacy application using DDL scripts in Erwin, and developed
+Logical and Physical data models for Central Model consolidation
+* Worked on data profiling and data validation to ensure the accuracy of the data between the
+warehouse and source systems.
+* Monitored the Data quality of the daily processes and ensure integrity of data was maintained to
+ensure effective functioning of the departments.
+* Developed data mapping documents for integration into a central model and depicting data flow
+across systems & maintain all files into electronic filing system.
+* Worked on SQL Server concepts SSIS (SQL Server Integration Services), SSAS (Analysis Services) and
+SSRS (Reporting Services).
+* Developed database objects including tables, Indexes, views, sequences, packages, triggers and
+procedures to troubleshoot any database problems
+* Wrote SQL scripts to test the mappings and Developed Traceability Matrix of Business Requirements
+mapped to Test Scripts to ensure any Change Control in requirements leads to test case update.
+* Involved in extensive data validation by writing several complex SQL queries and Involved in
+back-end testing and worked with data quality issues.
+* Created or modifying the T-SQL queries as per the business requirements.
+* Developed and optimized stored procedures for use as a data window source for complex reporting
+purpose.
+* Performed the batch processing of data, designed the SQL scripts, control files, batch file for
+data
+loading.
+* Delivered file in various file formatting system (ex. Excel file, Tab delimited text, Coma
+separated text, Pipe delimited text etc.)
+* Performed ad hoc analyses, as needed, with the ability to comprehend analysis as needed
+Environment: Sql Server 2008, SQL, XML, ad hoc, Excel 2008, data validation
+

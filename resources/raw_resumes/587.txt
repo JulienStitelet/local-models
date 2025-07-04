@@ -1,0 +1,173 @@
+
+John Zaccaria
+91 Russellton-Dorseyville Rd.
+Cheswick, PA 15024
+Phone: 412-716-7424  Email: compudr@hotmail.com
+
+SUMMARY
+I am a detail oriented professional with excellent verbal and written
+communication skills. I have over fifteen years of experience in the
+Information Technology field; possessing a vast knowledge of computer
+hardware, software, and networking technology skills.  I am seeking a
+challenging and rewarding position with an exciting and fast-paced
+company that will allow me to utilize my skills as well as acquire
+additional knowledge to further my career.
+HARDWARE
+Dell, Compaq, Gateway, HP, & IBM servers, desktops, and notebooks; DEC
+Alpha servers, DEC VAX file servers; various Cisco and other networking
+equipment including routers, bridges, switches, DSU/CSUs, and hubs;
+knowledge of Ethernet & token ring network topologies.
+SOFTWARE
+Microsoft Exchange Server 2000/ 2003/2007/2010, MS Office
+95/97/2000/XP/2003/2007/2010, PC Anywhere 8/9/10, Novell GroupWise,
+eTrust Anti-virus, eTrust Secure Content Manager (SCM), McAfee
+Anti-virus, Norton Anti-Virus, Webroot Anti-virus, Total Defense for
+Business, AutoCAD 97/2000, Microsoft Visio 2000/2002, various PC &
+Network diagnostic utilities, TCP/IP, VPN, Active Directory, MS SQL/SQL
+Express 2005 & 2008, MS IIS 6.0 & 7.0, various anti-spyware utilities.
+OPERATING SYSTEMS
+Windows 2008/2003 Server, Windows 8, Windows 7, Windows Vista, Mandriva
+Linux 2005, RedHat Linux, Windows 2000 Advanced server, Server, &
+Professional, Windows Terminal Server, Windows XP Professional & Home,
+Windows NT 4.0 Server & Workstation, Novell Netware 4.x/5.x, DEC Open VMS
+6.x/7.x, Windows 95/98/ME, Windows 3.1/3.11WFW, MS-DOS 5.x/6.x, IBM OS/2,
+MAC OS X (10.3, 10.4, 10.5, & 10.6), VMWare.
+TELECOMMUNICATIONS
+Lucent Merlin phone switches, Rolm 8004 PBX, Octel 100 & Octel Overture
+voicemail systems.
+PROFESSIONAL EXPERIENCE
+Computer House Call, Inc.         2004 - 2006, 2013-Present
+Computer/Network Consultant
+Responsible for repair and installation of computer and networking
+equipment for home and business use.
+   * Recover systems from virus and spyware attacks by removing the
+     offending software.
+   * Install and configure home/business networks including encrypted
+     wireless configurations for Windows and Mac OS X platforms.
+   * Educate users on keeping their computers safe and secure, as well as
+     a variety of other software and hardware training.
+   * Install various upgrade components such as memory, hard drives,
+     video cards, etc.
+   * Repair any hardware failures for various makes and models of PC and
+     servers.
+   * Reinstall or recover corrupt OS installs such as Windows XP, Vista,
+     7, Server 2003, Server 2008, etc.
+
+Computer Associates, Inc./HCL America Inc.                     2006 -
+2012
+Senior Support Engineer
+Responsible for providing level 2 & 3 Worldwide support for CA's
+enterprise contract clients for eTrust Anti-virus, eTrust Secure Content
+Manager (SCM), Total Defense for Business.
+   * Fielded phone calls for clients that require assistance with
+     virus/spyware recognition and removal.
+   * Assisted customers with the installation and configuration of the
+     software in their Active Directory networking environment on Windows
+     Server 2008/2003.  Also installed the software on Mac OS X, Linux,
+     UNIX, Solaris & Novell operating systems.
+   * Troubleshot the customers' software by analyzing debug log files,
+     device drivers, Windows system information, Windows event logs,
+     Windows registry, and applied the latest patches/fixes for the
+     software.
+   * Troubleshot various connectivity issues with TCP/IP and other
+     networking protocols in order to correctly integrate the software
+     into the clients' networks.
+   * Assisted customers with installing software in a clustered
+     environment by installing software on the primary server and then
+     failing over to the backup server and repeating the install on the
+     backup.
+   * Staged simulations of clients' environments in a VMWare environment
+     in order to replicate problems and find a solution to those
+     problems.
+   * Configured and maintained MS SQL/SQL Express DBs to work with
+     Gateway Security & Total Defense.
+   * Assisted customers with applying the latest drivers, Windows
+     updates, and system security patches.
+   * Assisted customers with integration of MS-Exchange and eTrust SCM to
+     quarantine/block spam, and also setup URL content filtering
+     (HTTP/HTTPS & FTP/SFTP) for their network using eTrust SCM.
+   * Troubleshot MS Exchange send connectors and problems with
+     information store service as pertains to the integration of
+     anti-spam filter.
+   * Assisted clients in configuring and applying IDS/IPS rules for HIPS
+     for Total Defense.
+   * Participated in a 24x7 pager rotation for worldwide enterprise
+     support for eTrust Anti-virus & eTrust SCM.
+   * Helped to train new engineers on the products and the process for
+     taking support calls from opening to closure.
+   * Assisted customers with creation of automated scripts to install
+     software, make registry changes, and also to remove malware.
+   * Was the dedicated primary point of contact for a large government
+     client of over 500,000 nodes.
+DecisionOne, Inc.    2003 - 2004
+Repair Technician
+Responsible for repair and maintenance of various clients' PCs, servers,
+printers, and software.
+* Repaired PCs and servers of various makes and models; such as Dell,
+  Compaq, IBM, HP, and various clones.
+* Repaired standalone and networked LaserJet, dot matrix, and line
+  printers of various makes and models; such as HP, IBM, Okidata, and
+  others.
+* Troubleshot various software problems; including operating system
+  errors, device driver issues, as well as other software issues.
+* Performed a desktop migration as a team lead for a large, multi-site
+  chemical manufacturing company from Windows NT Workstation to Windows
+  XP Professional and Windows NT Server to Windows 2000 Server for 1000+
+  users.
+CTG, Inc.    1997 - 2002
+Systems Administrator
+Responsible for the daily maintenance of PCs, file servers, Active
+Directory, and various networking components for a 50+ user office
+environment.
+* Installed and configured PCs (hardware and software), file servers, and
+  various networking equipment into a Microsoft AD/Novell networked
+  environment.
+* Developed and implemented backup/recovery processes for all servers to
+  ensure system availability.
+* Maintained a secure computing environment on all servers and
+  workstations by developing security policies.
+* Negotiated maintenance contracts for all hardware including servers,
+  workstations, network equipment, and printers.
+* Applied anti-virus definition updates to PCs and servers.
+* Tracked licensing requirements for all PCs and servers.
+* Provided hardware and software help desk support for staff and
+  clients.
+* Maintained the Active Directory on a Microsoft Windows network, and
+  also worked with GPO.
+Responsible for the daily maintenance and programming of the
+telecommunications environment.  Activities included:
+* Maintained and programmed OCTEL 100 and Octel Overture voicemail
+  systems, and Lucent Merlin and ROLM 8004 PBX phone switches.
+* Made modifications in the phone wiring and equipment throughout various
+  parts of the office.
+Other accomplishments and responsibilities included:
+* Converted company's Mid-Atlantic Region from a Novell & Groupwise email
+  client/server platform to a Microsoft Windows 2000 & Exchange server
+  2000 platform with Active Directory for 500+ users.
+* Co-led an effort to convert a large insurance firm from a Windows 95 &
+  token ring network to a Windows NT network running on Ethernet.
+  Created the corporate image from a base windows installation with
+  latest system drivers and Windows updates.
+* Created company's technical drawings for multiple client projects using
+  AutoCAD 97/2000.
+* Administrated Oracle partnership agreement & submitted monthly Oracle
+  royalty reports.
+* Programmed the security access system (Doors) for the Pittsburgh branch
+  office.
+DAKCO PC Products Inc.    1995 - 1997
+Senior Computer Technician
+2 years of experience in PC repair/troubleshooting, and help desk support
+for clients worldwide.  Responsibilities included:
+   * Managed technical support group and RMA department.
+   * Fielded technical support calls for PC hardware and components.
+   * Built new PCs from components, and installed client specified
+   software.
+   * Performed PC repair/troubleshooting for clients' PCs of various
+   makes and models.
+   * Helped to maintain the inventory tracking system for all of the
+   company's products.
+   EDUCATION
+   A.W. Beattie AVTS, Pittsburgh, PA
+   Certification in Computer Science, June 1992
+   Community College of Allegheny County, Pittsburgh, PA
+   Associates in Science in Computer Information Systems, May 1995

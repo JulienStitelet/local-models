@@ -1,0 +1,169 @@
+
+Antonian Liddell
+
+
+Antonian Liddell, CCISO, CISSP, CISM, CEH, CRISC
+12202 Crestwood Ave. South
+Brandywine, MD 20613
+301.814.1311 --- aliddell2k@gmail.com
+
+CAREER PROFILE
+Accomplished IT professional with proven technical and leadership abilities in both military and
+private sector. Expert at building and leading teams, providing strategic vision and possesses
+stellar communication skills with the essential ability to put a positive spin on nearly any
+difficult communication and drive those involved to the desired result. Seeking a leadership
+opportunity in the areas of cybersecurity, information technology and engineering.
+AREAS OF STRENGTH AND EXPERTISE
+    *      Extraordinary attention to detail from military experience
+    *      Extensive network management
+    *      Windows Operating Systems/Solaris/Red Hat Linux/MAC OSX/CISCO router configuration
+    *      Information Assurance Officer (IAO)/Information Assurance Manager (IAM)
+    *      Experience with Vulnerability Assessment tools (DISA Gold Disk, DISA SRR, SECSCN, and ACAS)
+    *      Hands-on experience with DISA Security Technical Implementation Guides (STIG)
+    *      Information Systems Security Officer (ISSO)/Information Systems Security Manager (ISSM)
+    *      Experienced with NIST Risk Management Framework (RMF)
+    *      Familiar with DCID 6/3, DITSCAP, NISCAP, JFAN 6/3, NISPOM 6/3, CNSSI 1253, NIST SP
+      800-53/53A/30/37, ICD 503, and DIACAP
+    *      Performing Security Control Assessments with CSAM v3
+    *      Experience using The Department of Labor Computer Security Handbook 5.0
+
+PROFESSIONAL EXPERIENCE
+U.S. Department of Interior
+Chief Technology Officer/Chief Information Technology Branch            February, 2016 to present
+Responsible for:
+   *      Preparation and execution of technology management to include: enterprise architecture, capital
+   planning and investment control (CPIC), information technology acquisition; security management
+   (system accreditation and certification, access control, and compliance); telecommunications
+   management (network security and optimization, bill auditing and analysis, and wireless
+   communication); inventory and asset management (tracking and accounting of information resources
+   and equipment); strategic planning (development and redesign of the organization's IT work
+   processes); Project management (monitoring project scope, schedule, and budget targets); and IT
+   career/skills management (developing standards and training requirements for IT professionals).
+   *      Management of large, complex network which includes cost benefit analysis and total cost of
+   ownership and capacity studies; ensuring routine schemas are established and followed; ensuring
+   established security practices are followed; overseeing the development of contingency and
+   recovery plans; ensuring directory services and domain name services are maintained; ensuring
+   intranet, Internet, and /or extranet gateways are provided; and ensuring the operation and
+   maintenance of networks that will support the Bureau's mission requirements.
+   *      Direction and oversight of technical support team to the OSMRE headquarters and field
+   organizations, tribes, and the States; develops, maintains, and implements a Bureau plan for
+   ongoing IT security awareness training.
+   *      Providing professional leadership and direction for a broad, coordinated network services
+   program. Plans, manages, and evaluates all aspects of the OSMRE network services program
+   including overseeing the development of all OSMRE network services policy and procedures;
+   managing the design of the network architecture, evaluating and defining infrastructure
+   requirements, selecting hardware components, assembling and managing multi-disciplinary teams for
+   network implementation planning, installation, and testing.
+
+
+U.S. Department of Labor      February, 2015 to February, 2016
+Chief Cyber/Information Systems Security Engineer
+
+   *      Served as a principal advisor to the Director of the Division of IT Security on IT security
+   policy implementation, technical oversight of the ETA information security program, ongoing
+   security operations, technical subject matter expert in information security and web application
+   security framework
+   *      Oversaw enforcement of ETA security standards, policies, procedures and directives. Serve as
+   principal expert for ETA IT system security engineering (ISSE) process.
+   *      Provided security guidance & oversight to all phases of system development life cycle (SDLC)
+   security requirements analysis, security architecture, design, implementation, & technical
+   security testing.
+   *      Kept organation in compliance thorough my understanding & working knowledge of Federal IT
+   Security Management Act (FISMA), Office of Management and Budget (OMB) requirements, policies,
+   National Institute of Standards and Technology (NIST), Special Publication (SP) 800 Series, and
+   Federal Risk and Authorization Management Program (FedRAMP).
+
+Contract Roles (project management driven responsibilities)      April, 2008 - February, 2015
+PSI, Cyberspace Solutions, IBM and SAIC - Positions held:
+
+PSI
+Senior Cyber Security Analyst
+    *      Supporting FEMA with the development of security documentation to complete A&A packages.
+    *      Performed and documented IA Control compliance assessments for GSS and Major Application
+      systems, and Initiate and review artifacts in compliance with NIST RMF process
+    *      Responsible for completing meeting minutes and prepares other documents as required by the
+      assigned Team Lead. Also, responsible for completing tasks as assigned and on schedule,
+      providing SME support to the project for developing accreditation package deliverables.
+      Analysts will perform quality assurance reviews of A&A artifacts and identify discrepancies in
+      work.
+
+Cyberspace Solutions
+Information Assurance Engineer for the Department of Labor (TEKSystems)
+    *      Executed Authorization & Accreditation (A&A) activities and assisted in developing processes
+      and procedures for conducting certifications and/or system-level information system
+      evaluations.
+    *      Developed and presented both technical information presentations to non-technical audiences at
+      all levels within the organization.
+    *      Ensured that all IT system security controls were in place and functioning properly in
+      accordance with NIST SP 800-53A and conducted and evaluated/analyzed vulnerability scans from
+      automated tools.
+    *      Assisted with external/internal audits for designated systems and supported the client's
+      mission needs as required.
+    *      Conducted orientation meetings with Senior Department of Labor OCFO Officials to discuss rules
+      of engagement for the assessments and documents of all findings in the CSAM v3 database.
+
+Project Manager/Senior Information Systems Security Engineer
+    *      Ensured compliance with the NAVINTEL IA Intelligence Community Directive (ICD-503)
+      Transformational Certification and Accreditation (C&A) Process and Risk Management Framework.
+    *      Ensured the security compliance of servers and workstations of multiple operating systems
+      (i.e., Red Hat Linux, Windows 7, and MAC OSX) using manual application of all security
+      controls and tracking all work using the XACTA tool.
+    *      Applied ISSE and Information Assurance (IA) principles, in accordance with current DoD and
+      Intelligence Community Security directives, policies, regulations, guidance, security
+      technical implementation guides (STIGs) and industry security best practices, into the
+      Software/System Development Life Cycle (SDLC) process.
+
+
+
+
+IBM
+Senior Systems Engineer
+ *      Served as the data security/privacy expert on Federal projects to ensure that security/privacy
+      requirements were adhered to throughout the project lifecycle.
+ *      Ensured compliance with Federal and commercial laws (e.g., Federal Information Security
+      Management Act (FISMA), Privacy Act, HIPAA/HITECH), Federal and commercial regulations and
+      guidance (e.g., NIST, FISMA, OMB).
+ *      Implemented security controls in large-scale application development efforts and ERPs and on
+      short duration consulting engagements.
+ *      Prepared draft Security Test and Evaluation plans.
+
+SAIC
+
+Lead Information Systems Security Engineer (C&A)
+
+ *      Served as the senior level security professional providing security system engineering support to
+      the Program Management Office (PMO).
+ *      Led the accomplishment of information security responsibilities by establishing policy and
+      procedures regarding physical access controls, security measures, classification and
+      safeguarding of controlled information rules and supported the engineering of IT solutions to
+      meet security requirements.
+ *      Provided oversight for network protection for NGA sites and systems and supported and maintained
+      the accreditations for all NGA sites and systems through the DoD Information Assurance
+      Certification and Accreditation Process (DIACAP) and ensured the sites and systems were
+      operating within acceptable level of risk
+
+U.S. Navy                              Proudly served U.S. Navy Active Duty from 1988 - 2008
+
+During my tenure in the U.S. Navy, I served in the areas of:
+
+Joint Deployable Information Systems Support (JDISS) as Team Lead
+Navy Information Operation Command (IAM/ISSM)
+
+
+EDUCATION
+
+
+Masters of Science in Systems Engineering - The George Washington University
+Bachelors of Science in Information Systems & Security Resource Management - Columbia Union College
+
+PROFESSIONAL AFFILIATIONS/CERTIFICATIONS
+Certified Chief Information Security Officer (CCISO)
+Certified Information Security Manager (CISM)
+Certified Information System Security Professional (CISSP)
+Certified In Risk and Information Systems Control (CRISC)
+Certified Ethical Hacker (CEH)
+Certified UNIX/Linux Administrator
+Certified CompTIA Security+ Technician
+Certified CompTIA Network+ Technician
+
+References available upon request

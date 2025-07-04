@@ -1,0 +1,215 @@
+
+Vladimir S. Berman, Ph.D.
+US Citizen
+
+11704 Potomac Crossing Way. # 12, Fairfax, VA 22030 h. (703) 577-1965
+vb7654321@gmail.com
+
+
+Summary of Qualifications
+An experienced, creative professional physicist and mathematician with
+extensive physics, computer science and programming skills.  Areas of
+specialization include: the mathematical modeling of nonlinear fluid
+dynamics problems, physical and biological, ecological and economic
+systems; analytical and numeric methods for solutions of non-linear fluid
+dynamics; and research in probability, statistics, and chaos.
+Conversationally and technically proficient in both English and Russian.
+
+Strengths   Background
+*   Mathematical Modeling and Simulation
+*   Non-Linear Systems
+*   Optimization and Estimation Theory
+*   Database Design and Exploitation
+*   Advanced Computer Programming
+*     Partial and Stochastical Differential Equations.
+
+            *     Applied Mathematics
+            *     Theoretical Physics
+            *     Software Engineering and Design
+            *   Graduate and Post-Graduate Level Professor
+            *   Lead Researcher
+            *   Numerical Methods.
+
+
+Professional Experience
+
+ILYA Corporation                                          2007-current
+* Development of mathematical and statistical models of optimal design of
+  energy supply schemes for  Russian think tank "EnergoCenter".
+* Responsible for advanced quantitative modeling .Created the valuation
+  and risk assessment and analysis using   bootstrapping and Monte Carlo
+  simulations
+* As member of senior management team develop quantitative methods and
+  algorithms for US Government Contractor for analysis multi-terabytes
+  datasets.
+* Advise for top management in strategic decisions in mission important
+  problems.
+* Development different approaches and algorithms for pattern
+  recognition, optimal research design, sampling and analysis.
+* Classification multi languages documents. Using different approaches,
+  one of them Support vector machine.
+* Preparation and perform of presentations for multi-disciplinary client
+  senior executives.
+* Development of the training, mentorship for other members of team.
+* Developed statistical models and analysis with using different software
+  packages: Matlab, SSPS, R/S-Plus, SAS and Excel.
+
+
+ COMSYS/SAS
+ 2006-2008
+
+ Senior Consultant.
+ * Statistical and analytical modeling and  analysis large datasets..
+ * Providing expertise in  planning and  methodology of  collection of
+  data.
+
+
+ University of Maryland
+ 2004-2005
+
+ Research Associate, Department of Astronomy.
+ * Modeling and development of analytical and numerical methods for
+  solutions nonlinear physical problems.
+ * Development nonlinear models on base partial differential equations
+  with analytical and numerical analysis.
+
+ ILYA Corporation                                          2001-2005
+
+ ILYA Corporation is a small consulting firm specializing in modeling and
+ database development.
+* Developed products in MS Windows, client/server multi-tier
+  environments.  Used C/C++ (Borland and MS Visual), Delphi and Visual
+  Basic, MS Access, Sybase and Oracle.
+* Developed statistical models with using different software packages :
+  Matlab, Statistica, SSPS, S-Plus, Gauss, SAS and Excel/ FinCad.
+* Developed mathematical models in statistics, probability and finances.
+  Studies and analysis in financial engineering and mathematical
+  modeling. Active reading in financial engineering, main textbooks and
+  research papers. Familiar with directional documents of   control
+  organization, like Basel I/II and other.
+* Paper prepared for publication "Analysis of integral equation for
+  American Put and Call". Developed method for approximated solution for
+  pricing American derivatives with dividends. Find new parity
+  relationship put-call.
+ This approach can be applied for solution many different derivatives
+ problems with early exercise and time-dependent interest rate, like
+ mortgage backed securities and some exotic options.
+* Development of mathematical and statistical models of optimal design of
+  energy supply schemes for  Russian think tank "EnergoCenter".
+
+ Westat, Inc.                                             1998-2001
+ Westat is a statistical research corporation serving agencies of the
+ U.S. Government, as well as businesses.
+
+ Lead Consultant.
+ * General mathematical, analytical, numerical, statistical and
+  stochastical methods consulting including extensive experience with
+  probability modeling, optimization, and geometrical and combinatorial
+  problems. Research that is related to consulting problems.
+ * Research in statistical modeling and design, especially the
+  development and application of new techniques for the robust and
+  flexible approach of replication variance estimation; statistical
+  computation and graphics.
+ * Statistical modeling and development methods of analysis
+  multidimensional nonlinear regression problems including the
+  development and maintenance of a computer packages.
+ * Development algorithms and its numerical realization and statistical
+  software. Development replication methods to sample designs and
+  estimators from the simple to the most complex.
+ * Design, development and coding in C++, Java and Delphi, for commercial
+  software WestVar.
+ * Stochastical difference and differential equations, analytical and
+  numerical methods.
+ * Parametric, nonparametric and multivariate analysis.
+ * Development of statistical computing routines and development of
+  computer packages that can be run over the WWW.
+ *  Strong experience in database statistics, analysis and data
+   management. Strong knowledge of statistical and data analysis
+   applications: SAS and SPSS, Matlab, S-Plus, Maple and data
+   manipulation applications:  Excel, Access, Oracle, Sybase, ODBC.
+
+ GRC International, Inc.                        1996-1997
+ GRC is a $125 million, public company specializing in professional
+ technical services for the defense, civil, space, and commercial
+ sectors.
+
+ Principal Scientist, Decision Technologies Division
+ * Performed mathematical modeling of tracking, estimation and
+  classification algorithms of ballistic missiles.  Calculated high
+  fidelity ballistic trajectory and signature profiles to analyze sensor
+  performance. Used for operational test planning to direct sensor data
+  collection exercise.
+ * Prototyped several concepts for optimization of equipment selection
+  for spacecraft. Developed algorithms to perform trade-off studies to
+  choose key equipment based on parameters such as weight, shelf life,
+  etc. Programmed user interface to illustrate optimization concepts.
+  Karman's filtering.
+ * Designed and programmed a demonstration version displaying the total
+  functionality of a major network optimization tool under development by
+  GRCI.  This project was completed in less than one quarter of the time
+  estimated by the company.
+
+ International Monetary Fund and World Bank                    1994-1996
+
+ Development models and software for financial transactions and database
+ management.
+ Computer models are used to estimate risk exposure, analyze various
+ strategies,for credit scoring,
+ and estimatetion of risk  values.
+
+ National Credit Union Administration                    1993
+
+ Development software for report of financial transactions with credit
+ unions.
+
+
+ Academy of Sciences, Moscow Russia                 to 1993
+ Research organization for theoretical physical and mathematical
+ studies.
+
+ Full Professor, Lead Researcher
+ * Developed analytical and numerical methods for singular perturbation
+  systems, continuous groups and stochastic and regular dynamic systems.
+  These methods are useful for construction of solutions for mechanics
+  problems, including non-linear mathematical models of fluid dynamics,
+  combustion and ecological systems.
+ * Researched chemical hydrodynamics in order to grow perfect crystals
+  during space flight. Developed theory of crystal growth in weightless
+  (zero gravity) environments.
+ * Researched and developed the theory of combustion for gases and solid
+  state propellants.
+ * Developed mathematical models for biological systems including the
+  prey/predator model and nerve impulse propagation problems.
+ * Researched the stability of chemical reactors. Developed high fidelity
+  analytical models of current reactor technology.
+
+ Academic Qualifications
+ Doctor of Sciences, Applied Mathematics and Physics, Academy of Sciences
+ Russia
+ Ph.D., Applied Mathematics and Computer Science, Academy of Sciences
+ Russia
+ M.S./B.S. Applied Physics, Moscow Institute of Physics and Technology,
+ Major in molecular and chemical physics.
+
+ Additional Activities
+ Invited Professor and Researcher, Japan- 1989-1990.
+
+  Taught Computer Science to undergraduate and postgraduate students and
+  researchers of the Nagoya University and The Institute of Space and
+  Astronautical Science. Lectured in Artificial Intelligence in the area
+  of computer algebra.
+
+ Published approximately 50 technical articles in both Russian and
+ International Journals including Applied Mathematics and Mechanics,
+ Doklady Academy Nauk USSR, and Physics Letters. Many of these articles
+ have been reprinted in the U.S. by the American Physical Society.
+
+
+ Computer Qualifications
+ * Proficient in C++/C, Matlab, Maple, Delphi, Visual Basic,Macsyma,
+  Mathematica, MathCAD, S-plus, SSPS, FOR TRAN, Pascal, LISP, Perl,
+  Python.
+ * Operating Systems: MS Windows, MS DOS, Linux, UNIX, Solaris.
+ * Platforms include PC, UNIX workstations, and Super Computers
+ * Numerical Methods and Algorithms, Parallel Algorithms, Computer Fluid
+  Mechanics.

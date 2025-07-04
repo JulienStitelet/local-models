@@ -1,0 +1,69 @@
+
+                  Engineer Specializing in Computer Science
+
+El Bouaddi Mohammed
+
+      Address           : N°527 Bloc Castor 26 Chouhada Street Hay Mohammedi Casablanca Morocco.
+      Phone             : +212626184382.
+      Email             : bouaddi.mohammed.1988@gmail.com
+      Birthday          : October, 17th      1988.
+      Family Situation  : Single.
+
+TRAINING AND GRADUATES
+
+    *   2008/2013       : Diploma in Computer science engineering in EMSI (Morocco)
+    *   2012/2013       : Master's degree in new technologies and direction of projects in Sophia Antipolice University (France)
+    *   2011/2012       : Certificate TOEIC (Test Of English for International Communication).
+    *   2006/2007       : Bachelor of Science.
+
+PROFESSIONAL SKILLS
+
+    *   Programming Languages C, VB.NET, C#.NET, Transact-SQL, PL/SQL and JAVA.
+    *   Database: Microsoft Access, SQL Server and ORACLE.
+    *   Client/Server Technologies: ADO.NET, Entity Framework.
+    *   Website Creation: ASP.NET and HTML with JavaScript, JQuery and CSS.
+    *   Montage: After Effects (beginner).
+    *   Programming Logic: Algorithms.
+    *   Technical Analysis and Modeling: MERISE, UML.
+    *   Development Tools: Visual Studio, SQL Server, ORACLE DATABASE 11g, Dev C++, Dreamweaver CS5, Eclipse, Netbeans.
+    *   Workspace: Windows XP, Vista, 7, 8 (Installation, configuration and formatting).
+    *   Microsoft Office Equipment Tools: Word, Excel, PowerPoint.
+
+EXPERIENCES
+
+        March 2013 - September 2013 (6 months):  Internship in OMNIDATA.
+        Mission: PL/SQL development of a generic module for data conversion from BRS to XML & XBRL standards.
+        Tools and software: ORACLE Database 11g.
+
+        August 2012: Internship in Schneider.
+        Mission: Asp.NET/SQL development of a web Site offering computer solutions through the society's server.
+        Tools and software: Asp.NET, SQL.
+
+        September 2011: Internship in DynaInfo.
+        Mission: Asp.NET/SQL development of a Management Queries web Site.
+        Tools and software: Asp.NET, SQL.
+
+        July 2011: Internship in SPIE.
+        Mission: System Administrator.
+
+COMPLETED PROJECTS
+
+    *   Management of QCM and a library in  NetBeans .
+    *   Management of service car rental in C.
+    *   Managing a tournament using  VB.NET / SQL Server.
+    *   Managing a Library using VB.NET / SQL Server.
+    *   Management of Stock using   PHP/MySQL.
+    *   Management recruitment site using  C#.NET / SQL Server.
+    *   Queries Management using   Asp.NET / SQL Server.
+    *   Management of employees using    JAVA serialization.
+    *   Management of school using  JAVA serialization.
+    *   Management of customers using   JEE/MySQL.
+
+LANGUAGES
+
+        Arabic: Mother Tongue.           English: written, spoken and read.             French  : written, spoken and read.
+
+LEISURES
+
+                Sport (Basketball - Swimming), Programming, Travelling.
+

@@ -1,0 +1,210 @@
+
+Davy ANEST
+                      ARCHITECTE LOGICIEL C# .net
+                      CHEF DE PROJET TECHNICO-FONCTIONNEL
+                      25 ans d'expérience
+
+
+
+
+8 Avenue des Bruyères
+28130 Chartainvilliers
+
+06 23 31 52 82
+    lordbelasco@outlook.fr
+
+50 ans, Permis A et B, véhiculé.
+Prétentions salariales : Freelance TJM 500€ / CDI 65k€ annuel.
+4 à 5 jours de télétravail par semaine, après période d'intégration.
+
+
+ COMPéTENCES
+Développement / Architecte logiciel
+    *      C# .net 4.0 / standard 2.0 / Core, (applications client lourd, web méthodes et API, web
+      applications, jeux vidéo 2D mobiles), optimisation et multithreading, JS / HTML / CSS, SQL
+      Server, DevExpress, Unity, Visual Studio 2019, Git, Azure DevOps, MS Project, Firebase,
+      Facebook, Google Ads, Azure Playfab, Azure Functions, GetSocial
+Gestion de projet technico-fonctionnel
+    *      Pilotage et gestion/direction de projet : estimation des charges, planification, suivi, mise
+      en production, communication, Reporting, MS Project, Méthode Agile et Cycle en V, management
+      de 25 personnes
+    *      Organisation et animation des Comités Projets et Comités de Pilotage avec la direction
+    *      Recrutement et formation des collaborateurs, entretiens annuels et professionnels, gestion des
+      salaires et augmentations
+Métiers / MOA
+    *      Spécialiste en Gestion Commerciale TPE-PME : Achats, ventes, stock, règlements et gestion des
+      impayés, gestion d'affaires, calculs de rentabilité, gestion de fabrication, planning,
+      activité de service ou négoce... Très bonnes connaissances en comptabilité.
+    *      Gestion Commerciale Verticalisée : Point de vente, Bâtiment, Automobile
+    *      Recueil et Analyse des besoins, validation des spécifications fonctionnelles, échanges avec
+      les clients et partenaires
+Soft Skills
+    *      Autonomie, sens des responsabilités et de l'organisation, prise d'initiatives, rigueur, persévérance
+      , capacité d'analyse, de synthèse et d'abstraction
+    *      Bonne capacité à communiquer à l'oral et à rédiger, travail en équipe, prise de parole en
+      public
+    *      Anglais niveau intermédiaire
+ RéFéRENCES PROJETS
+
+
+DAVY'DEO GAMES STUDIO      AVRIL 2018 - AUJOURD'HUI
+Fondateur / Développeur C#
+
+PROJETS : Création de 2 jeux vidéo 2D de réflexion.
+
+DOMAINE D'INTERVENTION :
+     *      Développement et Gestion de projet
+    *      Développement de Artefactis: Magik Puzzles® et MagikFusion®, disponibles sur les stores
+      Android et Apple, en anglais et en français, téléchargeable dans plus de 50 pays.
+    *      Publication de MagikFusion Android en Chine avec un partenaire local.
+
+ENVIRONNEMENT TECHNIQUE :
+     *      C# .net Standard 2.0, Unity, Visual Studio 2019, Git, Azure DevOps. Agile.
+     *      Firebase, Facebook (certification user_friends), AppsFlyer, Google Ads, Azure Playfab,
+       GetSocial.
+
+
+GFP TECHNOLOGIES      NOVEMBRE - DéCEMBRE 2021
+Product Owner
+
+     PROJETS : Application web d'assurance de personnes
+
+DOMAINE D'INTERVENTION :
+     *      Remplacement du Product Owner
+    *      Mise en place de la roadmap 2022.
+    *      Inventaire des fonctionnalités manquantes sur l'application web, présentes sur l'AS400.
+
+ENVIRONNEMENT TECHNIQUE :
+     *      JAVA, AS400, SCRUM, JIRA.
+
+
+EBP INFORMATIQUE      SEPTEMBRE 2017 - AVRIL 2018
+Chef de projet technico-fonctionnel DMS AUTOMOBILE
+
+PROJETS : Création d'un nouveau DMS basé sur la plateforme Gestion Commerciale OpenLine pour la
+filiale EBP Méca pour remplacer l'ancien DMS.
+
+DOMAINE D'INTERVENTION :
+     *      Gestion de projet
+    *      Chef de projet, Management d'une équipe de 11 personnes dont 5 développeurs (3 C# et 2 C++).
+    *      Recueil et analyse métier auprès de garagistes R2/R3 et de revendeurs informatiques. Echange
+      avec divers partenaires (Opel, AlloGarage, AD...) pour intégrer les nouveautés et signer de
+      nouveaux partenariats. Mise en place de DARVA (plateforme des assurances).
+    *      Validation et participation à la rédaction des spécifications fonctionnelles métiers, avec
+      l'encadrement de 3 consultants métier, plus un consultant externe.
+    *      Réunion mensuelle de pilotage avec Renault sur les évolutions fonctionnelles et techniques à
+      intégrer, le calendrier, et présentation du futur produit.
+
+ENVIRONNEMENT TECHNIQUE :
+     *      Application client lourd en C#, SQL Server, DevExpress, MS Project, Agile
+
+
+EBP INFORMATIQUE      JANVIER 2005 - SEPTEMBRE 2017
+Chef de projet technico-fonctionnel / Architecte Logiciel C#
+
+PROJETS : Création des logiciels Gestion Commerciale OpenLine TPE-PME, Point de Vente OpenLine et
+Bâtiment OpenLine artisans-BTP, avec leurs versions internationales (Belge et Espagnole).
+
+DOMAINE D'INTERVENTION :
+     *      Gestion de projet
+    *      Chef de projet, management de 25 personnes dont 12 développeurs, 3 consultants métiers et 10
+      techniciens qualités.
+    *      Recrutement des collaborateurs, formation des nouveaux développeurs, entretiens annuels et
+      professionnels, gestion des salaires et augmentations.
+    *      Organisation et animation du comité évolution produit avec le comité de direction, pour
+      arbitrer et valider les roadmaps. Participation aux comités points projets mensuels.
+    *      Recueil et analyse des besoins. Participation, relecture et validation des spécifications
+      fonctionnelles métiers. Etude des produits concurrents.
+    *      Recensement des demandes d'évolutions auprès des revendeurs informatiques, des services
+      marketing, commercial et support client, pour préparer la Roadmap prévisionnelle à 16 mois.
+    *      Etude et interprétation des textes de loi liés à la Gestion commerciale (divers BOI, DEB, DES,
+      Article 88...). Participation au groupe de travail du CSOEC (Conseil supérieur de l'Ordre des
+      experts-comptables) sur l'article 88.
+   ENVIRONNEMENT TECHNIQUE :
+      *      Application client lourd en C#, SQL Server, DevExpress, MS Project, Agile
+
+     *      Gestion de projet et Architecte logiciel Framework OpenLine
+    *      Chef de projet, architecte et développeur principal. Utilisé par l'ensemble de la gamme (GC /
+      Compta / Paye / CRM) comme socle. Architecture multi-tiers, multi-moteurs de base.
+    *      Développement d'un entity framework / ORM, d'une synchronisation de données entre applications
+      automatisées, du databinding bidirectionnel, de la création de l'architecture d'applications
+      hostées en mode « service provider », mise en place d'un SDK à destination des intégrateurs,
+      fiches/listes, intégration des composants DevExpress...
+   ENVIRONNEMENT TECHNIQUE :
+      *      Application client lourd en C#, SQL Server, DevExpress, MS Project, Agile
+
+     *      Gestion de projet
+    *      Mise en place d'un nouveau projet et gestion de projet de la Gestion Commerciale Web,
+      management d'une équipe de 5 personnes.
+    *      Gestion d'un an pour la mise en place de l'équipe et d'un chef de projet, pour que le chef de
+      projet soit ensuite autonome.
+   ENVIRONNEMENT TECHNIQUE :
+      *      Application C#, ASP.net, Angular, MS Project, Agile
+
+     *      Autres projets
+    *      Reprise de la gestion de projet du CRM OpenLine.
+    *      Gestion de projet de l'application Gestion Commerciale Mobile (Xamarin), synchronisée à
+      l'application desktop.
+    *      Développements spécifiques des versions desktop hébergées SAAS, conjointement avec le SI
+      (équipe infrastructure et développement).
+    *      Développement du « Webclient », application de récupération des logs d'utilisation et de
+      déploiement des mises à jour des logiciels chez les clients.
+    *      Gestion de projet du Portail Report On Line (portail web de partage de statistiques et
+      tableaux de bord).
+   ENVIRONNEMENT TECHNIQUE :
+      *      Client lourd en C#, SQL Server, DevExpress, MS Project, Xamarin, WebServices
+
+
+EBP INFORMATIQUE      SEPTEMBRE 1999 - JANVIER 2005
+Chef de projet technico-fonctionnel Delphi
+
+PROJETS : Création des EBP Bâtiment et Devis Facture versions internationales Belges et Espagnoles
+pour les nouvelles filiales.
+
+DOMAINE D'INTERVENTION :
+     *      Gestion de projet et Architecte logiciel
+    *      Chef de projet, management de 6 personnes.
+    *      Développement d'un Framework applicatif, avec une architecture multi-tiers avec un ORM, multi
+      moteur de base, et développements des principales fonctionnalités métier.
+    *      Mise en place des certifications NF Logiciels.
+    *      Développement du logiciel interne Devteam pour le suivi des projets, temps passés, bugs, plans
+      de tests, liste des fonctionnalités. Utilisé pour passer la certification NF.
+    *      Validation et participation à la rédaction des spécifications métiers.
+
+ENVIRONNEMENT TECHNIQUE :
+     *      Application client lourd en Delphi 5.0, SQL Server, MsAccess
+
+
+EBP INFORMATIQUE      SEPTEMBRE 1997 - SEPTEMBRE 1999
+Responsable informatique interne
+
+PROJETS : Administration des postes de travail et des serveurs Novell Netware, Windows Server et SQL
+server.
+
+DOMAINE D'INTERVENTION :
+     *      Gestion de parc informatique
+    *      200 postes de travail, 4 serveurs. Management d'une personne.
+    *      Mise en place du 1er Backbone de switchs réseaux et de la salle réseau
+
+ENVIRONNEMENT TECHNIQUE :
+     *      Novell Netware, Windows Server et SQL server
+
+
+EBP INFORMATIQUE      JANVIER 1995 - SEPTEMBRE 1997
+Support technique téléphonique
+
+PROJETS : Aide aux clients à l'installation et à l'utilisation.
+
+DOMAINE D'INTERVENTION :
+     *      Support technique téléphonique sur les logiciels Compta, Paye, Gestion Commerciale.
+       Validation des nouvelles versions.
+     *      Spécialisation sur les configurations réseaux.
+
+ENVIRONNEMENT TECHNIQUE :
+     *      Logiciels EBP
+
+ FORMATIONS
+ 2005 - 2015            Formation : prise de parole en public, management, C# avancé, WebForms
+ 1997            Formation : Windows Server, SQL Server, Novell Netware
+ 1993            BTS Informatique de gestion
+ 1991            Bac B Economie et Social

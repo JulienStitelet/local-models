@@ -1,0 +1,229 @@
+
+
+Ambar Abeijon
+786.344.4465
+ambarabeijon@gmail.com
+
+IT Project Manager
+Infrastructure Operations - IT Management - Project Management
+Network Security
+Application Testing
+Quality Assurance
+Test Plan Design
+Vendor Relationships
+Service Level Agreements
+Cross-Team Collaboration
+* Proactive project manager: Offering a proven record of success leading all phases of diverse
+technology projects.
+* Business strategist: Plan and manage multiple projects, working closely with the business
+stakeholders to make sure functional and technical requirements are gathered correctly.
+* Excellent communicator: Able to communicate throughout the lifecycle of the projects with the
+implementation of a solid communications management plan, which may include: PPW Presentations,
+Business meetings, technical meetings, minute meetings, and project charters.
+* Expert in PMI Project management methodologies: Known for ability to produce high-quality
+deliverables that meet or exceed timeline and budgetary targets.
+* Solution provider: Skilled troubleshooter focused on identifying and resolving ongoing issues.
+
+
+
+
+PROFESSIONAL EXPERIENCE
+BAYVIEW ASSET MANAGEMENT * MIAMI, FL 03/2022 - PRESENT
+IT Project Manager
+
+* Run projects with the PMI Methodology. Manage projects from original concept through final
+implementation.
+* Serve as a liaison between the end-users and IT Support team and gather business functional
+requirements and technical requirements for implementation of rollout.
+* Working with MS Project, Establishing & communicating clear & achievable objectives for each
+project.
+* Setting due dates & managing the project schedule/timeline Coordinating and leading
+technical team.
+* Utilize and implement project management processes and methodologies for IT that ensure
+projects are delivered on-time, within budget, adhere to high quality standards, and meet the
+customer's expectations.
+* Interaction with all areas affected by the project including business sponsors, operations,
+end users, computer services, client services, operations & vendors.
+* Working with CISO and Compliance in security strategies for project management security
+procedures in order to meet customer needs, working together with the project team,
+stakeholders and key vendors and effectively coordinating the necessary activities.
+* AWS / Azure: Managing the Cloud connectivity design project with both teams, and integration
+of new platforms to the cloud.
+* Patch Management: Thorough patching work throughout the company in order to meet compliance
+requirements, including Servers, Routers & Switches, Windows computers.
+* Created and managed a project plan to deploy Endpoint data security, with Intune, as well as
+DUO MFA. for laptops and remote access to the corporate network.
+* Managed team to deploy Atakama Encryption software and organized all initial troubleshooting
+incoming cases after roll-out.
+* Relocation of satellite offices through USA. (Telco room, connectivity, cabling, desktops,
+servers, coordination, installation, and configuration).
+* Working with vendor on the transition of O365 Service Now incident ticketing system from
+in-house to a vendor outsourcing.
+* Migration from servers located in local UCS to a new Nutanix system. Worked with team and
+coordinated migration with business users according to server availability.
+*
+* OMG Technology, LLC / AMG Consulting (Merger/Acquisition) * Miami, FL 04/2018 - 03/2022
+* IT Project Manager
+*
+* Assist Chief Technology Officer & Sr. Project Manager in completion of the different group
+relocation project goals.
+* PMO, align and standardize enterprise processes, and implementation of all the document
+templates needed for Initiation, Planning, Execution, Control and Closure for the PMO office
+projects.
+* Run projects with the PMI Methodology. Manage projects from original concept through final
+implementation.
+* Working & developing project charters. Review progress, manage resources, and ensure overall
+quality.
+* Assist Program Manager(s) in partnering with senior management in the business community to
+identify and prioritize opportunities to utilize IT to achieve company goals.
+* Working with MS Project, Establishing & communicating clear & achievable objectives for each
+project.
+* Setting due dates & managing the project schedule/timeline Coordinating and leading
+technical team.
+* Serve as liaison between technical team and functional area management requesting updates on
+the relocation project.
+* Create documentation of technical issues needing to be addressed for each employee
+cubical/office setup.
+* Serve as a liaison between the end-users and IT Support team and gather business functional
+requirements and technical requirements for implementation of rollout.
+* Utilize and implement project management processes and methodologies for IT that ensure
+projects are delivered on-time, within budget, adhere to high quality standards, and meet the
+customer's expectations.
+* Interaction with all areas affected by the project including business sponsors, operations,
+end users, computer services, client services, operations & vendors.
+* Identifying issues & risks & escalating them where appropriate. Produce risk registry.
+* Worked with cabling sub-vendors on implementation of CAT5e and CAT6 cabling to enable
+computer systems and telephony.
+* Partnered with internal teams to test and deploy improved IT systems, Microsoft Windows
+servers, and new LAN, WAN, Telephony, Server, and desktop technologies.
+* Part of the project team for the migration of 5,000 users from Active Directory / Exchange
+Servers to Microsoft Office Cloud 365.
+* Implemented the migration from Windows 8 to Windows 10.\
+* Created and managed a project plan to deploy Endpoint data security, with Intune. For
+Laptops and remote access to the corporate network.
+* Worked with CISO in security strategies for project management security procedures in order
+to meet customer needs, working together with the project team, stakeholders and key vendors
+and effectively coordinating the necessary activities.
+* Started CASB Implementation for protection of customer's SAAS Solutions. Created a project
+plan to track milestones and activities in regards to this security solution.
+* Desktop migrations projects for multiple Clients of OMG Technology.
+* Relocation of satellite offices through USA. (Telco room, connectivity, cabling, desktops,
+servers, coordination, installation, and configuration).
+
+AMGCS LLC * WESTON, FL 03/2015 - 03/2018
+IT Project Manager
+
+* Managed people, work and resources as planned. Balancing competing demands for quality,
+scope, time & cost of each project.
+* Establishing & communicating clear & achievable objectives for each project. Organizing and
+facilitating all project meetings with clients.
+* Setting due dates & managing the project schedule/timeline. Coordinated communication with
+all company departments that impact the scope, budget, risk, and resources of the project.
+* Prepared presentations for executive meetings. Designed reports, statements, and
+administrative forms.
+* Utilized and implement project management processes and methodologies for IT that ensure
+projects are delivered on-time, within budget, adhere to high quality standards, and meet the
+customer's expectations.
+* Supervised resources ranging from 4 to 8 contractors, consultants, and employees.
+* Negotiated agreements with different type of Vendors (Software/Hardware/Resources).
+* Managed all confidential information exchanged between client & AMGCS.
+* Motivating the AMGCS team to achieve project objectives. Resolved conflicts quickly to keep
+project team functioning at a high level.
+* Proactively identifying issues & risks & escalating them where appropriate.
+* Documented project processes & changes along with lessons learned.
+* Managed CRM for the ongoing client relationships.
+* Microsoft Outlook e-mail migration coordination-worked closely with the I.T. Manager to plan
+& execute the Outlook 2016 e-mail migration.
+* Domain migration - worked with Chief Technology officer to plan & execute Doman migration.
+* Procurement & Inventory management for All AMGCS's clients.
+* Under general supervision, overall management of team & clients and assigned projects,
+including coordination of new system implementations, firewall status reports, and stability
+of the project work effort.
+* Worked directly with Microsoft to determine project issues and specifications.
+* Collaborated with business teams and Solution Architects from different business units and
+outside vendor Microsoft to translate business requirements into technical specifications.
+* Developed strong communication skills consulting with technical level executives.
+* Managed client server implementation projects for AMGCS clients in the following industries:
+manufacturing, distributors, magazine, technical staffing and tire company.
+* Deployed the migration from Windows Vista to Windows 7.
+* Desktop migrations projects for multiple Clients of OMG Technology.
+* Worked with vendors (AT&T and Comcast) to implement DMARCs, T1, T3 and DS3.
+
+
+
+ARCHT DESIGN CORP- MIAMI, FL 07/2006-01/2015
+Project Coordinator / Junior PM / Project Manager
+
+* Created Construction Work Estimates and negotiated with customers.
+* Prepared required documentation for construction permit filing.
+* Billing, accounts payable, GL posting and reporting in QuickBooks.
+* Managed staff, and overseen payroll.
+* Coordinated work start date with all involved areas, including outside sub-contractors.
+* Set and enforced project deadlines. Coordinated tasks and resources with construction teams.
+* Ensured that projects fulfill budget and quality standards.
+* Monitored implementation of cabling (CAT5E, CAT6).
+
+
+
+CRESCENT HEIGHTS - MIAMI, FL 01/2000-05/2005
+Executive Project Manager for New Construction Developments
+
+* Executive project manager for several new Construction real estate developments.
+* Developed strong relationships with the team members, creating a solid communication flow,
+at Job site level as well as with executive members.
+* In charge of all major areas of the projects, accounting, and financials, controlling the
+construction development schedule and budget, to meet established goals on a monthly basis.
+* Posted monthly general ledger activity, bank accounts reconciliation through Great Plain
+Dynamics Software.
+* Approved accounts payable for payment submission.
+* Responsible for the project financial activity, maintaining budget goals, cash flow, payroll
+cost.
+* Monthly review of local Site managers reports for construction monthly development, new work
+approval request and change order reports.
+* Responsible for meeting the established construction schedule goals and reported to
+executive offices.
+* Developed and enforced policies and procedures for job site operations.
+* Assisted with yearly outside accounting audit by delivering files and project information.
+
+
+
+TECHNICAL PROFICIENCIES
+
+Protocols: Ethernet, MPLS, HTTP, File transfer, Internet Protocol, OSI Model.
+
+Operating Systems / Software:
+Windows, Microsoft Exchange, Active Directory, Microsoft Office, Microsoft CRM, Citrix, Microsoft
+SharePoint, Microsoft Project, Daptiv., QuickBooks, Oracle Financial, Microsoft Great Plains
+Dynamics
+
+Hardware: ESOFT Firewalls, Cisco Routers, Windows Servers, Dell servers, Backup Exec, VMWare and
+Hyper-V,
+CCTV, DVR's, NVR's
+
+
+
+EDUCATION AND CERTIFICATIONS
+
+UADE UNIVERSITY, Buenos Aires, Argentina
+Bachelor of Business Administration - 1999
+
+GOLD COAST SCHOOLS
+Florida Loan Officer License - 2009
+
+GOLD COAST SCHOOLS
+Florida Real Estate License - 2003
+
+PMI CERTIFICATION
+In the process of obtaining the PMI Certificate
+
+
+Professional Development
+FLORIDA ATLANTIC UNIVERSITY
+PROJECT MANAMENT Intro
+Florida
+
+FLORIDA ATLANTIC UNIVERSITY
+PROJECT MANAMENT Advanced
+(IN PROCESS TO OBTAIN PMP CERTIFICATION)
+Florida
+

@@ -1,0 +1,44 @@
+
+Jeremy Ellis
+4101 Bigelow Boulevard Apt. F07 * Pittsburgh, PA 15213 * (818) 923-8398 *           jeremyoellis@gmail.com
+________________________________________________________________________________________________________________________
+
+SUMMARY
+Biomedical engineer with knowledge in product design, reliable in a team, and an innovative problem-solver
+seeking experience in the field of synthetic biology.
+
+EDUCATION Bachelor of Science in Engineering, Biomedical Engineering
+May 2018     Arizona State University, Tempe, AZ
+  Major GPA: 3. 17
+Engineering Without Borders and Biomedical Engineer Society
+
+TECHNICAL SKILLS
+  Tools: AutoCAD, SolidWorks
+Programming: C++, Python
+  Applications: MS Word, Excel, PowerPoint, MatLab, Logger Pro, ImageJ, Leica LASX
+
+CLASS PROJECTS
+  Fulton Furnace Fallout                                                                            Fall 2016
+  Arizona State University, Tempe, AZ
+       *   Collaborated with a team assembled on site for thirty-eight hours to complete project
+       *   Successfully designed and fabricated a working prototype of a portable refrigeration unit using a solar
+           cell, drill pump, and a vacuum cleaner.
+       *   Took second place after presenting an idea to a group of potential investors and entrepreneurs.
+
+
+
+WORK EXPERIENCE
+ Paid Intern, Prudential Lighting, Vernon, CA                                           May 2015-July 2015
+       *   Inventory management and cost analysis
+       *   Assigned cost and weights to parts within the company catalog
+
+
+
+ Lab Tech,  SKMO Lab, Tempe, AZ                                                       Sept 2018-August
+2019
+       *   Maintenance of equipment
+       *   Assisting grad students with culturing, maintenance, and harvesting cell tissue
+       *   Handling package storage and inventory
+       *   Microscopy
+       *   Networking with vendors
+       *   Bacterial transformation, plasmid collection and digestion, analysis via qPCR

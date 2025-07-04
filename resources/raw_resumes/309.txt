@@ -1,0 +1,146 @@
+
+DHEERAJ KUMAR BHAYYA
+                         2828, Apt #622, Hayes Rd, Houston, TX  77082
+                         (bhayyadk@hotmail.com) 409-828-1848.
+************
+
+
+OBJECTIVE
+Continue career advancement at a progressive EPC/manufacturing company,
+utilizing my skills and professional experience.
+PROFESSIONAL SUMMARY
+* 5 Plus years of experience in upstream, midstream & downstream industry
+  as a Facilities/Process Engineer.
+* Experience includes process design, equipment and line sizing, heat and
+  material balance calculations, process flow diagrams, process and
+  instrumentation diagrams and equipment lists.
+* Preparing various process studies, production allocation calculations,
+  equipment and instrumentation datasheets for major equipments like two
+  and three separators, heater treaters, pumps, heat exchangers, air
+  coolers, compressors, pressure relief devices, measurement devices and
+  control valves.
+* Development of process unit models like TEG Glycol Dehydration, High
+  Pressure Gas compressor, Vapor Recovery Unit and methanol injection
+  system using Aspen HYSYS.
+* Performed piping network hydraulic studies on various utility systems
+  such as flare disposal, instrument/plant air systems, fuel gas system
+  and chemical injection system.
+* Proficient in the use and application of Industrial/Simulation tools
+  such as Aspen Plus, Aspen HYSYS, Flarenet, Pro II, HTRI, AFT Arrow &
+  Fathom, Flaresim and Ariel Compressor.
+WORK EXPERIENCE
+EDG Inc. (Facilities Engineer)
+Sep13-Present
+Clients: Pioneer Natural Resources, Conoco Philips, Vaalco Gabon Inc and
+Maersk Oil.
+* Currently working on the development of Onshore and Offshore
+  Facilities.
+*     Preparing various reports like process design basis, utility
+      studies, equipment comparison and selection, fuel gas assessment
+      and hydraulic assessment.
+*     Developing the Process Model using Aspen HYSYS and increase the
+      yield of production by performing stream flashes and modeling
+      complete process system; including condensate / oil stabilization,
+      compression, dehydration, treating, vapor recovery unit, chemical
+      injection systems and other related processes and perform heat and
+      material balance calculations.
+*     Performing preliminary sizing and equipment design using Aspen
+      HYSYS.
+* Developing detailed design of equipments like separators, heater
+  treaters, scrubbers, compressors, air coolers, pumps, tanks, knockout
+  drums and preparing relevant equipment specification datasheets.
+*     Performing line sizing, nozzle sizing, flare header sizing,
+      blowdown valve sizing, control valve sizing and develop Block Flow
+      Diagrams, Process Flow Diagrams and Process & Instrumentation
+      Diagrams.
+* Prepared equipment list, line list, SP Item List and PSV list
+* Performed radiation and dispersion calculation for flare sizing using
+  Flaresim and calculated the size of flare and flare tip.
+* Calculated hydraulics for under-water seabed piping and recirculation
+  loop for offshore facility.
+
+Jacobs Engineering Group Inc. (Process Engineer-II)
+Nov 12-July 13
+Client: Marathon Petroleum Company, Catlettsburg Refinery.
+* Worked on Utica Condensate Process Modification project and Fluid
+  Catalytic Cracking Project
+* Developed and extracted heat and material balance data for various
+  equipments using Aspen HYSYS.
+* Evaluated tray sizing using KG tower for revamp study.
+* Redlined piping and instrument diagrams (P&ID's), process flow diagrams
+  (PFD's), and material selection diagram (MSD's).
+* Designed and rated pumps, scrubbers, separators using hydraulic
+  programs and heat exchangers using HTRI.
+ Client: Shell Chemical Company, Geismar.
+ * Worked on Instrument and Plant Air Studies and Flare Disposal
+  projects.
+ * Developed model and calculated hydraulics for existing Instrument Air
+  System using AFT Arrow and for Flare disposal System using Flarenet.
+ * Proposed system modifications by reducing potential for activation of
+  Nitrogen and utility air for Instrument and Plant Air System and
+  minimized relief valve backup pressure for Flare Disposal System to
+  accommodate future expansion.
+ Invista
+ Position: Process Engineer
+ Feb 12- Nov 12
+ * Designed and Revalidated Pressure Relief Valves, Rupture Disk,
+  Breathing air systems and Vents.
+ * Conducted in depth over-pressure scenario analysis and case studies
+  for existing pressure relief devices on Distillation Column,
+  Separators, Heat Exchangers, Pumps, Compressors and piping.
+ * Performed hydraulic calculations as per the isometric drawing using
+  AFT Arrow and Fathom.
+ * Calculated pressure drop in inlet and outlet piping, and extracted
+  heat and material balance data from Aspen Plus. Determined required
+  relief load and orifice size using spreadsheets.
+ Maheshwari Solvent Extractions LTD., INDIA
+ Position: Process Engineer
+ July 08-Nov 09
+ * Monitored the unit operations during the process of extracting and
+  refining of edible Oil from the raw rice bran.
+ * Maintained the operating conditions and free fatty acid concentrations
+  in various units like Extraction, Distillation, Disolventiser toaster,
+  Degumming, Deodorization, Filtration and Bleaching of batch and
+  continuous process.
+ * Assisted Sr. Engineer on day to day basis on process performance and
+  quality for both solvent extraction and edible oil refining process.
+ * Experienced in process troubleshooting and participated in
+  pre-commissioning process.
+ * Performed line hydraulics and material balance at various stages of
+  the refinery.
+ * Prepared line lists, equipment lists, and material selection
+  diagrams.
+ * Monitored the ratio of earth during bleaching and percentage of oil in
+  dewaxing Stage.
+ * Involved in rice bran purchase and by-product as wax, gum,
+  disolventiser toaster waste for sales.
+
+INTERNSHIP at APGENCO, INDIA
+Position: Graduate Engineer Trainee
+Aug 07-May 08
+"Analysis of Heat and Mass Transfer Coefficients of Packed Bed
+Deaerator"
+* Designed Pall Rings and studied the performance of spray nozzle
+  distribution systems in dissolved oxygen medium.
+* Controlled the corrosion causing strategies by modifying operating
+  conditions of the system.
+ACADEMIC PROJECTS
+Projects on Simulation tools like ASPEN HYSYS, ASPEN Plus and PRO-II
+* Modeled and optimized Propylene/Propane Splitter using ASPEN HYSYS.
+* Simulated Ketene manufacturing plant using Aspen Plus by optimizing
+  various unit operations.
+* Optimized the Multivariable Distillation Column using PRO-II to
+  separate benzene and toluene.
+EDUCATION
+Master of Engineering (M.E.) in Chemical Engineering
+Dec 11                       GPA: 3.6/4.0
+LAMAR UNIVERSITY, BEAUMONT, TEXAS
+ACHIEVEMENTS
+* Received appreciable accolades through papers on "Production of Diesel
+  from Waste Plastics," "Removal of Carbon Dioxide by Nano Gold
+  Particles" and "Uranium from Sea Water" at national level technical
+  symposia.
+* Received a competitive graduate scholarship as part of the Master's
+  program.
+* Received a certificate of recognition for Availability in year
+  2013-2014 from EDG INC.

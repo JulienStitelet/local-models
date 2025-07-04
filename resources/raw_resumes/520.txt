@@ -1,0 +1,265 @@
+
+
+
+Nithin Chowdary
+Ph :496-202-4131
+Salesforce Developer
+
+Professional Summary:
+*      Over 8+Years of Salesforce.com and CRM Platform and Apex technologies.
+*      Experience in working with Salesforce developer toolkit (Apex, Visualforce, force.com IDE, SOQL
+and Web Services/ Metadata API).
+*      Good knowledge on Apex development in creating Objects, Triggers, Apex Classes, Standard
+Controllers, Custom Controllers and Controller Extensions.
+*      Defining and managing custom Objects, creating page layouts, developing fieldvalidations, campaign
+Management, formulas and workflow rules using Salesforce.com and Eclipse IDE.
+*      Extensive work experience on designing of custom fields, role based page layouts, custom Tabs,
+custom reports, report folders, report extractions to various formats, design of Visualforce Pages,
+Snapshots, Dashboards, Apex Classes, Controllers & Triggers, and various other components as per the
+client and application requirements.
+*      Experienced in creating and activating the Marketing Campaigns in Salesforce.com.
+*      Experience in implementing JavaScript, Jquery, and CSS for both Visual force pages and lightning
+components using Salesforce Lightning design system and AURA tags.
+*      Experience in Force.com Apex Classes, Apex triggers, Visual Force, Batch Apex, Integration, REST,
+SOAP based Web Services, Force.com API, SOQL and SOSL, and AppExchange.
+*      Experience in SFDC Administrative tasks like creating Profiles, Permission Sets, Roles, Users,
+Record Types, Email Services, Reports, Dashboards, Tasks and Actions.
+*      Hands on experience implementing Role Hierarchies, Sharing Rules and OWD settings for system
+security design.
+*      Ability to efficiently analyze and interpret data usingSalesforce and Well versed in
+Administration setup such as manage users and data management.
+*      Implementation experience on using Apex Language (Classes, Controllers & Triggers), VisualForce
+pages, Custom Apps, Custom tabs, Custom Objects, Custom Fields, relationships, Page layouts,
+validations, workflow rules, S-Controls, Reports, Analytical Snapshots and Dashboards.
+*      Experience in working with Agile methodology/ Scrum and SDLC.
+*      Hands on experience implementing Security/Sharing rules, configured Permission Sets, Field level
+Security, Record level Security, Profiles, Roles and resource monitoring at different hierarchical
+level of Organization.
+*      Accurate in setting the appropriate workflow and validation rules on the given data.
+*      Automated Business processes through Visual workflows and process builders.
+*      Good understanding ofSalesforce setup menu, Configuration, custom application development,
+administration and deployment of applications to Force.com platform.
+*      Good Experience in building Custom Applications that includes administration, configuration,
+implementation and support experience onSalesforce.com and Force.com.
+*      Extensive experience in designing of custom objects, custom fields, Pick-list, Page layouts,
+Workflows, custom Tabs, reports, design of Visual Force Pages, Dashboards, and Email generation
+according to application requirements.
+*      Proficiency in analyzing business requirements, entity relationships and converting them toSalesforce
+ custom objects, object relationships, Entity relationship data model, Pages, Classes, Interfaces,
+Workflow rules, Email Alerts.
+*      Understanding and functionality of Web Services for SOAP API and REST API.
+*      Experience in using the sandbox for testing and migrated the code to the deployment instance after
+testing.
+*      Good exposure on Design Patterns (Creational, Structural and Behavioral).
+*      Extensive experience in developing enterprise applications using Java and J2EE technologies such
+as JSP, Servlets, Tiles, Struts, Spring, XML, XSL, HTML, JavaScript, JDBC and CSS.
+*      Good exposure to RDBMS, SQL and PL/SQL, writing SQLscripts for efficient report generation.
+*      Experienced in full life cycle application development from requirements gathering and design to UAT
+ (User Acceptance Testing).
+*      Highly organized and dedicated with a positive attitude, capable of producing results immediately
+on hire.
+*      Customer centric with effective interpersonal, organizational and problem solving skills.
+
+Technical Skills:
+Salesforce Technologies    Apex Language, Apex Trigger, Apex Scheduler, Batch Apex, Apex Class & Apex Web Service, Partner WSDL
+& Enterprise WSDL and Visualforce (Page, Component & Controllers).
+Custom Integration
+Outbound Messages, Workflow & Approvals, Field updates, Reports, Custom Objects, Custom settings,
+Custom labels & Tabs, Email Services, Role Hierarchy, Dashboards, Security Controls, AppExchange
+Package & Custom Application & Sandbox data loading.
+
+Force.com tools    Apex Data loader, Force.com Apex Explorer, AJAX tool kit, Force.com Migration Tool, Force.com Excel
+connector and Force.com Eclipse IDE Plug-in
+Programming Languages    Java, C, C++, VB, APEX and UML
+Java/J2EE/Web Technologies    J2EE, JSP, JDBC, RMI, Applet, Java Script, XML, XSLT, DTD, XML Schema, HTML, DHTML, Shell Scripts
+and Web service
+Database    MS SQL Server and MySQL
+IDE    Eclipse, My Eclipse and Force.com Eclipse IDE plug-in
+
+
+
+Professional Work Experience:
+
+Safeway, Pleasanton, CA                              Jun 2019 - Till Now
+Sr. Salesforce Developer/Admin
+Responsibilities:
+*      Worked with Business System Analyst to provide recommendation and designed the Best Solutions for
+implementing new business ideas.
+*      Development, implementation and update focusing on Sales cloud and Service cloud.
+*      Implementation of Apex Triggers, Apex Class for automation of the business process on Account, Contact
+, Opportunity and Custom Objects.
+*      Implementation of Batch Classes, Scheduled Classes as part of the Business Requirement.
+*      Wrote an Apex Trigger on Contact for cross-object field update for reporting purposes.
+*      Enhanced Apex Class and Visual Force Page to create a custom Related List, showing activities for
+selected contacts or clients.
+*      Integrated Salesforce.com with external systems like Oracle and SAP using SOAP API and REST API.
+*      Visual Force Pages using Standard Controllers, Custom Controllers, Extension Controllers & Web
+Services API.
+*      Creating new User Interface using JavaScript, HTML and CSS in Visual Force Pages.
+*      Created Page Layouts to organize Fields, Custom Links, Related Lists & other Components on Record
+Pages.
+*      As an Administrator implemented various advanced fields like Picklist Fields, Master-Detail Fields
+, and Custom Formula Fields and defined Field Dependencies for Custom Picklist Fields.
+*      Worked on various Salesforce standard objects like Accounts, Contacts, Cases, Opportunities,
+Products, Opportunity Line Items, Leads, Campaigns, Reports and Dashboards.
+*      Designed, and deployed the Custom objects, Custom tabs, Entity-Relationship data model, validation
+rules, Workflow Rules, Auto-Response Rules, Page layouts, Components and Visualforce Pages to suit
+to the needs of the application.
+*      Designed and developed User Interfaces for Sales Force users as per requirements.
+*      Wrote SOQL& SOSL statements within custom controllers, extensions.
+*      Worked on Salesforce.com Standard Objects such as Accounts, Contacts, Opportunities, Campaigns, Cases
+and Solutions.
+*      Performed administrative tasks such as managing Accounts, Contacts and Cases, setting Workflows
+and Approval Process for approving new accounts and another business process.
+*      Created and maintained Reports and Dashboards to provide fast access to key business metrics.
+*      Case Management by Configuring Email-to-Case for the end user to submit a case through Outlook.
+*      Created and configured Email templates which were used by PCS Central users for approval processes
+and other field updates.
+*      Customized Salesforce.com User Profiles by setting Standard and Custom objects layouts, Custom App
+, Field-level Security, Permission Sets for client services and marketing.
+*      Customized Chatter objects and tabs to view progress and discussion on business process.
+*      Worked on different Sandboxes for development & testing; Involved in migrating the code to
+production instance in installments using Change Set.
+*      Configured Chatter to track emails from Outlook to Salesforce by following a user.
+*      Responsible for weekly and monthly Data Export, updates and backup for the organization.
+*      Used Apex Data Loader to Insert, Update and Import data from Microsoft Excel into Salesforce.com.
+Environment: Salesforce.com, Force.com, Data Loader, Apex Classes, Controllers, Triggers,
+Visualforce, Sales Cloud, Service Cloud, Data Migration, Informatica, SOQL, SOSL, Workflow &
+Approvals, Java Ant, Custom Reports, Dashboards, Oracle, Windows.
+
+
+
+HomeSite Insurance, Boston, MA                              Oct 2017 - May 2019
+Sr. Salesforce Developer/Admin
+Responsibilities:
+*      Involved in various stages of Software Development Life Cycle (SDLC) including analysis,
+requirement engineering, architecture design, development, enhancements, testing.
+*      Designed, developed and deployed Apex Classes, Controller Classes and Apex Triggers for various
+functional needs in the application.
+*      Created Custom Objects and fields for transactional and contractual information.
+*      Created Templates, Approval Page Layouts and defined Approval Actions on them to automate the
+processes.
+*      Created Visualforce Pages to provide UI to the custom objects.
+*      Developed and maintained SFDC analytical reports and dashboards for management review and planning
+for accurate forecasting purposes.
+*      Developed Salesforce.com ETL processes using Cast Iron, Informatica, Java and SalesforceWeb
+Services Java API.
+*      Administrator for different salesforce.com CRM application for sales cloud and service cloud.
+*      Used SOQL & SOSL for data manipulation needs of the application using platform database objects.
+*      Created Page Layouts, Record Types, Profiles, Permission sets, security and sharing, Cases, Report
+Types, Reports and Dashboards, master-detail and lookup relationships.
+*      Performed Apttus CPQ related configuration for product setup, approval matrices, approval rules,
+process builders and flows.
+*      Driving business requirement related meetings in order to capture the technical requirements for
+the CPQ implementation.
+*      Customized the Configuration Process and Document Engine for BigMachines application.
+*      Used Salesforce Automation Process, created workflow rules and defined related tasks, time-triggered
+ tasks, email alerts, and field updates to implement business logic.
+*      Designed and developed Apex Classes, Controller Classes, extensions and Apex Triggers for various
+functional needs in the application.
+*      Worked as enhancement developer and team member, performed the roles of Salesforce.com Developer
+and Administrator in the organization.
+*      Worked closely with Java development team in Agile Environment to build and support current
+dashboards and portals.
+*      Involved in migrating the data from Oracle database to Salesforce application using Apex Data
+Loader.
+*      Used Informaticacloud service to integrate the data between systems.
+*      Involved in Data Migration from Traditional Apps to Salesforce Using Data Loader Utility.
+*      Experienced in Unit Testing, for the customizations and developments done during the project.
+*      Involved in the Data Transformation and Data Cleaning activities while transferring the data to
+the external system using Informaticaon demand.
+*      Used the sandbox for testing and migrated the code to the deployment instance after testing.
+Environment:Salesforce.com, Force.com, Data Loader, Apex Classes, Controllers, Triggers,
+Visualforce, Sales Cloud, Marketing Cloud, Service Cloud, Data Migration, Informatica, SOQL, SOSL,
+Workflow & Approvals, Java Ant, Custom Reports, Dashboards, Oracle, Windows.
+
+
+
+
+Charter Communications, St. Louis, MO Jun 2015 - Sep 2017
+Salesforce Developer/ Administrator
+Responsibilities:
+*      Implemented the requirements on Salesforce.com platform and Force.com IDE Plug-in using Eclipse.
+*      Interacted with various business user groups for gathering the requirements for salesforce.com CRM
+implementation.
+*      Worked with the user group for requirement gathering throughout the planning and implementation.
+*      Implemented Validation rules, Email Templates, Sharing and Security rules for the application.
+*      Interacted with Salesforce Administrators and senior Developers to design application modules
+*      Using Object-Oriented design methods.
+*      Implemented Salesforce for Outlook functionality and installed outlook integration with different
+user systems.
+*      Involved in Setting up and customized the apps in Salesforce.com Application to match the
+functional needs of the organization.
+*      Involved in code-review sessions to identify potential problem areas and suggest alternative
+solutions
+*      Created Custom fields, Objects, Tabs, Page layouts, Custom Buttons, Workflows Alerts and Actions,
+Approval processes.
+*      Assigned some special permission to some users using permission sets.
+*      Created workflow rules and defined related actions - tasks, field update, email alert, time
+triggered tasks, to implement business logics.
+*      Worked with various salesforce.com objects like Accounts, Contacts, Leads, Campaigns, Reports, and
+ Dashboards.
+*      Worked with Data Loader and App Exchange Applications.
+*      Worked with different Deployment Plans for each release and Sandbox Refreshing.
+*      Worked with different Record types to setup for different Page layouts based on profiles.
+*      Involved in setting up the Role Hierarchy and assigning the Users as per the role.
+*      Created different Profiles and setup the permissions based on the roles in the organization.
+*       Worked on new UI interface, which is Lighting Experience in salesforce.
+*      Worked on EchoSign for the electronic sign on the agreement and making it through auto generated
+email to the customers.
+*      Created Apex Classes, Apex Triggers and Visual force pages depending upon the requirement.
+*      Created custom Dashboards for manager home page and gave accessibility to dashboards for
+authorized people.
+*      Maintained user roles, security, profiles and workflow rules validation rules wherever necessary.
+*      Worked inSolving troubleshooting issues and Platform Operation.
+*      Used sandbox for testing and migrated code to deployment instance after testing.
+*      Provided training to internal business users to use application and develop their own custom
+reports.
+*      Supported data migration activities for migrating data from various business centers and business
+center users with the support of Saleforce.com.
+*      Defined documentation review cycles for the project, assign review tasks to the project team and
+communicating project status, escalate issues to management.
+Environment:Saleforce.com platform, Data Loader, HTML, Java Script, Workflow & Approvals, Reports,
+Custom Objects, Custom Tabs, Email Services, Security Controls, Apex language, Visual Force (Pages,
+Component & Controllers) and Sandbox data loading.
+
+
+Cummins, Columbus, IN Nov 2013 - May 2015
+Salesforce Developer
+Responsibilities:
+*      Interacted with various business team members to gather the requirements and documented the
+requirements.
+*      Worked with functional leads to transform and develop new requirements into design,
+implementation.
+*      Created Visualforce pages with fields, buttons and using various components to invoke methods.
+*      Using controllers embedded JavaScript and HTML as needed.
+*      Implemented new look and feel to Customer Portal by creating Headers and Footers with the help of
+HTML, JQuery, and Visualforce Pages.
+*      Partially developed a Customer Service and a Knowledge Base portal. Specifically, developed Workflows,
+ Report Types, and User Profiles and reused existing Visualforce code templates for quick mockups.
+*      Developed and configured various Reports and Report Folders for different user profiles based on
+the need in the organization.
+*      Designed, developed and deployed the Custom objects, Page layouts, Custom tabs, Components,
+Visualforce Pages, Apex classes to suit to the needs of the application.
+*      Create various profiles and configured the permissions based on the organizational hierarchy
+requirements.
+*      Defined Lookup and Master-Detail Relationships on the objects and created junction objects to
+establish connectivity among objects.
+*      Wrote SOQL& SOSL statements within custom controllers, extensions.
+*      Involved in Field&page layout customization for the standard objects like Account, Contact, and
+Leads.
+*      Created Workflow rules and defined related tasks, time Triggered tasks, Email alerts, Filed
+updates to implement business logic. Customizing Custom Objects, Tabs, Fields, Page layout as per
+the business need.
+*      Defined Lookup and Master-detail relationships on the objects and created junction objects to
+establish connectivity among objects. Involved in security levels and privileges by customizing Salesforce.comProfiles
+ and Roles.
+*      Integrated Email with Salesforce.com for mass E-mail management and designed various custom E-mail
+templates.
+*      Maintained User Roles, Security, Profiles, and Workflow rules wherever necessary.
+Environment: Force.com, Apex, Data Loader, Import Wizard, Eclipse IDE, Triggers, Custom objects,
+Layout, SOQL (Salesforce Object Query Language).
+
+
+
+

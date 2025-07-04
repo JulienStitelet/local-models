@@ -1,0 +1,217 @@
+
+
+Name: SREE
+Phone: 571-419-3224
+E-MAIL: VSREE1101@GMAIL.COM
+
+
+SUMMARY:
+      *      Having 7+ years' experience in creating interactive software products using front end
+        development technologies like HTML4.01,/HTML5, CSS2/CSS3, JQUERY, and JavaScript.
+      *      Involved in various phases of Software Development Life Cycle (SDLC) and AGILE methodologies
+         of Analysis, Design, Development, Implementation, Testing and User Training of Enterprise
+        Web Applications, Stand alone and Distributed applications.
+      *      Experience with JavaScript MVC Frameworks such as AngularJS.
+      *      Deep knowledge of AngularJS practices and commonly used modules based on extensive work
+        experience.
+      *      Created the Controllers and Controller Actions, Action Results, Views, View Models, Html
+        Helpers, Partial Views, Layouts Filters, Routing using ASP.NET MVC.
+      *      Superior proficiency in implementing Filters, Validations, Controllers, Components,
+        Directives, Routings, Factory and Services in Angular 2.
+      *      Solid experience in developing Single Page Applications (SPA) and client-side
+        functionalities with various rich UI and responsive features along with performance
+        functionalities in the web applications using JavaScript/UI frameworks like AngularJS
+        (2.0/1.6/1.5), JSON, JQuery, XML, Bootstrap 3.2, AJAX, HTML (5/4), DHTML, XML, CSS (3/2).
+      *      Implemented WEB API Services for CRUD operations with HTTP verbs GET POST, PUT and DELETE,
+        handled the exceptions in Web API and customized the Exceptions using Exception Filters and
+        registered them at the Action Level.
+      *      Proficient knowledge in Entity Framework 6.0/4.3 Code First and Database First approaches
+        with ASP.NET MVC 5.0/4.0 to implement CRUD operations, data massaging, Fluent API with LINQ
+        to Entities.
+      *      Administration and monitoring of your network using PowerShell including: System
+        Integration, Monitoring, Application Support, Inventory Collection.
+      *      Strengths in Database Structure Designing like Creating and Altering Table, View, Stored
+        Procedures, User-Defined Functions, Built-in Functions, Triggers and Indexing using MS SQL
+        Server 2005/2008/2012.
+      *      Hands-on experience with Reporting Tools in writing and tuning with better design and much
+        information in different layouts using SQL Server Reporting Services (SSRS).
+      *      Familiar with multiple version control systems such as Team Foundation Server (TFS), VSTS,
+        Clear Case and Subversion for active tracking of work progress and maintaining code
+        repository.
+      *      Performed unit testing using MS-Unit, N-Unit and participated in system testing.
+
+TECHNICAL SKILLS:
+Operating Systems:    Windows 2008 R2/2008/2003, XP, Vista, Windows 7, and Windows 8.
+
+Programming Languages:    C#.Net(4.0/3.5/3.0), VB.NET (10.0/9.0/8.0), HTML, T-SQL, PL/SQL
+
+Web-Technologies:    ASP.NET 4.5/4.0/3.5/3.0/2.0, ASP.NET MVC 4.0/3.0, Ajax 3.0/2.0, Javascript, AngularJS,Jquery,
+Angular2/4.
+UI Technologies:    HTML5, CSS3, Bootstrap, WinForms, WPF
+.Net Frameworks:    .Net Framework 4.5/.4.0/3.5/3.0
+Databases:    MSSQLServer 2012/2008R2/2008/2005/2000, MS Access 2010/2007/2003, Oracle11g/10g/9i/8i, Couchbase
+Reporting Tools:    SQL Server Reporting Services (SSRS 2008/2005), Crystal Reports
+Version Control Tools:    SubVersion, Git, Team Foundation Server(2008)
+Web services:    WCF, SOAP, Web API
+Middleware    WCF, ADO.NET 4.5/4.0/3.5/3.0/2.0, Web Services, Enterprise Library 5.0/4.0/3.1
+Servers:    Windows Server 2008/2003/NT, Microsoft IIS(7.0/6.0/5.0/4.0)
+
+
+
+EDUCATION:
+      *      Bachelor of Sciences in Computer Science and Engineering from JNTUH.
+
+
+WORK EXPERIENCE:
+
+
+KPMG, Montvale, NJ                        May 2018- Till Date
+.NET Developer
+   Responsibilities:
+      *      Involved in implementing the project according to the Software Development Life Cycle (SDLC)
+         and programming by using fast paced agile methodology, involving task completion, user
+        stories, and iterations and responsible for specifications review and part of estimation of
+        deliverables.
+      *      Participated with end users and business analyst to understand the business requirements.
+      *      Used Angular 2 and 4 framework with Typescript for programming.
+      *      Worked on Front end by using Angular 2&4, Angular JS and JavaScript to implement Single-page
+        applications(SPA).
+      *      Extensively used Git for version controlling and regularly pushed the code to GitHub.
+      *      Extensive knowledge of and use of Angular.js directives to bring additional functionality to
+        HTML.
+      *      Developed client side drop down menus, search bars and drop-down toggles using
+        Twitter-Bootstrap and jQuery.
+      *      Expertise in AngularJS on Filters, Validations, MVC, Controllers, Directives, Routing,
+        States, $http, $q, Factory and Service, also worked on Angular UI bootstrap.
+      *      Involved in developing the requirement with MVC, Web API, Ajax calls, Controls and unit
+        testing, system testing and release management.
+      *      Built Web Pages that are more user-interactive using AJAX, JavaScript, LESS, SASS and
+        AngularJS.
+      *      Developed the application using N-Tier architecture using C#, MVC4, Entity Framework 5/6,
+        LINQ, Web API, HTML5, CSS3, JQuery, Angular JS and Bootstrap UI
+      *      Created AngularJS Routing to connect different controllers to the views which allows the
+        single-page application (SPA).
+      *      Leveraged HTML5, Bootstrap for styling to improve user experience throughout.
+      *      Creating applications using VB.NET and enhancing projects for .NET applications
+      *      Created various RESTFUL services using WebAPI to return serialized JSON data which are later
+        consumed through AngularJS services.
+      *      Created and maintained database schema, tables, views, stored procedures and indexes for
+        better performance using SQL Server.
+      *      Developed reports using complex formulas and to query the database to generate different
+        types of ad-hoc reports using SSRS and SSIS.
+      *      Implemented Unit Testing through NUnit and created test cases for all functions used in the
+        application.
+      *      Utilized the TFS source control software to keep track of new and past versions of code
+        written in my application.
+Environment: .Net Framework 4.0, C#, MVC 4/5, Web Api 2.0, Entity Framework 5/6, WCF, LINQ, Angular
+JS 1.6, Angular 2/4, Bootstrap 3.0,UI, HTML 5,VB.NET, CSS 3, SQL Server 2012, NUnit, Microsoft
+Visual Studio 2015, Team Foundation Server (TFS), SSIS, SSRS.
+
+Syneos Health, Somerset, NJ.                        July 2016-April 2018
+
+   .NET Developer
+
+   Responsibilities:
+
+      *      Involved in SDLC in whole project, in Analysis, design and coding part.
+      *      Demonstrated the UI modules to Users with weekly meetings as per the SCRUM.
+      *      Participated in full development life-cycle using Object Oriented Programming (OOPS)
+        concepts and Agile SCRUM.
+      *      Developed the application using N-Tier architecture using C#, MVC4, Entity Framework 5/6,
+        LINQ, Web API, HTML5, CSS3, , XSL/XSLT, JQuery and Bootstrap UI
+      *      Created Windows services to develop automation processing of XML.
+      *      Integrate XML, XPATH and other types of programming into databases and applications
+      *      Designed and developed various abstract classes, interfaces, classes to construct the
+        business logic using C#, the middle tier contained all the business logic
+      *      Implemented abstract, sealed classes, interfaces and classes to construct the business and
+        data tier using C# and Entity Framework.
+      *      Developed MVC 5 pattern using Entity Framework for the Data Access Layer and UI with JQuery/Bootstrap
+        for the front end.
+      *      Also used JQuery which communicates with RESTFUL web service.
+      *      Working with JQuery Ajax, CSS, and callback Objects, Effects and Events
+      *      Created Client side validations with JQuery selectors, Events and Server side validations
+        with ASP.Net 3.
+      *      Designed and created Relational database tables using Normalization, Managed clustered and
+        non-clustered indexes and implemented Relationships b/w tables
+      *      Developed tabular, matrix and chart type of reports in SSRS also Worked on developing
+        end-to-end SSRS reports
+      *      Performed Unit Testing, Integration Testing and Regression testing for all units in
+        developed pages in a regular basis using NUNIT Tool to improve the performance of the
+        application.
+      *      Used Microsoft Team Foundation Server(TFS) to manage the team's software development
+        lifecycle including deriving product backlog items, assigning sprint work items to
+        developers and conducting sprint review meetings
+      *      Interacted with QA teams to review and develop data standards, data exchange, XML data
+        standard, and data sharing model
+      *      Coding for various Modules, Error Handling, Modification and Testing.
+ENVIRONMENT: C#4.0, ASP.NET3.5, MVC 5.0/4.0, .NET Framework 4.0, JavaScript, JQuery, Bootstrap,
+ADO.NET Entity Framework 6.0/4.3, Web API, NUnit, LINQ, TFS 2010, REST/SOAP, AJAX, SQL Server 2012,
+SOAP, IIS 7.0 , Visual Studio 2013/2015,PL/SQL, Windows XP, Windows Server 2008 R2/2008, SSRS.
+
+Regions Bank - Jupiter, FL                              Jan 2014-June 2016
+
+.NET Developer
+
+   Responsibilities:
+
+      *      Actively involved in gathering requirements from the customer service representatives for
+        application development.
+      *      Developed UI/Components/Classes/Methods for the application and also functionalities such as
+        data retrieval using C# .Net 4.0, ADO.Net.
+      *      Implemented Master page and CSS to achieve uniform look and feel for the entire site.
+      *      Worked extensively with Grid view, Data reader, Repeater, Data list and Data table to
+        display data on the UI. QA events, files and data that SOA generates each week.
+      *      Developed exception-handling functionality in the Business Logic Layer and MS SQL Server
+        database.
+      *      Created complex stored procedures, implemented queries, and views in MS SQL Server.
+      *      Designed and developed T-SQL Stored procedures, functions for calculating computational
+        values and data base triggers for auditing and worked on fine tuning the procedures for
+        optimal performance of application.
+      *      Implemented all data validations at client side to reduce frequent server requests, using JavaScript
+         and JQuery.
+      *      Extensively used State Management Techniques like Sessions state to maintain state between
+        the ASP.NET pages.
+      *      Code optimization was achieved by creating reusable classes and methods.
+      *      Integrated payment gateway functionality with Rest API for PayPal and Credit card
+        management.
+      *      Worked with Team Foundation Source control (TFS), which stores all code, as well as a record
+        of all changes and current checkouts for versioning.
+      *      Responsible for getting, understanding the business specs, preparing technical Specs.
+      *      Designed reports/dashboards and integrated HTML5 and fusion charts features using I-Report
+        and Jasper soft Professional Studio.
+      *      Worked with Domains, Ad hoc reports, data adapters and configured security for all users to
+        have access to their Domains.
+      *      Effectively used JQuery a concise of JavaScript library for creating animations on the web
+        pages.
+
+Environment: ASP.NET, C#, SQL Server 2012, ADO.NET, AJAX, JQuery, TFS, HTML, CSS, SSIS, SSRS, Rest
+API.
+
+Sysnet Technologies, Hyderabad, India.                                    July 2011 - Dec 2013
+Jr .NET Developer
+   Responsibilities:
+
+      *      Involved in complete Software Development Life Cycle of the project.
+      *      Involved in Building web applications with ASP.NET, JavaScript, JQuery, HTML and CSS.
+      *      Worked with ASP.NET Web Forms, Web Services, and State Management, Caching Features,
+        Configuring Optimizations and securing the web application.
+      *      Developed GAC explorer module using C# WinForms.
+      *      Extensive use of Web Services, SOAP, XML, XSL to expose the reports to facilitate
+        information sharing.
+      *      Used Custom Controls, User controls, and Server controls to design the screens.
+      *      Extensively used ADO.Net objects to populate Data sets, Data grid and Repeater controls for
+        display and manipulation of records. Created and consumed Web services to communicate
+        between the Windows (Desktop) and Web Application.
+      *      Responsible for maintaining versions of source code using Team Foundation Server 2010.
+      *      Used IIS to manage multiple websites and web applications.
+      *      Developed SQL Queries to fetch complex data from different tables in remote databases using
+        Inner/Outer joins, sub-queries, accommodating complex filters and database links.
+      *      Implemented Unit Testing, Integration Testing and System Testing using NUNIT.
+      *      Created drill down, drill through, sub and linked reports using MS SSRS as well as managed
+        the subscription of the reports.
+      *      Prepared the defect and status reports weekly by analyzing, reviewing and tracking the bugs.
+
+Environment: ASP.Net 3.5/4.0, Visual Studio 2008/2010, ADO.NET, C#, .Net Framework 3.5/4.0, Web
+Forms, Web Services, XML, SQL Server 2008, NUnit Framework, JQuery, SSRS, IIS 6.0, TFS 2010.
+
+

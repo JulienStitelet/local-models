@@ -1,0 +1,128 @@
+
+
+Romona Czichos
+lonestarr@sbcglobal.net
+Cell: 831-297-2034 - SOUTH BAY AREA
+WEB/UI/UX DESIGNER/DEVELOPER
+
+TECHNICAL SKILLS:
+PhotoShop, JavaScript, JQuery, Illustrator, WindowsOS, HTML 4 & 5, PPC MacOS, DreamWeaver, MS Office
+Suite, CSS 2 & 3, Acrobat, Premiere, ACCESS, FTP, Adobe Creative Suite, Adobe Captivate, Visual
+Studio, ADA, Responsive Design, Bootstrap, Angular, Motion Graphics, Git
+
+Education:
+    *      GED
+    *      A.A. Multi-Media Communications and Design, Masters Institute (vocational school), San Jose,
+      CA.
+    *      3 years of Computer Science courses from Cappella and Regis online University from 2009 to
+      2015
+
+CERTIFICATION AND TRAINING:
+    *      Gavilan College 2009 (PHP and MYSQL)
+    *      CSU Monterey Bay, Ca 2008 (ActionScript object-oriented programming CS3)
+
+DETAILED CAREER HISTORY
+Web Developer/Designer/UI/UX, Freelance      February 2017 to Present
+Designing, developing UI/UX. Built prototypes using Adobe XD. Creating forms with HTML5 and CSS3,
+SASS, wire frames, Photoshop creating graphics and design layout. Extensive use of Adobe suite for
+creating assets and design, including motion graphics. Using JavaScript and jQuery, Angular for
+single page application. Using BootStrap for responsive design. Ensuring compatibility with popular
+browsers and OS. Developing in Visual Studio. Extensive use of Git. 508 ADA compliant. Using MS
+Office Suite for correspondence and quick presentations.
+
+Production Manager for Cox Communications, during the Tokyo Olympic games. Research for content to
+put into play list. Create program menus. Update content throughout the Olympic Games.      UI/UX for
+Deloitte/State of Maryland, Developing in Visual Studio. Extensive use of Git. Making site 508 ADA
+compliant.
+
+Web Developer
+22nd Century/Defense Language Institute Monterey, Ca      May 2013 - November 2016
+Creating UI/UX Design, wireframes, full web pages and application that are compatible with Firefox,
+Safari, Chrome and IE and mobile devices. Extensive use of Adobe suite for creating assets and
+design. Using responsive design techniques that include media queries for screen size and BootStraps
+grid system to modify how the page layout looks for multiple screen sizes and devices both large and
+small. Using HTML 5, CSS 3, JavaScript framework JQuery, and JavaScript to build components and
+create interactivity. Using TFS as a CMS Currently working with Bootstrap for mobile devices. Worked
+with AngularJS2 to pre-populate forms fields that used information of the person who is logged-in.
+Visual Studio experience. Limited SharePoint 2013 and LESS experience. Using MS Office Suite for
+correspondence and quick presentations.
+
+Web Developer
+TCS/Vanguard Malvern, Pa      October 2012 - May 2013
+Converting interactive and data driven Flash components into HTML using HTML 5, CSS 3, JavaScript
+framework JQuery and JavaScript to mirror, replace the animation of the Flash components and to
+create interactive features and data driven calculations and motion graphics. Creating video,
+editing both video and audio. JQuery-UI/UX Design, YUI were used for the touch and slide features of
+mobile devices. Use Contribute as a CMS. HTML 5 canvas was used to make graphs. CSS 3 was used to
+make gradients, drop shadows, rounded corners and recreate the layout of the Flash pieces. Using XML
+for data. Making the components compatible with Firefox, Chrome, Safari, and IE 9. Developing
+internal webpages using responsive design techniques that include media queries for screen size in
+order to modify how the page layout looks for multiple screen sizes and devices both large and
+small. Worked with Agile methodologies.
+
+TCS/Santander Consumer USA Dallas, TX      June 2011 - October 2012
+Developing wireframes, internal website/applications and UI/UX Design components using Visual
+Studio, JQuery, XHTML, CSS and DOM, JavaScript. Use Contribute as a CMS. Limited SharePoint
+experience uploading files to share with team members and form creation. Created forms, validations,
+accordions and tab navigation using JQuery. Working with content management systems. Creating
+graphics for UI in PhotoShop and Illustrator. Extensive use of Adobe suite for creating assets and
+design. Interactive show/hide elements. Produced wireframes, customer service, which includes
+interacting with the customer. Worked with Agile methodologies and using responsive design
+techniques that include media queries for screen size in order to modify how the page layout looks
+for multiple screen sizes and devices both large and small. Using MS Office Suite for correspondence
+and quick presentations. Collaborating with offshore teams.
+
+Web Developer/Designer/UI, Freelance
+Hollister, CA                                    January 2010 - June 2011
+UI/UX Design for the State of California Social Interest Solutions, Working with Radiant Creative in
+Houston, TX. in creating for the University of Texas SME experience with Flex. Life lessons for 8
+graders. Developing and creating Lessons using Flash, ActionScript, Magpie and Illustrator. Creating
+and designing new sites using UI, UX, XML, XAMPP, PHP & MYSQL, XHTML, CSS, JavaScript, 508 ADA
+compliant, Flash, and ActionScript. Creating graphics in PhotoShop and Illustrator. Working with
+content management systems. Editing Audio, Syncing audio to animations. Creating animations and
+graphics. Built prototypes, wireframes and customer Service, which includes interacting with the
+customer.
+
+Web/Flash Developer/UI, L-3 Global Security and Engineering Solutions (L-3 GS&ES)
+Monterey, CA      September 2006 - October 2008
+Web/Flash developer for the Curriculum Development Division, E-Learning developer. Created, updated
+and edited web pages using DreamWeaver, some Ajax, JavaScript, CSS, XML and HTML, XHTML, UI, UX for
+all of FAM and Cip. Modified and tested content to work on an iPod. Managed web content and web
+services. Customer Service, which includes interacting with the customer to make sure specifications
+were as customer requested. Used an open source CMS. Also, created Object Oriented Flash
+Applications, and Flash Movies using Flash 8, CS2, CS3 and Flash-lite for e-learning purposes.
+Created graphics in Photoshop and Illustrator to incorporate into Flash FAM documents. Color
+corrected and sized images. Wrote, modified and updated ActionScript and XML to work with Flash
+animation and interactive pages.
+
+Web Editor/UI, Kelly IT/ Intel
+Santa Clara, CA                              March 2006 - September 2006
+Developed, maintained and updated Intel's legal and Ilt internal websites. Created UI/UX Design and
+Power Point Presentation using customers Word content. Use Contribute as a CMS. Recorded and editing
+audio to incorporate into the PowerPoint presentation. Customer Service. Worked with content
+management systems. Created graphics in Photoshop and Illustrator. (DreamWeaver, CSS, HTML and
+JavaScript)
+
+Web Developer/UI, South Valley Internet
+San Martin, CA      February 2005 - March 2006
+Build web pages from the Graphic Artist renderings and clients requests. Using DreamWeaver CSS,
+HTML, wrote JavaScript, manipulate photos, created images in Photoshop and Illustrator. Created
+UI/UX Design and forms in PHP that collected user information and emailed that information to the
+web site owners. Lead web developer, IT support, troubleshooting customer's internet and email
+issues, customer service. Content production, search engine optimization (SEO) and web authoring For
+South Valley Internet's clients.
+
+Production Artist, The Pinnacle News Paper
+Hollister, CA                                    October 2003 - February 2005
+Designed and built ads and layout of the real estate section of the paper as well as the monthly
+real estate magazine. Created PDF's and uploaded the PDF's to the printer's server. Customer
+service. (Acrobat, PhotoShop, Illustrator and PageMaker)
+
+Flash/Web Developer, Quantum Services (contract at education department Nasa/Ames)
+Moffett Field, CA                              2002 -2003
+Produced web pages writing XHTML, JavaScript and CSS. Created graphics for E-learning development in
+Photoshop and Illustrator for AstroVenture web site, in addition to writing ActionScript for two
+major Flash animations. 508 ADA requirements. Created animations and synced audio to animation.
+Edited MPEG video.
+
+

@@ -1,0 +1,163 @@
+
+TIM MCCARRON                                                               DESIGN SPECIALIST
+
+
+      TIMOTHY.MCCARRON@SBCGLOBAL.NET                          281-685-1360                        HOUSTON, TX
+
+ SKILLS
+
+  ****       SOLIDWORKS, SOLIDEDGE,
+             AUTOCAD, EPDM
+
+  ***        TEAMCENTER, MS OFFICE,
+             SMARTEAM, COSMOS, INVENTOR,
+             PRO ENGINEER, WINDCHILL,
+             SYTELINE
+
+  **         CADKEY, 3D STUDIO MAX, ADOBE
+             CREATIVE SUITES, VISUAL BASIC,
+             JAVASCRIPT
+
+  *          UNIGRAPHICS NX, UNITY 3D, C#,
+             VERSACAD
+
+EXPERIENCE
+
+EDUCATION
+
+
+SLIDELL TECHNICAL INSTITUTE*    SLIDELL, LA. *1987, 1991 - 1992
+    *   Associate Degree in Design and Drafting Technology
+    *   Certified as Level G-6 Welder.
+
+TEST VALLEY COMPREHENSIVE    *     STOCKBRIDGE, UK *     1984-1986
+    *   Graduated with majors in the following subjects:
+            o   Mathematics
+            o   Engineering Drawing
+            o   Physics
+            o   Chemistry
+            o   Art
+            o   English Literature
+
+DOVER PRECISION COMPONENTS      *     AUG. 2018 -   PRESENT
+
+    *   Currently Lead Design Engineer for Bearings Plus performing tier II management and organization for day to day activities of the
+        engineering department in addition to previous responsibilities supervising department as is. Assign workload to department on
+        follow through from tier II expectations/priorities. Execute disposition of NCMR's, ECR's, ECN's, Customer complaints, as required
+        from Manufacturing shop floor, Quality/Inspection dept., exterior outside sources as needed.
+
+    *   Transferred to Bearings Plus OpCo. engineering department to help with inspection of and reverse engineering of rotating
+        machinery component bearings including, thrust , journal, tilt, brush and combo varieties up to 18" bores using a full range of
+        metrology tools and equipment. Quickly analyze parts for repair assessment based on measurements and observations for fast
+        aftermarket turnaround, providing shop with all necessary repair drawings in Inventor and Autocad. Submit reports and
+        observations for customer review and approval of recommended workscopes.
+
+    *   Senior Designer for Cook Compression OpCo, providing support in design and development of Packing Cases, Rod Rings and
+        Valves in large scale compressors. Created templates for team to move into 3D space from 2D Autocad for rings with formula
+        driven input in Solidedge. Upgraded Packing Case template with automation. Provided model exports for DFM processes in
+        CAM. Responsible for inspection of returned Valves recommending condition, part refurnishing and/or replacement. Helped
+        reduce product lead time from 6 weeks to 3 weeks.
+
+NATIONAL OILWELL VARCO    *    NOV. 2002 -    JUN. 2018
+    *   EPDM Administrator for Solidworks, responsible for maintaining Solidworks files, templates, workflows, User permissions and
+        libraries.
+    *   Member of R & D group examining new product development including lightweight fluid end modules for Mud Pumps as well as
+        new Valve seat designs which lead to the design of an automatic Valve seat installation tool which is under consideration for
+        patent submittal.
+    *   Member of Mechanical Engineering design pool after downturn assigned to products support on an as needed basis for
+        Drawworks, Mud Pumps, Choke & Kill Manifolds, Power Swivels, Top Drives, Pipe Handling and Rotary Tables using Solidworks,
+        EPDM and Teamcenter PLM software.
+    *   Assigned to Drawworks Group as a Design specialist performing motion and force analysis studies of Braking systems using
+        Cosmos.
+    *   Originally assigned to research and develop the patented Subsea Intervention Module (SIM) by Exxon. As senior designer, was
+        responsible for the design and development of the Tool Racking System and Lubricator Sealing Piston, components of the Coil
+        Tubing Module using NX3, Autocad and Solidworks. Also the designated Graphics specialist assigned to creating and
+        maintaining 2D / 3D Graphics, renderings, movies and animations for team members using 3D Studio Max , Macromedia Studio
+        MX and Adobe Photoshop for presentations, meetings etc.
+    *   Participated in the Stripper concept selection team including the exploration of possible Subsea change out of the Stripper Ram
+        element of various designs.
+    *   Attended Coil Tubing Operations classes at BJ Services to learn C.T Operations.
+
+
+
+
+SONSUB (CONTRACTOR)    *    FEB. 2001 - NOV. 2002
+    *   Hired as contract designer to provide support and continuing development of a variety of Sub-sea equipment using
+        Autocadr2000, Mechanical Desktop and Solidworks2001. Tasks included continued review and revision to fleet of submersible
+        Innovator ROV's. Assigned responsibility for development of ROV interface tools from conception through testing to production
+        with Patent Engineer. Completed products included:
+            o   Total Fina Elf's Linear Valve Override Tool.
+            o   FMC's Tieback Connector Release Tool and Seal Removal Tool.
+            o   Canyon Express Metrology Tool.
+            o   Also assisted with the redesign of BP / Shell's Diamond Wire Pipe Cutter.
+    *   Provided Hands-on" assistance and developed renderings using 3DStudio Max for Manufacturing in shop assembly as well as
+        Sales and Marketing Dept.'s.
+
+HUNTER FAN (CONTRACTOR)    *     MAR. 2000 - JAN. 2001
+    *   Employed as a contract development engineer working on the integration of Casablanca Fan Company products into the
+        database of Hunter Fan Company's engineering division using Autocadr14/2000, Versacad (Mac & PC versions) and Pro-
+        Engineer. Development of sheet metal and die cast parts for product upgrades and new fan models for Casablanca Fan
+        Company exclusively.
+    *   Provided R & D Engineering support for manufacturers with reports, correspondence and research via internet. Represented
+        engineering in project management meetings of internal company departments of Sales, Marketing, Quality Assurance,
+        Industrial Design, Production and Engineering.
+
+DUCOTE ENGINEERING ASSOC.     *     MAR. 1999 - DEC. 1999
+    *   Small consulting firm specializing in the verification of client proposed engineering projects. Inspections were performed on
+        client drawings, proposals, contracts and reports in accordance to United States Government Code of Federal Regulations,
+        United States Coast Guard Regulations, A.B.S Regulations, OSHA Regulations and A.N.S.I Regulations using Autocadr14, Algor,
+        Excel, Nautilus and Mathcad. Clients were then provided with recommendations, reports and drawings based upon findings.
+        These projects included:
+            o   Structural and Finite Element Analysis Report for modifications to Transcoastal's Oil Tanker "Pennsylvania".
+            o   Design, Stress loads and safety factors for T & T Marine's 600 short ton A-Frame Breast Derrick Crane.
+            o   Structural, electrical and mechanical modifications for Torch Inc.'s "Midnight Eagle" Barge conversion.
+            o   Weeks Marine Inc. Barge 506 structural modifications.
+            o   Engine vibration analysis of Bean Inc.'s dredge "Eagle 1" and redesign of Drag arm and Jet Piping for "Eagle 1".
+
+FRITZ CULVER, HALTER MARINE GROUP   *      MAR. 1998 - FEB. 1999
+    *   Employed in the capacity of Senior Designer working closely with the Chief of Engineering creating construction and shop fabrication
+        drawings for a variety of in house designs of large scale hydraulic marine equipment using Autocadr14 including:
+            o   Halter Marine Group's B101 vessel Diamond screw Levelwind Pennant reels, Deck Tuggers, Chain Locker Tuggers, 1 7/8"
+                Windlasses and all supporting Hydraulic Power Units, schematics and corresponding operating manuals.
+            o   VersaTrusses' 150 ton, One Drum Oil platform Jack-up / relocation Winches.
+            o   Seacor's 400 ton, Two Drum Winch.
+            o   Aker's dual option electric / hydraulic powered Levelwind Rope Reels.
+
+UNITED STATES MARINE INC. *     JAN. 1997 - MAR. 1998
+    *   Involved in the development, production and support of various classified and non-classified Government contracts using a variety of
+        computer programs and technical skills pertaining to:
+            o   Initial phase conception and construction development to full rate production and contractual drawings using Autocadr12, 13
+                & 14, Alliance Mfg. Software and MS Office products for the United States Special Operations Command (USSOCOM) 36' Naval
+                Special Warfare NSWRIB SEAL Transport.
+            o   Research and development of the United States Navy 40' Very Slim Vessel (VSV) and 46' collapsible bow Advanced Very Slim
+                Vessel (AVSV) using Autocadr14 and Microstation 5.0.
+            o   Produced level III designs and plans of Naval Special Warfare Design Group (NSWDG) 40' SEAL High Speed Assault Craft Mk II
+                using Autocadr14 and Anvil 5000.
+            o   Prepared production drawings for the U.S Coast Guard's Hydrographic Survey Lunch in accordance with A.B.S regulations.
+    *   Served in the capacity as assistant systems administrator / technical support operator for the company's computer network system.
+
+A.K. SUDA & ASSOCIATES  *    FEB. 1996 - JAN. 1997
+    *   Worked with Autocadr12 in accordance with A.B.S regulations applying to Maritime Construction design and drafting techniques for
+        various commercial applications including:
+            o   Structural and piping drawings of Glostein Assoc. / Young Brother's Inter Island Car Barge.
+            o   Structural drawings of Searex Inc. Self Elevating Platform System.
+            o   Mechanical drawings of Mechtec Inc. Jacking Gear System.
+            o   Structural, piping and mechanical drawings of Intec Inc. Pipe Lay Barge.
+            o   Piping and structural drawings for Gulf Coast Trailing Co.'s dredge "Ouachita".
+
+
+
+
+ELM ENGINEERING INC.  *    NOV. 1994 - NOV. 1995
+    *   Employed as a draftsman using Cadkey 6.0 and Autocadr12 creating structural, mechanical and civil drawings including
+            o   The redesign of the Delta Queen Steamboat Co.'s "American Queen".
+            o   Agrico Sales' Coastal Aruba Coke Conveyor Bulk Transfer System.
+            o   Calciner Industry's New Bin Feed Conveyor System.
+            o   McDermott's Cajun Lane Expansion.
+            o    Diamond Services' Crane Barge Foundation addition and A.B.T's Bulk Grain Transfer System.
+
+
+
+
+        TIMOTHY.MCCARRON@SBCGLOBAL.NET                       281-685-1360                                HOUSTON, TX
+

@@ -1,0 +1,337 @@
+
+William Ianni
+321.961.1739
+bill.ianni@abhtechnologies.com
+
+Profile
+
+Bill is a seasoned Lawson consultant who has participated in over 75 Lawson software projects
+over the last 20 years. Included are positions held with Lawson Software, their customers and
+partners, such as Velocity and PricewaterhouseCoopers. Bill holds professional degrees in
+accounting/finance and certifications in Lawson Financials, Procurement, Distribution, IPA and
+System Administration. Bill has a strong proficiency in operational best practices and is an ideal
+resource for clients seeking to automate their manual business processes.
+
+Scope of Work:
+
+Engagement Management
+   *    Navigate clients through changes in leadership and/or organizational restructuring
+   *    Define the scope of work, budget, project milestones and deliverables
+   *    Perform as a liaison/advocate for key business executives
+   *    Deliver a strong customer focus and provided customers with a single source for
+        analyzing and resolving day-to-day, short-term technical issues related to support area
+   *    Develop detailed project plans to deliver projects on time and in budget
+   *    Work with other application services groups, project teams and business
+        representatives to clarify and resolve issues that required coordination among multiple
+        applications, processes and platforms
+   *    Design solutions for the Enterprise Architecture and provide input to the continuing
+        development of the Enterprise Architectural plan
+   *    Participate on steering committees
+   *    Manage the vendors, contractors and resource schedules assigned to the core team
+Financial Management
+
+   *    Designed dozens of General Ledger structures including multi-company, multi-currency,
+        consolidation and self-eliminating environments
+   *    Designed Chart of Accounts with encumbrance and budget control features
+   *    Implemented systemic controls and processes for closing accounting periods
+   *    Designed advanced capital budgeting procedures
+   *    Integrated managerial accounting systems for Procurement and HR/Payroll
+   *    Engineered centralized AP and AR processes
+   *    Provided custom classroom training for GL, AR and AP users
+   *    Automated 10Q and other SEC reports; state tax reports
+   *    Implemented ZBA banking and treasury processes
+   *    Implemented Credit Card and Employee Expense programs
+   *    Implemented SWIFT for WORLDLINK (global) Payment Services
+   *    Implemented EDI for Invoices
+   *    Implemented various Imaging Solutions & Invoice Approval Automation
+
+
+Materials Management
+
+
+
+
+   *    Designed automated supply chain solutions for both centralized and decentralized
+        environments
+   *    Implemented inventory replenishment strategies including medical (storeroom) supply,
+        sterile/surgical processing and interfaces with EPIC, Pyxis, Omnicell, Cerner
+   *    Provided formal classroom training for materials managers, buyers, and inventory
+        personnel
+   *    Conducted hundreds of physical inventories
+   *    Implemented both the web and desktop versions of the requisition application
+   *    Installed mobile and voice-activated solutions for receiving and warehouse
+   *    Defined internal policies and procedures to support applications
+   *    Implemented the Lawson E-FAX and EDI to facilitate faster purchasing cycles
+   *    Designed Invoice Matching rules and automated messaging procedures
+   *    Implemented Materials Requisition Approval Procedures
+Human Resources & Payroll
+
+   *    Designed the default parameters for Payroll employees
+   *    Automate Personnel Action and Job Requisition processes
+   *    Eliminated payroll exceptions and manual checks
+   *    Implemented automated Garnishment processing
+   *    Implemented automated Employee Expense processing
+   *    Implemented Employee & Manager Self Service applications
+   *    Implemented special modifications in compliance of California statutory requirements
+   *    Implemented EDI procedures for enrollment with benefit carriers
+   *    Implemented Job Requisition Approval Procedures
+Technical
+
+   *    Write custom 4GL programs to work seamlessly in the MicroFocus Cobol environment
+   *    Write export programs for AP checks (ACH, positive pay), Item file, assets, Chart of
+        Accounts, GL Transactions, Employees
+   *    Use Design Studio to build screen modifications and workflow triggers
+   *    Data Conversions: Vendors, Customers, Chart of Accounts, Accounting Units, GL
+        Transaction, GL Balances, Budgets, Activities, Activity Transactions, Invoices, Assets, AR
+        Transactions, Payments, Item Master, Item Location, Vendor Agreements, Purchase Orders,
+        Requesters, Requesting Locations, Vendor Items, Bids, PO Templates, Receipts, Employees,
+        Pay Codes
+   *    Design and implement Lawson Security products
+   *    Designed and implemented IPA products
+   *    Performed Application Upgrades versions 7 thru 10
+   *    Mapped interfaces for Lawson API's
+
+Software Modules
+
+General Ledger * Report Writer * Allocations * Cash Book * Accounts Payable * Accounts
+Receivable * Asset Management * Activity Management * Budgeting & Planning * Inventory *
+Sales Analysis * Requisition * Purchase Order * Invoice Matching * Human Resources * Payroll *
+Personnel Actions * IPA * Design Studio * Order Entry * Billing * Warehouse * Strategic Ledger *
+Requisition Self Service * APIA * Image Now * File Net * Mingle * Rich Client * Resource
+Administration * Security Administration
+
+
+
+
+LAWSON Relevant Project Experience
+
+Health Care:
+
+UHS , LA                    10WIN      MM                EDI, Purchasing, AP, EPIC Interface
+
+Einstein, Philadelphia     9UNIX       IT                Application Support (Finance, SCM, HR/PR)
+
+UHS San Antonio             9UNIX      MM                Purchasing, EDI, RQC, Omnicell Interface
+
+TSRH, TX                    9WIN       MM                EPIC Interface
+
+Rochester General, NY       10WIN      MM                Invoice Matching, APIA
+
+Unity Health, NY            10WIN      MM                EDI, Inventory, RQC
+
+Pomona Valley               10WIN      MM                LSF10 Upgrade, EDI, Inventory, RQC, Purchasing
+
+Confluence Health, WA       9WIN       FIN/MM            Engagement Manager
+
+Methodist, Arcadia, CA     9UX         Finance           LSF9 Upgrade, EDI, Custom Programs
+
+TMMC, Torrance, CA          10WIN      Finance           LSF9/10 Upgrade, EDI, IPA, MSC, Matching, Custom Programs, MSCM,
+                                                         Imaging, Cerner Interface
+BayCare, Tampa, FL          9UX        Procurement       Cerner Surgery System Interface, EDI, Custom programs, EFT, Vocollect Voice
+                                                         Integration, MSCM
+Winter Haven, Winter        9UX        Procurement       LSF9 Upgrade and EDI
+Haven Fl
+
+St John's, Joplin, MO       8UX        Finance           PSA/AP/Imaging Lead
+
+St. Vincent's, Little Rock 8UX         Finance           PSA/AP/Imaging Lead
+
+
+
+
+St. Anthony's, Little Rock 8UX         Finance           PSA/AP/Imaging Lead
+
+Memorial Health,            8UX        Finance           PSA/AP/Imaging Lead
+Chattanooga, TN
+
+Catholic Health, Denver CO  8UX        Finance           PSA/AP/Imaging Lead
+
+Miami Children's, Miami FL  8WIN       Finance/HR        Engagement Manager
+
+St. Catherine's, Garden City8UX        Finance           PSA/AP/Imaging Lead
+KS
+Hermann Memorial,           8UX        IPA               Designed and implemented IPA routines
+Houston, TX
+Providence Health Systems   8UX        Finance,          Upgrade testing, training, implementation
+                                       Procurement
+Rotech Healthcare, Inc, FL 8UX         Finance           Business Process Reengineering and documentation
+                                       HR
+Stevens Hospital, Edmonds,  8WIN       Security          Security design and implementation
+WA
+Ingalls Medical Center,     8WIN       Procurement       Full Life Cycle: Design and testing, training, data conversions, security, live
+Harvey, IL                                               support
+St. Luke's Hospital, Boise, 8WIN       Procurement       Security
+ID
+Howard University           8WIN       IPA               Designed and implemented IPA routines
+Hospital, Washington DC
+Tandem Health Care,         8WIN       Finance           Application training and documentation, security, application upgrade,
+Orlando, FL                                              payroll accounting, custom reports, live support
+Kingsbrook Medical,         8UX        Finance           Business Process Reengineering and documentation
+Brooklyn, NY                           Procurement
+North Broward Medical,      8UX        Procurement       Business Process Reengineering and Application training for upgrade
+Ft. Lauderdale, FL
+
+
+
+
+Mary Washington Hosp.,      8UX        Procurement       Business Process Reengineering and documentation, Application training for
+Fredericksburg, VA                                       upgrade
+
+UCH, Tampa, FL              8UX        Procurement       Troubleshooting/Live Support
+
+NKCH, Kansas City, MO       8WIN       Finance           Full Life Cycle: Design and testing, training, data conversions, security, live
+                                                         support
+Methodist Hosp, Gary, IN    8UX        Procurement       Full Life Cycle: Design and testing, training, data conversions, security, EDI,
+                                                         Handheld terminals, SEA and Portal, custom reports, live support
+Thomason Hosp, El Paso,     8WIN       Procurement       Item File Conversions
+TX
+Denver Health Systems,      8UX        Financials,       Business Process Reengineering and documentation, Application training for
+Denver, CO                             Procurement       upgrade
+Baptist St Anthony's,       8WIN       Financials,       Full Life Cycle: Design and testing, training, data conversions, security, EDI,
+Amarillo, TX                           Procurement       Handheld terminals, SEA and Portal, custom reports and screens, live support
+Nassau County Medical       8WIN       Financials,       Application training, live support
+Center, NY                             Procurement
+Magellan Health Services,   8WIN       Procurement       Application training
+St. Louis, MO
+UCLA Medical Centers, Los   7AS400     Procurement       Application training, live support
+Angeles, CA
+Premier Health Care         7UX        Procurement       Business Process Reengineering, Design and testing, Application training
+Network, Charlotte, NC
+United Health,              7UX        Finance           Engagement management: Steering Committee Member
+Martinsburg, WV
+Presbyterian Health Care    7UX        Finance           Application training
+Systems, NY, NY
+
+Radiologix, Plano, TX      7UX         Finance           Troubleshooting/Live Support
+
+Public Sector:
+
+San Antonio Water System    9WIN       Procurement       Upgrade Assessment & Training
+
+
+
+
+Southern Maryland Electric  7UX        Finance,          Full Life Cycle: Design and testing, training, data conversions, security, live
+                                       Procurement,      support
+City Of Carrollton         8WIN        IPA               Designed Custom IPAs for the Training Application
+
+Oglethorpe Power, Tucker    7UX        Procurement       Engagement Management: Steering Committee Member
+GA
+Northrop Grumman,           8UX        Procurement       Business Process Reengineering, Design, testing, training
+Herndon, VA
+General Physics, Columbia,  8WIN       Procurement       Full Life Cycle: Design and testing, training, data conversions, security, live
+MD                                                       support
+                            7UX                          Full Life Cycle: Design and testing, training, data conversions, security, live
+Dallas Area Rapid Transit              Procurement       support
+
+Charlotte Mecklenburg ISD,  7UX        Procurement,      Engagement Management: Steering Committee Member
+NC                                     Finance
+                            7WIN       Procurement,      Full Life Cycle: Design and testing, training, data conversions, security,
+K12, McLean, VA                        Supply Chain      interfaces, live support
+
+Vista Technologies,                    Procurement,      Full Life Cycle: Design and testing, training, data conversions, security, live
+Herndon, VA                 7WIN       Supply Chain      support
+
+GRC, International,                                      Full Life Cycle: Design and testing, training, data conversions, security, live
+McLean, VA                  8UX        Procurement       support
+
+
+Industrial:
+
+                                                         Full Life Cycle: Design and testing, training, data conversions, security, live
+JM Family Enterprises       8UX        Procurement       support
+
+
+CPI, Corp                  8UX         Procurement       Application Training
+
+GateHouseMedia              8UX        PM                GL & AP Consolidations
+                            UNIX
+
+
+
+
+Source Interlink, Naples, FL 8AIX      Finance           Business Process Reengineering, Design, Testing, training, data conversion,
+                                                         application upgrade, live support
+                                                         Full Life Cycle: Design and testing, training, data conversions, security, live
+Sheetz, Altoona, PA        8UX         PM                support
+
+Crowley Maritime,           9UX        IPA               Upgrade to LSF9. SWIFT Banking, File Net, Also designed and implemented
+Jacksonville, FL                                         IPA routines
+NationsRent, Ft.            8AIX       Finance,          Business Process Reengineering, auditing
+Lauderdale, FL                         Procurement
+A.T. Massey Coal,           7UX        Procurement       Engagement Management: Steering Committee Member
+Charleston, WV
+MasTec Industries, Miami,   7UX        Finance, HR       Troubleshooting/Live Support
+FL
+Aviall Aviation, Dallas, TX 7UX        Finance           Full Life Cycle: Design and testing, training, data conversions, security, live
+                                                         support
+Anadarko Petroleum,         7UX        Finance           Full Life Cycle: Design and testing, training, data conversions, security, live
+Houston,                                                 support
+Foxworth Galbraith, Dallas,            Finance,
+TX                          7UX        Procurement,      System Administration
+                                       HR
+Jack Nadel, Inc, Los        7UX        Finance,          Engagement Management: Steering Committee Member
+Angeles,                               Distribution
+Blake Equipment, Hartford,  7AS400     Distribution      Business Process Reengineering
+CT
+Rocco Ent, Harrisonburg,    7UX        Procurement       Application training
+VA
+Metro Networks, Houston,    7UX        Finance,          Business Process Reengineering
+TX                                     Procurement
+Jones InterCable,           7UX        Finance           Business Process Reengineering and Application training for upgrade
+Englewood, CO
+Dobson Cellular, Ok City,   7UX        Finance           Full Life Cycle: Design and testing, training, data conversions, security, live
+OK                                                       support
+
+
+
+
+                               Bill Ianni, BA, MBA
+                     745 Iris Lane, Vero Beach, Florida 32963
+                                     (321) 961-1739
+                          bill.ianni@abhtechnologies.com
+
+TRAINING & EDUCATION
+
+MBA - University of Texas                                         1997
+Bachelor of Science (Business) - La Salle University             1989
+Certified in Lawson Procurement, 7x ,8x, 9x, 10x
+Certified in Lawson Financials, 7x, 8x, 9x, 10x
+Certified in Lawson Distribution, 7x, 8x
+Certified in Lawson System Administration, 7x, 8x,
+Certified in Lawson IPA
+Certified in Vocollect Voice Technologies for Warehouse
+
+Relevant Professional Background
+
+ABH Technologies                                                  2002 - present
+Project Manager
+                 * Lawson Engagement Management
+                 * Staff Augmentation
+                 * Lawson Consulting
+
+Balrae, Inc., Cary, North Carolina                               1998   - 2002
+(now Velocity)
+Director of Lawson Consulting Services
+                 * 320 direct reports
+                 * Promotion to Director of Services
+                 * Promotion to Practice Manager
+
+PricewaterhouseCoopers, L.L.P., Tampa, Florida                    1998
+Lawson Project Manager
+
+Lawson Software, Dallas, Texas                                    1997 - 1998
+Lawson Application Consultant,
+
+Foxworth Galbraith, Dallas, Texas                                1994   - 1996
+Lawson Systems Administrator,
+                 * 10 direct reports
+                 * Company Award (Customer Service)
+                 * Company Award (Training)
+
+ITT Corporation, Dallas, TX                                      1988   - 1993
+Finance Manager,
+                 * 15 direct reports
+                 * Promotion to Finance Manager
+                 * Promotion to Assistant Manager
+

@@ -1,0 +1,123 @@
+
+ARIFUL HAQ
+250 Ocean Parkway, Brooklyn, New York 11218
+Phone: (929)326-7443 | Email: arifulhqa01@gmail.com
+
+
+
+
+SUMMARY OF QUALIFICATIONS
+
+    *      Experienced Software Test/QA Analyst with expertise on manual and automated testing.
+    *      Proficient in analyzing and understanding business requirements, end-user requirements, use
+      cases, user stories, UML wireframes, technical spec and design documents.
+    *      Experience working in Agile/Scrum, Kanban and Waterfall development process.
+    *      Knowledgeable with mainstream defect tracking, test case management and open source tools.
+    *      Ability to lead the testing process (STLC) and QA activities from scratch in a cross
+      functional environments.
+    *      Able to develop and executing test plans/test suites, test scenarios, test data/test scripts,
+      test reports, bug reports, summary reports and test outlines.
+    *      Ability to do Functional testing, GUI testing, end to end testing, system integration testing,
+      security testing, back end testing, API Testing, database testing, browsers compatibility
+      testing, performance testing, smoke testing and regression testing.
+    *      Knowledgeable writing/executing SQL Queries.
+    *      Experienced with JIRA, HP ALM/QC, UFT, Selenium, Eclipse, JMeter, POSTMAN, UNIX, SQLdeveloper
+    *      Experienced with windows, client/server, mobile (iOS/Android) and web-based applications.
+    *      Familiar with Object Oriented Programming (Java, VbScript, C)
+    *      Experience with API/Web Service testing using XML, JSON, Postman, Jmeter and RESTClient
+    *      Experience with test planning, estimation, test executing, defect tracking/triaging,
+      identifying risks, troubleshooting, and release processes.
+    *      Very strong communication skills with the ability to interact with technical and non-technical
+      personnel.
+    *      The ability to work effectively in a fast-paced environment while maintaining a sense of
+      perspective.
+    *      Detail-Oriented, strong work ethic and great teamwork skills
+    *      Proven ability to proactively learn new business requirements with minimal training
+    *      Care for software Quality with 'can do', and 'test to break' attitude
+
+PROFESSIONAL EXPERIENCE
+HSBC Bank, New York, NY
+Software QA Analyst                                                Apr 2017 - Present
+    *      Creating & executing manual tests, evaluating test coverage, and leveraging automated tests as
+      part of the day-to-day testing activities
+    *      Developing, running, and enhancing automated test scripts for multiple different applications.
+    *      Study and analyze sprint backlogs and provide QA estimates.
+    *      Reviewing requirements, acceptance criteria and providing feedbacks to ensure they are
+      thorough and detailed
+    *      Identify risk areas that need test coverage.
+    *      Working with agile team; involved with sprint planning, sprint testing, defect resolution,
+      reporting's, demos, and retrospective.
+    *      Developing test plans, test suites and manual test cases, which includes both positive and
+      negative scenarios.
+    *      Developing test data and maintained data sheets and metrics.
+    *      Developing automated test scripts and using test automation where practical and appropriate.
+    *      Helping the team with running automated regression, smoke and sanity testing.
+    *      Selecting and converting repetitive manual test cases to automated test scripts.
+    *      Reviewing test cases with Product Owner, Devs and team members for a good test coverage.
+    *      Executing tests using both manual and automated methods.
+    *      Performing Black box testing, Smoke and Regression testing on web-based, client/server and
+      mobile applications.
+    *      Troubleshooting defects, reports, requests, interfaces, and workflows using DevTools and logs.
+    *      Reporting issues in JIRA and working with Engineers to get them fixed, retested and closed
+      within the sprints.
+    *      Written and executed test case for API/web service testing using POSTMAN.
+    *      Performing Functional, System Integration, end-to-end, exploratory, UI, database, API,
+      performance, sanity, smoke, regression and Browser Compatibility Testing.
+    *      Developing automated scripts using Java, Selenium WebDriver, TestNG, Eclipse, and other open
+      source tools.
+    *      Using HP ALM/QC for sprint monitoring, release tracking, and defect tracking.
+    *      Coordinating User Acceptance Testing.
+    *      Using SQL Developer to write SQL queries to extract data for Backend Testing.
+    *      Developed SQL Queries using JOIN to perform database testing.
+    *      Developing various test reports on test results and defect and communicating them with team.
+    *      Assisting QA Manager and other team members with maintaining and troubleshooting QA tasks e.g.
+      testing scenarios, automation scripts, production issues, etc.
+
+
+
+iHeartMedia, New York, NY
+QA Tester                                                      June 2015 - Apr 2017
+    *      Proactively learn and understand existing platform and proposed new feature requirements
+    *      Provide feedback during backlog grooming and user story reviews
+    *      Worked with PMs, Developers, Release Engineers, DBAs, onsite and offshore team.
+    *      Developing detailed manual test plans and test cases with requirement traceability matrix.
+    *      Ensure all criteria for the applications are covered in the testing cycle
+    *      Developing and updating test scripts/test cases with the automation team.
+    *      Used metrics and methodologies to test features on different platforms such as web, desktop,
+      tablet, and mobile.
+    *      Executed and validated product releases against defined feature and regression test scripts.
+    *      Monitoring issues; report and manage defects founds and worked closely with development team
+      for resolution
+    *      Clearly documented defect and reports for anomalies and bugs in JIRA during test execution
+    *      Performing cross-browser testing on Chrome, Firefox
+    *      Provide QA estimates, plan and manage ongoing service activities
+    *      Identify and troubleshoot issues (both Front-End and Back-End).
+    *      Performing Web Service testing using RESTClient/POSTMAN and tested for GET, POST and PUT
+      methods.
+    *      Ran data-driven testing and validated data using SQL queries against Oracle.
+    *      Participate in all areas of testing as needed (functional, UI, end to end, system integration,
+      and regression testing)
+    *      Working with Engineers to create, maintain, and run automated test suites using Selenium
+      WebDriver, Java, TestNG, Maven, Jenkins, Apache POI, Log4j, ExtentReports.
+    *      Execute automation test suites for repeated test scenarios and ran them during smoke and
+      regression cycles.
+    *      Maintained test documents both test planning and test execution.
+    *      Maintained test data, test cases and test scripts over time.
+    *      Attended daily stand ups, Sprint Demos and retrospective meeting.
+
+TECHNICAL SKILLS
+Testing Tools:            HP ALM/Quality Center, JIRA, Selenium, TestNG, Jenkins, Git, Postman, SQL developer
+Methodologies:            Agile, Scrum, Waterfall
+Languages:            VBScript, SQL, Java, JavaScript, JSON, XML, HTML
+ Software:      Microsoft Office (Excel, Word, PowerPoint), MobileGenius, Runner, RQ4/eROES, Google Docs,
+                Google Sheets, Google Powerpoint, Snipit, Eclipse
+RDBMS/Database:            SQL-Server, Oracle, DB2, MySQL
+Operating Systems:      Macintosh, Windows, iOS, Android
+Browsers:            Firefox, Chrome, Safari, Internet Explorer
+Proxy:                  HTTP/HTTPS, Chrome Devtools
+Frameworks:            Data-Drive, TDD, BDD, Hybrid, POM
+
+EDUCATION
+Associate of Applied Science, KBCC-CUNY, New York
+
+Relocation: Yes

@@ -1,0 +1,65 @@
+
+1
+
+
+ALEX MANSOURI
+ 2370 Gladstone Pl*Cumming, GA 30041*alexmnr@yahoo.com* (770) 888-3813
+
+
+ SKILLS:
+VISUAL BASIC, C++ and JAVA Language, UNIX, Cable and Wireless data Transmission, SONET, T3, T1,
+Frame Relay, Wi-Fi gear and Cisco ONS 15454.
+
+EXPERIENCE:
+BlueStream Professional Services, Marietta, GA System Engineer 03/13 - 07/14
+ *      Commissioning and Integration testing on Cisco ONS 15454 (MSPP and MSTP), Ciena 6500 to activate
+   telecommunication services and Catalogue Driven Order Management.
+ *      Assists in providing real time technical support to engineering, installation, integration,
+   quality, sales, and
+   marketing in the delivery of products and services.
+ *      Partners to provide engineering and installation/Integration procedures and prepare supporting
+   data for requests for quotes.
+ADVA Optical Networking, Norcross, GA                        System Verification Engineer            04/03- 05/12
+ *      Planned, developed, and implemented test plans for next generation SONET/DWDM systems via CLI,
+   TL1,
+Web, NMS interfaces and Cisco routers & switches (LAN/WAN).
+ *      Conducted in depth feature & system testing (db, Ethernet, software, hardware, PMs, TCP/IP) for
+   different
+   Ethernet products and network configurations.
+ *      Documented and tracked all technical issues discovered during test execution.
+ *      Resolved complex technical issues while interacting closely with development.
+ *      Provisioned, tested, and resolved issues for T1-T3 & OC3-OC192 circuits.
+ *      Performed verification and integration testing on Adva's Metro DWDM ROADM and FSP 3000.
+ *       Prototype and concept proving of early stage products such as EDFA, OADM, WDM transponder, WDM-Mux/Demux
+   cards. Development of next generation OC192 transponder, high power and larger channel number
+   EDFA, and optical switch/optical cross-connect.
+ *       WDM/SONET system performance tests, and very familiar with test instrument and test method such
+   as BER measurement using SONET/BERT test-set, high speed communication analyzer, SONET
+   Specification of Metro WDM test procedure for both system test level and product manufacture
+   level.
+*       Bi-directional Transmission Single-Fiber Metro WDM with Optical Layer Protection.
+Bellsouth, Atlanta, GA                                                      Network Engineer                              02/98 - 03/03
+ *       Performed network baseline, and security audits using performance and application monitoring
+  software
+ *       Prepared capacity plans for the physical network, including bandwidth allocations for protocols
+  and
+  applications.
+ *       IP addressing and subnetting plans. Other responsibility included installing, configuring, and
+  providing
+  managed services for Switches, Frame Relay services.
+Scientific Atlanta, Norcross, GA                                    Hardware Engineer                              06/88-07/97
+*       Managed the manufacturing team consisting of six technician and four testers.
+*       Set up and test RF and laser transmitters and receivers for cable companies.
+*       Set up, test and repair fiber optic systems to meet customer requirements.
+*       Assisted in designing test stations and test station documentation.
+*       Involved in production quality team to resolve production problem.
+EDUCATION:
+Gwinnett Technical College, Lawrenceville, GA
+Networking and Programming degree
+Training Included: Visual Basic; C++, JAVA and Networking (CISCO).
+
+University of Arkansas, Fayetteville, AR
+Graduate study course work in Communications and Computer Architecture
+John Brown University, Siloam Spgs, AR
+Bachelor of Science degree in Electrical Engineering, 05/86
+

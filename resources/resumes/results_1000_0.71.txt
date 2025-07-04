@@ -1,0 +1,35 @@
+
+Test Results:
+--------------------------------------------------
+Total Resumes Processed: 982
+Failed requests: 0
+
+Resume Page Length:
+Average: 2.23 pages
+90th percentile: 4.00 pages
+95th percentile: 5.00 pages
+99th percentile: 6.00 pages
+
+Input Token Length Metrics:
+Average: 1108.52 tokens
+90th percentile: 2283.90 tokens
+95th percentile: 3003.15 tokens
+99th percentile: 4413.87 tokens
+
+Output Token Length Metrics:
+Average: 1623.10 tokens
+90th percentile: 2444.80 tokens
+95th percentile: 7616.90 tokens
+99th percentile: 8890.02 tokens
+
+Response Time Metrics:
+Average: 8.01 seconds
+90th percentile: 10.00 seconds
+95th percentile: 43.58 seconds
+99th percentile: 73.21 seconds
+
+Slow Responses (>15s):
+Count: 59
+Average input token length: 1968.63 tokens
+Average output token length: 8192.22 tokens
+Average num pages: 3.25 pages

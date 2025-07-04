@@ -1,0 +1,74 @@
+
+                          MOSTAFA KRAIMA
+
+
+
+                               68 Bis avenue de Laon, 51100, Reims
+
+                           0782216351
+
+                               mostafa.kraima@gmail.com
+
+
+PROFIL                    Je suis administrateur systèmes et réseaux Profil plutôt généraliste avec des connaissances dans plusieurs domaines
+PROFESSIONNE              informatiques, forte capacité à identifier avec précision les besoins opérationnels de l'entreprise et à développer des
+L                         solutions visant à réduire les coûts, améliorer la satisfaction client.
+
+
+
+COMPÉTENCE                 Programmation                                       Systèmes d'exploitation
+S                          JAVA, C/ C++/PHP/HTML.                              Windows XP-7-8-10, SERVER 2003-2012, Linux, Cisco IOS.
+                           Protocoles                                          Sécurité
+                           TCP/IP, Vlan, Routing (OSPF, EIGRP, BGP), NAT,      Firewalls (Cisco ASA), VPN.
+                           DHCP, ACL.                                          Virtualization
+                           SGBD                                                VMware Workstation, Virtual-Box
+                           Oracle, SQL, PL/SQL, Access.
+
+
+PARCOURS PROFESSIONNE     Téléconseiller, 08/08/2022-30/11/2022
+
+L                         COMDATA,    Reims-CDD
+
+
+                          Rassurer , informer le client, le fidéliser, lui vendre des produits ou services, résoudre les réclamations, lui fournir
+                          une attestation.
+
+                          ------------------------------------------------------------------------------------------------------------------------------------------------------
+                          Pilote d'intervention boucle locale, 09/2021-12/2021
+                          Orange , Reims- CDD
+                          Prend en charge les demandes d'interventions et les signalisations au fil de l'eau dans l'outil prévu à cet effet,
+                          gérez les priorités en fonction des contrats et urgences client (date d'installation, Garantie de Temps de
+                          Rétablissement, service interrompu, service dégradé).
+                          Qualifie la demande d'intervention et complétez le dossier d'intervention le cas échéant (compléments
+                          d'information, diagnostic approfondi, générez et pilotez la demande d'intervention jusqu'à sa bonne réalisation.
+
+                          CHARGÉE DE MISSION, RUPTURE CAUSE COVID-19      , 08/2020 - 09/2020
+                          AEC  , Reims - CDI
+                          * Implémentation des protocoles de routage MPLS, VPN.
+                          * Réparation du matériel informatique, comme les ordinateurs et imprimantes, dans toute l'entreprise
+                            afin de limiter les interruptions de travail.
+                          * Intervention sur les équipements réseaux.
+                          ----------------------------------------------------------------------------------------------------------------------------------------------------
+                          CHEF D'ÉQUIPE  , 09/2017 - 01/2020
+                          RGIS , Reims - CDD
+                          * Récolte, traitement et analyse des informations relatives aux clients dans une optique de fidélisation.
+                          * Forte autonomie grâce à la connaissance approfondie des procédures de l'entreprise.
+
+
+                          CHARGÉE DE MISSION INFORMATIQUES       , 11/2012 - 04/2013
+                          Maroc Réseau system   , Casablanca - CDD
+                          * Conversion d'objectifs en résultats à travers des projets innovants et des prises de risque.
+                          * Conception et installation des racks, installation et configuration d'un serveur Exchange2010.
+                          * Administration et la supervision réseau à l'aide des applications propres à l'entreprise (Windows server 2008, Nagios,
+                            équipements réseaux Cisco).
+
+
+FORMATIO                  Centre universitaire de management, Paris, 09/2016 - 07/2017
+N                         Master1  : Développement informatiques et réseaux - Assez bien
+
+                          UFR sciences et Techniques, Reims, 09/2015 - 07/2016
+                          Master : Administration et sécurité réseaux - non obtenue
+
+                          Centre universitaire de management, Paris, 09/2014 - 07/2015
+                          Licence  : Développement informatiques et réseaux - Passable
+

@@ -1,0 +1,107 @@
+
+JEFFREY A. SQUIRES
+5783 Ironwood Dr. Dryden, Michigan, 48428
+Phone: (586) 214-8699
+Jeff196644@yahoo.com
+
+CAREER OBJECTIVE:
+Electrical Engineer with creative, technical and project management
+skills seeks an opportunity to provide those skills to an organization
+which can fully utilize them, and provide an opportunity to develop
+additional skills, where those skills can be used towards advancement.
+
+PROFESSIONAL EXPERIENCE:
+General Dynamics Land Systems, Sterling Heights, Michigan
+Senior Electrical Engineer                                      2002 -
+Present
+Electronics Hardware Systems Engineering:
+* Assigned to the electronic hardware design group. Designed prototype
+  backlights to be used in a monochromatic and color display for the
+  Abrams tanks and Stryker vehicles.
+* Designed a power supply that is currently used in Abrams tank
+  production.
+* Implemented Abrams tank driver and gunner lighting system.
+* Familiar with RS232/RS422 Serial and RS485 Conversions.
+* Used photometers to conduct lighting tests while developing backlight
+  prototypes.
+* Coordinated and conducted temperature, vibration, shock and EMI testing
+  of products.
+* Organized technical and vendor meetings.
+* Conducted cost analysis for certain projects.
+* Familiar with Motorola and Freescale CAN.
+* Troubleshot and diagnosed electronic malfunctions related to
+  tank/vehicle power and communications modules aided by oscilloscopes
+  and volt meters.
+* Developed test requirements, procedures and reports using the DVP&R
+  process.
+   * Developed vehicle-level electronics hardware architecture and
+     hardware solution concepts.
+            * Established and updated subsystem-level Design Failure Mode
+              Effects Analyses, subsystem size, weight, power and cost
+              databases.
+   * Created labor and material estimates and plans for new business
+     proposals and program planning phases.  Provided regular status
+     input and variance reports for Earned Value metrics.
+
+Software Tool Experience:
+            * Mentor Graphics SDD Tools
+            * MATLAB
+            * Visio
+            * PADS
+            * Schematic Capture
+            Engineering Project Management:
+            * Managed and assisted in the administration of a number of
+            projects valued from $100K to more than $100M. Included
+            capital acquisitions, research and development, and
+            proposals.
+            * Developed, managed, and wrote new business proposals.
+
+Product Lifecycle Management
+   * Developed, updated, and managed Engineering Change Proposals.
+   * Supported Obsolescence-driven Redesign and Reduction of Hazardous
+   Substances initiatives, Production issues resolution, Change and
+   Configuration Management efforts.
+   * Acquired basic reviewer-level familiarity with Teamcenter
+   (Unigraphics) and Pro Engineer tools.
+
+ITT Communications Systems, Fort Wayne, Indiana
+Electrical Engineer
+8/2000 - 3/2002
+Hardware Engineering:
+   * Lead engineer on the Polar Operational Environmental Satellite
+     project (POES).
+   * Developed system and subsystem performance, functional and interface
+     requirements and conducted subsystems design efforts.
+   * Wrote test requirements, procedures, reports, and performed tests in
+     the laboratory.
+            * Assistant engineer on the Geostationary Operational
+              Environmental Satellite project (GOES).
+
+Raytheon Missile Company, Tucson, Arizona
+Electrical Engineer
+5/1999 - 8/2000
+Test Engineering:
+            * Test engineer on Evolved Sea Sparrow Missile project
+              (ESSM).
+            * Designed test equipment to activate the ESSM encryption
+              module.
+            * Received security clearance.
+
+United States Naval Reserves, Selfridge ANGB. Michigan
+2/1990 - 2/1994
+               * Active Reserves
+               * Fulfilled contract
+
+United States Navy, NAS Whidbey Island, Washington
+Aviation Electronics Technician
+               * Active duty.
+                 2/1986 - 2/1990
+               * Avionics technician.
+               * Earned Honorable discharge for completion of contract.
+               Veteran status.
+
+EDUCATION:
+Michigan Technological University, Houghton, MI.
+8/1996 - 4/1999
+1999 Bachelor of Science in Electrical Engineering
+   * Emphasis in Digital Communications and Digital Signal Processing.

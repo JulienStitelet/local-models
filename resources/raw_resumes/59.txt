@@ -1,0 +1,126 @@
+
+
+
+
+de Freitas, Tony    Cell: 832-545-3454    Littleton, CO    tony_defreitas@hotmail.com
+
+Relevant Capabilities:
+    *      Managing enterprise teams of employees and contractors
+    *      Implements waterfall as well as agile project management methodology
+    *      Proficient on leading software development and infrastructure projects
+    *      Proficient in business and technical analysis
+    *      Skillful delivery of improved results managing inherited troubled projects
+    *      Proficient in Planview Enterprise, MS Project, and Rally
+
+Certifications and Education
+    *      Project Management Professional (PMP®), Project Management Institute (PMI®)
+    *      PMI Agile Certified Practitioner (PMI-ACP®), Project Management Institute (PMI)
+    *      Certified Scrum Master (CSM), Scrum Alliance
+    *      IT Infrastructure Library (ITIL®) v3 Foundation, EXIN
+    *      BBA - Economics, Texas State University, San Marcos, Texas
+    *      MBA - MIS, Wilmington University, 2016
+
+Technical Summary:
+    *      Extensive experience in managing enterprise projects through all phases of the life cycle.
+    *      In-depth knowledge and experience in cost management, time management, risk management, and
+      integration management.
+    *      Experienced in IT project budget analysis, outsourcing strategies, and contract management.
+    *      Experience in project oversight and independent validation & verification.
+    *      Strong technical background in systems architecture, database design, and network
+      administration.
+    *      Proven ability to deliver high quality IT products and services on schedule and under budget.
+    *      Excellent interpersonal skills in communications, client relations, and negotiation
+
+Professional Experience:
+October 2015 - Present, Associated Veterans, LLC., Senior Project Manager
+Denver, Colorado
+    *      Provides key cybersecurity project management support at the U.S. Department of the Interior
+      (DOI).
+    *      Manages an extensive remediation initiative involving all departments of DOI.
+    *      Effectively manages the Interconnection Security Agreement (ISA) Overhaul effort, which is
+      highly visible and involves all privacy, network, and security groups at DOI.
+    *      Delivers robust support for the MAJOR DATA CENTER ASSESSMENT INITIATIVE under the Information
+      Assurance Policy, Architecture, Training and Risk Management (IAPATRM) Branch Chief. Involves
+      inventory and security assessment of all DOI data centers.
+    *      Stood up a MS Project Server instance and established reporting/governance process for the
+      cybersecurity program office.
+November 2013 - October 2015, Ciber, Inc., Project Manager/PM Practice Lead
+Washington DC
+    *      Delivered impactful and high quality project management of several initiatives concurrently at
+      AARP. All bodies of work were at the enterprise level, touching stakeholders nationwide and
+      had a wide breadth of technical products/services.
+    *      Led a team of Project Managers on PMO continuous improvement and maturity efforts. Acted as a
+      PM mentor, provided training, and ensured overall PMO governance.
+    *      Successfully drove the GlobalFit Rollout, Teradata Upgrade, Blackboard, and Major Gifts CRM
+      projects to early closeout within budget with vast stakeholder/sponsor acceptance.
+    *      Managed three large PeopleSoft projects with widespread positive impact to all AARP employees
+      and customers, which included HRMS, FMS, and ERP components.
+         *      The HCM 9.2 Upgrade from at AARP was by far the largest ERP initiative that had duration
+           of ten months. The high level scope entailed HCM and FSCM upgrade from version 8.9 to
+           version 9.2 with 8.53 Tools.
+              *      Modules included: Workforce administration & benefits, e-performance management,
+                E-learning, Talent management, compensation (custom), and Time & Labor
+         *      Another PeopleSoft project managed entailed fixing an issue where employees were unable
+           to have multiple managers needed for reporting structure and alignment between FMS and
+           HRMS.
+June 2012 - November 2013, Business Operational Concepts, LLC, Project Manager
+Washington DC
+    *      Managed numerous highly visible and high priority technical efforts at the Office of Personnel
+      Management (OPM).
+    *      Project portfolio included distributed and mainframe data center infrastructure and software
+      initiatives. Managed highly complex technical efforts across various line offices.
+    *      Consistently drove results throughout all concurrently managed projects. Advised and provided
+      reports to C level executives daily to support agency IT decisions.
+September 2010 - May 2012, Ambit Group, Project Manager
+Washington DC
+    *      Managed the NOAA Service Delivery Improvement Project.
+         *      Shaped Transition Plan, collaborated with project sponsors to achieve desired end state,
+           and transformed IT service delivery.
+    *      Provided technical and project management support for the NESDIS Telecommunications
+      Architecture and Tools Project.
+         *      Established a Telecom baseline and corresponding telecom network diagram.
+    *      Provided critical support for a nationwide, highly visible/impactful Veterans Affairs project.
+         *      Worked with customers, users and technical leads in analyzing, designing, and
+           implementing modifications and/or enhancements to the VA's Computerized Patient Record
+           System (CPRS).
+         *      Coordinated product backlog refinement and prioritization of requirements with all
+           stakeholders.
+    *      Provided technical and project management support for the NWS Telecom Gateway Architecture
+      project.
+         *      Facilitated stakeholder interviews, conducted research, and held technical forums to
+           accurately capture business needs/requirements.
+         *      Provided technical input into the design of the gateway.
+    *      Provided technical and project management support for the NWS Active Directory Modernization
+      project.
+         *      Provided technical input into the requirements and design of the NWS AD.
+         *      Built the NWS AD test bed environment from the ground up.
+October 2004 - November 2009, Amidee Capital Group, Inc., IT Manager
+Houston, Texas
+    *      Planned, implemented and managed capital projects at commercial properties. Designed,
+      installed and maintained the corporate information systems. Procured hardware and software;
+      allocated tools and resources to support computer systems, servers, routers and phone systems.
+    *      Established an in-house software development and printing operation that drastically cut
+      operational costs.
+    *      Managed a team of programmers and graphic artists to produce and maintain web sites and
+      printed materials for marketing campaigns and corporate communications.
+    *      Implemented waterfall as well as agile project management methodology to coordinate multiple
+      concurrent projects and enhance communications between the clients and employees.
+    *      Ensured a great level of transparency with Scrum managed projects; all aspects of the process
+      affecting the outcome were visible to all stakeholders. A clear product backlog was defined
+      with the product owner/company owner on project planning phases.
+    *      On a number of web development projects, held daily scrum meetings with my team demonstrating
+      clear lines of responsibilities and team accountability.
+    *      The agile methodology implemented on development projects proved extremely effective at
+      keeping projects on track meeting primary stakeholder's expectations. Having a sprint review
+      and sprint retrospective helped us adapt to changing stakeholders needs at our subsequent
+      sprint planning meeting.
+    *      Planned and managed the relocation of our corporate offices. This project included office
+      renovation, facilities planning and establishment of the complete infrastructure.
+    *      Employed expertise in software development, spreadsheets and databases to develop and
+      customize analytical models.
+    *      Designed and supported IT infrastructure of the broker dealership sister company.
+    *      Administered three exchange servers with tight security inside an enterprise firewall.
+
+
+
+

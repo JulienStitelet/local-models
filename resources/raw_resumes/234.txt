@@ -1,0 +1,143 @@
+
+
+
+      Ravi Nishant
+      Senior Full Stack Engineer - https://www.linkedin.com/in/rnishant-10
+      +1.310.880.9048 - ravinishant10@gmail.com
+RELCOATION: ANYWHERE
+ E X P E R I E N C E
+
+
+
+ Client - Sony Pictures Entertainment - Culver City, CA, USA
+Aug 2018 - Present
+
+
+   Senior Full Stack Engineer / Technical Lead
+   Redesigned Sony Pictures' Global Product Master System and Rights availability engine to assist
+   Sales Planners in identifying potential sales opportunities and manage conflicts between
+   agreements/deals. Forecast and track revenue globally for Sony's TV Distribution Group. Created
+   new user interfaces, guided team with implementation approach using technologies such as -
+   Angular 7, Angular Material, DevExpress, Bootstrap 4, TypeScript, Spring Boot, Microservices
+   framework, Mark logic API's. POC's for token based auth system. Followed Agile practices like
+   Scrum/Kanban. Incorporated secure coding processes.
+
+ Client - Sony Pictures Entertainment - Culver City, CA, USA
+Apr 2016 - Jul 2018
+
+
+   Senior Full Stack Engineer / Technical Lead
+   Analyzed the user interface requirements (Network Billing project) and created new user interface
+   & business logic for Invoicing, cash collection/cash application, revenue recognition, accounts
+   receivable and customer maintenance modules based on stories/tickets (Agile Methodology). The
+   solution was implemented using Angular 2, Html5, CSS, TypeScript, DevExpress components, Spring
+   Boot, Hibernate, etc. Guided team with techniques for implementation of RSA 2 Factor
+   Authentication for portfolio systems. Optimized application performance by utilization of server
+   monitoring and performance tools such as Panopta, White Hat and AppDynamics for fault free and
+   secure production systems. Lead a development team onsite and offshore.
+
+ Client - Sony Pictures Entertainment - Culver City, CA, USA
+Dec 2014 - Mar 2016
+
+
+   Full Stack Engineer
+   Revamped SPE's Enterprise Content Management Platform. Used Spring MVC Framework, HTML, CSS,
+   JavaScript, jQuery, Alfresco CMS for the solution. Setup/configuration of Apache webserver and
+   Tomcat App server. Implementation of Single Sign On integration for Apps with Sail Point/Site
+   minder SSO web agent solutions. Took care of sysadmin responsibilities - Responsible for cluster
+   setup of Application servers, debugging/resolution of technical issues reported in Production
+   environment due to nodes asynchronization, incomplete Lucene/SOLR indexes, Java memory leak
+   exceptions etc.
+
+   Developed actions, web scripts and dashlets for Alfresco 3.4 to provide a customized
+   collaboration environment for the marketing team, using Java, Spring, FreeMarker, dojo, YUI and
+   Lucene for indexing and searching.
+
+ Client - Sony Pictures Entertainment - Mumbai, India
+Sep 2013 - Nov 2014
+
+
+   Senior Java Developer
+   Worked on a custom web-based application for SPE Marketing/Research team, develop end-to-end
+   features & integration. Responsible for the design of web pages, actions, graphics to provide a
+   customized collaboration environment. Designed a custom Spring MVC, Hibernate based
+   router/gateway system. Performed Documents Migration from various systems to Alfresco CMS using
+   CMIS/RESTful API's, for e.g.: * Oracle DB/Stellent CMS/FTP server to Alfresco. Engineered
+   integration of Application with multiple 3rd party applications - such as SAP, Web Methods,
+   KOFAX, Mainframe, MS Outlook for Realtime document processing and indexing.
+
+ Client - Sony Pictures Entertainment - Mumbai, India
+Feb 2013 - Aug 2013
+
+
+   Analyst / Java Developer
+   Upgrades of a custom SPE intranet employee portal - mySPE from WebLogic to JBOSS platform.
+   Enhanced/re-designed custom Java based workflow approval system for contractual documents for
+   Sony users in Japan (SPEJ). Followed best practices/methodologies for OWASP top 10
+   vulnerabilities remediation in the application- Cross site scripting, SQL Injection, CSRF,
+   insecure cookie vulnerability etc. Analyzed, designed, and developed modules for Employee
+   Rideshare/Carpool feature, internal movie screening reservation system for SPE users based out of
+   Culver City, USA.
+
+ Client - Sony Pictures Entertainment - Mumbai, India
+Aug 2010 - Jan 2013
+
+
+   Java Developer
+   Enhancements for custom web-based Enterprise Content Management application for storage/
+   distribution/ tracking/ subscription of documents for all the SPE users worldwide. Implemented
+   Internationalization (for Japanese/Europe users) across application. Created custom standalone
+   batch jobs based on Java and UNIX shell scripts for documents processing/custom reports
+   generation. Developed and maintained unit test cases. Technologies used - Stellent CMS, Struts
+   Framework, Hibernate, HTML, JSP, JavaScript, CSS.
+ E D U C A T I O N
+
+
+      Bachelor of Engineering in Electrical and Electronics Engineering      2006 - 2010
+   Manipal Institute of Technology, Manipal University, India
+
+      Languages      Fluent in English and Hindi, general and technical
+
+ C      O U R S E S & C E R T I F I C A T I O N S
+
+
+
+ Software     *      Oracle Certified Java Programmer (1.6)
+ *      Agile/Kanban Training
+ *      Amazon AWS Developer Training
+ Quality Assurance     * Management Quality of Integrated Systems.
+
+
+ T E C H N I C A L S S K I L L S
+
+
+Languages      Java, J2EE, XML, JavaScript, ES6, TypeScript, XML, UML, PLSQL
+Templating & Front End      HTML5, jQuery, Free Marker, JSP, CSS, Thyme Leaf, Angular 6, Angular Material, Bootstrap
+Frameworks      Spring (DI/IoC), Spring MVC, Struts, Hibernate, JPA, Spring Boot, Microservices, REST, SOAP
+JavaScript Libraries      jQuery, jQuery UI, jQuery Mobile, YUI, dojo, DevExpress, Material IO, Bootstrap
+Build & Integration Tools      Ant, Maven, Jenkins
+ECM      Alfresco, Stellent
+Cloud      Amazon EC2
+Testing      JUnit, Mockito, SoapUI
+Data Base      Oracle, PostgreSQL, MySQL, Mark Logic
+Web Servers      Tomcat, WebLogic, JBoss
+IDE      IntelliJ IDEA, Eclipse, JBOSS
+OS      Linux, MacOS X, Windows
+Methodologies      OOP, AOP, SOA, Design Patterns, Agile
+
+
+ Concept      Java 10        Spring 7     Angular 5     Hibernate 7    TypeScript  5     JavaScript  7     HTML/CSS  7
+ Years of experience
+
+
+ *      Highly knowledgeable in algorithms and design patterns.
+ *      Excellent knowledge in Software Engineering, agile methodologies, and life cycle.
+ *      Strong command of development of applications of information processing.
+ P E R S O N A L S K I L L S
+
+
+
+ *      Strong client facing experience and excellent interpersonal and communication skills.
+ *      Experience and aptitude for coordinating and working in groups. * Dedication and energy put into
+  developing projects.
+

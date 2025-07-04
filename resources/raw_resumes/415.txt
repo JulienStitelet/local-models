@@ -1,0 +1,82 @@
+
+Jorge X. Berrios
+Address: 4500 Lords Landing Rd Apt 301, Upper Marlboro, MD 20772-2928 -
+Phone: 787.344.0711
+E-mail: jxberrios@gmail.com
+OBJECTIVEs
+To obtain an Entry-Level position as a Computer Engineer that will allow
+the application of the knowledge and skills gained.
+SKILLS
+* Programming Languages: C/C++, Java, C#, Assembly,  SQL, PHP, VHDL,
+  Drupal CMS
+* Testing and Version: Tortoise SVN, Seledium IDE
+* Software: Eclipse, MySQL, Oracle Database, Visual Studio, VMWare
+  Workstation, OrCAD PSpice, MATLab, Xilinx, Mentor Graphics, and
+  Microsoft Office Suite.
+* Operating Systems: Windows (including Server 2003), Unix/Linux
+* Knowledge in Electric, Electronic, and Logic Circuit Analysis
+* Fully Bilingual: English and Spanish (Written and Spoken)
+* Leadership: responsible, organized, ability to work under pressure,
+  team worker, quick learner, and good communications.
+EDUCATION
+Polytechnic University of Puerto Rico                                June
+2009
+
+* B.S. in Computer Engineering
+* Overall GPA: 3.02/4.0
+* Major GPA: 3.10/4.0
+
+* Courses taken includes: Computer Programming (C/C++), Advanced
+  Programming (C#), Circuits Analysis, Electronics, Signals and Systems,
+  Analog Communication, Logic Circuits, Microprocessors, Computer
+  Architecture, MicroComputer Interfacing, Data Communications, Computer
+  Networks, Software Engineering, and Capstone Design Project, which was
+  focused on software engineering.
+projects
+"Caribbean Agriculture Clearinghouse" -  Capstone Team Project
+Fall 2008
+* A software based solution to solve the problem of how information
+  systems can improve the agricultural sector.
+* Software Engineering phases covered: Project Management, Design,
+  Development, Testing, and Evaluation.
+ECE Student Info Center -  Software Engineering Course Team Project
+Spring 2008
+* A web-based solution to facilitate undergraduate students' access to a
+  detailed curriculum and grading system.
+* Software Engineering phases covered: Project Management, Design,
+  Development, Testing, and Evaluation.
+Brute Force Password Cracker -  Ethical Hacking Course Project
+Winter 2008
+* Designed and developed a solution in Java to finding a desired password
+  when an MD5 hash code had been previously obtained.
+WORK HISTORY
+Evertec, Inc. - IT Technician - Cupey, P.R.
+May - August 2008
+* Worked with the Data and Voice Services Department giving technical
+  support for the Networking and VoIP services provided by the company.
+Polytechnic University - Library Assistant Student                 June
+2005 - April 2006 and Spring 2003
+* Worked for the Collection Development and Technical Services Department
+  as part of Work and Study Federal Program.
+* Responsible of the data entry and data update of books on the Library
+  catalogue according to the Library of congress cataloguing guidelines.
+EXTRACURRICULAR ACTIVITIES
+IEEE - Polytechnic University Campus Student Chapter
+2007 - 2009
+IEEE Computer Society - Polytechnic University Campus Student Chapter
+2007 - 2009
+* Treasurer  2007 - 2008
+references
+
+Prof. Angel Gonzalez, PhD
+787-622-8000 x-322
+agonzalez@pupr.edu
+Relationship: Computer Architecture Professor
+Prof. Othoniel Rodriguez, PhD
+787-622-8000 x-370
+orodrigu@pupr.edu
+Relationship: Capstone Project Advisor
+Prof. Arturo Geigel
+787-298-3672
+ageigel@thelinq.com
+Relationship: Ethical Hacking and Network Security Professor

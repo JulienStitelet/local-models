@@ -1,0 +1,196 @@
+
+www.indidge.com		3 of 4
+201 E. Southern Ave., #201
+Tempe, AZ 85282
+		(480) 829-0479
+
+www.indidge.com
+Somasundaram Pitchaiah
+
+PROFILE
+
+	Over two years of hands-on software development experience
+	in analysis, design, development and testing software
+	systems and web applications. Over two years of experience
+	in developing Internet based applications using J2EE
+	technologies like Enterprise Java Beans, DAOs, Struts,
+	XML, Servlets and Jsps. Excellent team player with
+	analytical problem solving, trouble shooting and debugging capabilities.
+
+	SUMMARY
+
+Experience in Systems analysis, user interface requirement, design and development.
+Excellent knowledge in Object Oriented Concepts and methodologies.
+Excellent working knowledge of java integrated development environment.(Eclipse)
+Good understanding of Struts, common controls and iBatis Frameworks.
+Proven skills in software development life cycle and methodologies.
+Experience in writing technical specifications and documentation.
+Excellent Analytical, Leadership, Inter-personal
+Communication, Mentoring, Facilitation and Team Building
+Skills along with positive attitude to learn and embrace new technologies.
+
+EDUCATION
+Bachelor of Computer Science and Engineering, from Madurai Kamaraj University.
+
+TECHNICAL SKILLS
+Languages		:	Java 1.4, C, C++
+J2EE Technologies		:	Servlet, Jsp, EJB, DAO, Hibernate, JDBC
+Web Technologies		:	HTML, XML, Dojo Ajax ToolKit, Javascript
+DataBase		:	MySQL	5.0, MS Access
+Application Servers		JBoss 4.0.4, Weblogic 8.1
+Operating Systems		:	Windows XP, Windows NT, Linux
+IDE		:	Eclipse 3.2
+Source Control System	:    Eclipse CVS
+Frame Works		:	Struts, iBatis, Common controls
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer - Indidge Systems (www.indidge.com), Tempe, AZ.
+
+Project: idTracks Devices
+
+IdTracksEnterprise is a Manufacturing tool tracking and
+Calibration software. IdTracksEnterprise is designed to
+optimize Calibrations and save on production and
+calibration costs.  IdTracksEnterprise tracks the usage of
+tools and the products / jobs that is being used on.
+iBatis plugin is used to generate the data access object
+layer. This project is developed using J2EE architecture
+and runs on a Jboss application server with MySql database.
+
+Responsibilities:
+Involved in requirements gathering, customer interaction, prototyping and validation.
+Designed and developed the presentation
+layer using Jsp, Servlets, Common Controls and Struts.
+Implemented several DAOs and Session beans.
+Used Xdoclet configuration to generate interfaces and other objects required by EJB.
+Tracked and fixed bugs found during various stages of software development.
+Managed the CVS repository which was used
+for project development and code version management.
+Build EAR files and deployed them on Jboss application
+server using the built-in feature of MyEclipse, an Eclipse based java plugin.
+Involved in unit testing, deployment and user acceptance test.
+
+Environment:
+Jboss 4.0.4, EJB, DAO, Jsp, Servlets, AjaxTags, Common
+Controls, Struts, iBatis, MyEclipse4.1,
+MySQL5.0, CVS (Eclipse) and Windows, Linux(Fedora core)
+
+Project: Price Quest
+
+Price Quest is an online shopping site that enables a user
+to search for a particular item, browse through various
+available categories, and buy them online.
+This application was developed using Velocity, Dojo
+ToolKit, Struts, EJB with MySql as database and it runs on Jboss application server.
+
+Responsibilities:
+Involved in requirements collection, customer interaction, prototyping and validation.
+Developed user interface with Dojo AJAX toolkit
+Developed the web site pages using Velocity
+Designed the database schema and implemented in MySQL.
+Tracked and fixed bugs found during system assembly, user acceptance testing.
+Managed the CVS repository which was used
+for project development and code version management
+Involved in unit testing, deployment and user acceptance test.
+Coordinated the tasks between the team members
+
+Environment:
+Jboss 4.0.4, EJB, Velocity, Dojo Ajax Tool
+Kit, Struts, MyEclipse 4.1, MySQL5.0, CVS (Eclipse), WinXP , Linux
+
+Project: ProjectExpo
+
+This web application is basically a project bidding site
+that enables users to post and bid for a project.
+The members can post their bid with details such as project
+schedule, team size, required resources and approximate
+pricing. The project is awarded to the best bid in terms of time, team size and pricing.
+
+Responsibilities:
+Involved in various stages of software life cycle process
+like requirements gathering, design analysis and development.
+Designed and developed the presentation
+layer using Common Controls, Struts, Jsp and Servlets.
+Used Stateless Session Beans (EJB) in the
+back end to interact with the database connection service.
+Coded ant scripts for compiling, building and packaging the
+service (ear) and deploying the ear to the Jboss Application Server
+Designed database schema and implemented in MySQL.
+Managed the CVS repository which was used
+for project development and code version management.
+Build WAR files using ANT - a java based build tool.
+Involved in unit testing, deployment and user acceptance test.
+
+Environment:
+Jboss 4.0.0, Jsp, Servlets, EJB, Dojo Ajax
+Tool Kit, MySQL, Eclipse, CVS (Eclipse) and WinXP.
+
+Project:  Customer Relationship Management:
+CRM is a Customer Relationship Management tool enabling organizations to manage and
+coordinate customer interactions across multiple
+departments. This application was mainly developed for
+Indidge systems sales team. This application helps sales
+team to monitor and track their customers based on company
+products, customer status with respect to
+their sales cycle. J2EE architecture with Servlets and JSP was used.
+
+Responsibilities:
+Involved in various stages of software life cycle process
+like Requirements capture, Design analysis and development.
+Designed and developed the presentation layer using JSP and Servlets.
+Developed Web Service Clients to integrate Task Management
+with Projector Application (A web based
+Project Management System to manage Tasks within Indidge Systems).
+Designed database schema and implemented in MySQL.
+Managed the CVS repository which was used
+for project development and code version management.
+Build WAR files using ANT - a java based build tool.
+Involved in unit testing, deployment and user acceptance test.
+
+Environment:
+Jboss 4.0.0, Jsp, Servlets, MySql, Eclipse, CVS (Eclipse) and WinXP.
+
+Project: Performa
+
+Performa is a solution to track and manage equipment
+performance from manufacturing equipment deployed in hard
+industrial environments. Performa uses Radio Frequency
+technologies to collect data from the equipment and make it
+available. It analyzes the data, calculates equipment
+performance metrics and presents the manufacturing engineer
+with the information he needs to improve the
+efficiency and profitability of the manufacturing facility.
+
+Responsibilities:
+Involved in various stages of software life cycle process
+like requirements gathering, design analysis and development.
+Designed and developed the presentation layer using Jsp and Servlets.
+Used Session Beans (EJB) in the back end to
+interact with the database connection service.
+Coded ant scripts for compiling, building and packaging the
+service (ear) and deploying the ear to the Jboss Application Server
+Designed database schema and implemented in MySQL.
+Managed the CVS repository which was used
+for project development and code version management.
+Build WAR files using ANT - a java based build tool.
+Involved in unit testing, deployment and user acceptance test.
+
+Environment:
+Jboss 4.0.0, Jsp, Servlets, EJB, CSS, MySQL, Eclipse, CVS (Eclipse) and WinXP.
+
+Project:  WTLS-Wireless Transport Layer Security
+
+WTLS project implements security in wireless device
+communication. The application manages secure sessions
+between application servers and mobile
+communication devices using WAP and HTTP protocols.
+
+Responsibilities:
+Involved in various stages of software life cycle process
+like Requirements capture, Design analysis and development
+Designed and developed the application in C.
+Ensured secure connection establishment between WAP client and Gateway.
+
+Environment:
+Linux, C

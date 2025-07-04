@@ -1,0 +1,147 @@
+
+Edward Mirch
+1393 Teakwood Dr. #71, San Jose, CA 95128
+408-393-7509
+ edward.mirch@yahoo.com
+
+Summary of Qualifications
+
+10+ years of system administration and desktop support experience at
+world class companies.  Strong service philosophy, providing excellent
+and timely support with empathy and a smile.  Comfortable with working
+with a diverse team and customer base, working with ease with both rank
+and file and executive/partner level customers.  Able to manage multiple
+tasks and projects while meeting deadlines and service level
+expectations.  Enjoy new challenges, quick learner and agile while also
+willing to perform any task to help the organization.
+
+Technical Profile
+
+Hardware:  Compaq/HP servers, desktops and laptops, Cisco routers and
+switches, Cisco Aironet Wireless Access Points, Fluke LanMeter , What's
+Up Gold, Avaya/Lucent/AT&T telephone switches and Intuity Audix voice
+mail system
+Software:  Systrack, Windows Software Upgrade Services, Symantec
+Antivirus, Arcserve, HP Insight Manager, McAfee Firewall, Symantec
+Antivirus, Concord Health Monitoring, Lotus Notes, Microsoft Outlook and
+Office
+Operating Systems:  Windows XP, 2000, NT
+Network Operating Systems:  Windows NT 4.0 Server, Windows 2000 Advance
+Server, Windows 2003 Active Directory, Novell 3.12, 4.10, 4.11
+
+Employment
+
+Techlink Systems                 3/2009-1/2010
+System Administrator
+Amgen, Fremont, CA - Contract
+Supported GMP and non-GMP benchtop lab systems, automated, standardized
+and documented lab PC build and support procedures and acted as site
+representative on national benchtop support teams
+   * Supported over 100 lab benchtop systems, including GxP systems
+     following guidelines for regulated and non-regulated systems
+   * Built and deployed new lab benchtop systems by Amgen standards and
+     configured vendor supplied PCs to meet Amgen standards
+   * Developed automated site-specific finish scripts for the
+     post-imaging process of lab PC instrument controllers cutting down
+     the time to build by 75% and assuring that each build was standard
+   * Created automated installation and configuration scripts for lab PC
+     software
+   * Automated configuration and software installation process for vendor
+     supplied PC instrument controllers
+   * Installed and configured Windows Software Update Services on all lab
+     PCs and configured Windows Software Update Services groups on
+     Windows Software Update Services server.
+   * Installed and configured Systrack server, deployed and configured
+     Systrack clients and configured real time monitoring and reporting
+     for all lab systems
+   * Performed Active Directory user and group management
+   * Administered remote access accounts and tokens for Fremont campus
+
+
+Self Employed                2/2008-3/2009
+Small computing and networking consulting engagements at small businesses
+in the Bay Area
+
+PricewaterhouseCoopers, LLP            1997-2008
+
+Regional Infrastructure Coordinator
+2006-2008
+Infrastructure leader for five North West regional practice offices
+
+
+Edward Mirch                        Page 2
+
+
+   * Managed new initiatives for the region as well as day to day support
+     of the network infrastructure
+   * Coordinated infrastructure support with local infrastructure
+     coordinators from the satellite offices and worked with local
+     service desk team to resolve infrastructure issues
+   * Developed process and guidelines for transition of print services to
+     IT for all U.S. Firm offices and managed the actual  transition for
+     the five Northwest offices
+   * Maintained and managed Partner/Customer relationship for the San
+     Jose office that served over 1000 end users
+   * Reviewed and approve infrastructure change control requests in
+     regional offices
+   * Represented five regional offices that supported over 3000 customers
+     for national infrastructure meetings, and initiatives as well as
+     continuous operations
+   * Managed multiple projects for individual offices, regionally and
+     nationally such as facility moves, collocations, new technology
+     rollouts, server OS patching
+   * Assisted with service desk duties and desktop support
+
+Distributed Infrastructure Coordinator
+2001-2006
+Represented San Jose Offices on new technology rollouts and continuous
+operations support
+   * Implemented multiple collocations and infrastructure build-outs for
+     San Jose offices and coordinated infrastructure consolidations that
+     brought over 1000 customers into a single Silicon Valley office
+   * Standardized firm security for the San Francisco core offices
+     consisting of network and facilities
+   * Coordinated IP address changes and localizing DHCP scopes, WINS, and
+     DNS to local offices
+   * Worked on the team that developed national backup standardization
+     standards for all U.S. offices and managed the implementation for
+     the five Northwest offices
+   * Assisted with service desk duties and desktop support
+
+Computing and Network Services Support
+1997-2000
+   * Began career at Price Waterhouse as a service desk technician and
+     assisted with network services at the Price Waterhouse Global
+     Technology Centre, supporting R&D team desktop hardware and
+     applications
+   * Promoted to Network Administrator, deployed and supported multiple
+     Novell, Windows NT and Lotus Notes servers as well as specialized
+     desktop applications used by the R&D and publishing groups
+   * Teamed with the firm's global technology R&D department to configure
+     and deploy lab servers as well as production servers that were used
+     by the global firm
+   * Acted as a liaison between Global Technology Centre Computing and
+     Network Services group and the US Firm's IT leadership
+
+Softworld Services                1996-1997
+Desktop Support and Network Administration
+   * Expanded Novell 3.12 Network from 50 users to over 200
+   * Upgraded over 200 systems from Windows 3.11 to Windows 95
+   * Deployed over 150 new desktop systems
+   * Created standard configurations and Ghost images
+   * Implemented Wide Area Network between Silicon Valley campus and
+   Boston campus
+   * Planned and supervised IT build out of new Silicon Valley campus and
+   facilities move
+   * Upgraded phone system to AT&T/Avaya PBX and Intuity voice mail
+   system
+
+Education
+
+West Valley Community College            Saratoga, CA
+2 years of general education
+
+West Valley Community College            Saratoga, CA
+Completed networking program and Novell 3.12 Network Engineering program
+
+Currently pursuing continued education in Cisco and Linux administration

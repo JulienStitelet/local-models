@@ -1,0 +1,256 @@
+
+
+Ashwini
+
+SUMMARY:
+* Having 8 years of IT experience in complete Software Development Life Cycle, Architecture,
+Analysis, Designing, Development, Debugging, Testing and Maintenance of 3-tier Enterprise Web
+Application.
+* Worked in Scrum, Waterfall and Test-Driven Development environment.
+* Expertise in developing application using .NET 4.6/4.5/ 4.0/ 3.5, MS Visual Studio, MVC 6/5/4,
+Razor
+View Engine, C#, C#.Net, ASP.Net, LINQ, AJAX, XML, JavaScript, jQuery, JSON, HTML, CSS, Azure
+Cloud, Angular9, React.js, Typescript and web services and WCF.
+* Experienced with Microsoft Application building blocks for .Net projects (Data Access, Exception
+Handling, Serialization and User Interface Process).
+* Expertise knowledge on Object Oriented Programming (OOPS) Concepts including Inheritance,
+Abstraction, Encapsulation and Polymorphism, good experience in Exception Handling, Debugging and
+tracing by which the whole picture of application runtime can be seen and analyze more
+efficiently.
+* Experience in developing ASP.NET Web customs controls, user controls, Data Controls like Data
+Grid, Rich UI with extensive use of hand coded experience on ASP.NET AJAX, Angular.js,
+Knockout.js, Enmber.js, Backbone.js, React.js, Require.js, Bootstrap and JQuery and building RIA
+web applications.
+* Experience In building Single Page Applications (SPA) using HTML5, CSS3, Bootstrap, Angular.js,
+Typescript, ASP.NET MVC, ASP .NET Core, Bootstrap, ASP.NET Web API, Entity Framework.
+* Expertise in developing Client/Server Applications on various architectural design patterns
+including MVC, Two-Tier & Three Tier Architecture.
+* Proficient in developing systems built on SQL Server using Tables, Triggers, Views and Stored
+Procedures in SQL and maintaining the database, including requirement analysis, design, data
+conversion, loading and implementation.
+* Expertise in developing Web Forms using static and dynamic data.
+* Used AJAX Controls to create an interactive Web Application and customize AJAX Control Tool kit
+as per requirement demand.
+* Strong experience in using Oracle for the back-end applications
+* Experience in querying using LINQ to SQL, LINQ to XML and other data sources.
+* Hands on experience developing reusable components using Object Oriented Techniques.
+* Proficiency in reports generation using Crystal Reports, SSIS and SSRS.
+* Experience with Agile with Scrum Framework, TDD and Waterfall methodologies
+* Enthusiastic, Ability to quickly understand and utilize new technologies
+* Experience in Migrated the Bootstrap Screen to Angular wrapper & Converted Oracle Forms Screens
+to Angular.js
+* Extensive experience in creating PL/SQL, TSQL Stored Procedures, Triggers, and Views.
+* Strong coding skills in developing web, console applications, REST Services AND Web API for Web
+application.
+* Ability to take and give directions, instructions and provide assistance through completion of
+tasks.
+* Ability to work under minimal supervision, adhere to deadlines, excellent verbal and
+communication skills. Excellent Interpersonal and Communication skills, coupled with strong
+technical and problem solving capabilities.
+
+
+TECHNICAL SKILLS:
+.NET Technologies C#, .NET Core 3.0, ADO.NET, ASP.Net4.5/4.6, WCF, LINQ
+Web Technologies
+XML, HTML/HTML5, XHTML, CSS/CSS3, JavaScript, jQuery v3.0, Bootstrap, Angular.js , Backbone.js,
+React.j, Ember.js v3.4, Require.js v2.3.6, Ext.js v7.0, AJAX, JSON,PHP, Angular material, Material
+design frameworks, Jasmine Framework and Leaftlet Design,
+
+Databases SQL Server2017/2019, Oracle 8i/9i/10g/11g/12c, MS Access and DB2
+Middleware ADO.NET Web Services, Enterprise Library, Entity Framework, LINQ to SQL
+Reporting Tools SQL Server Reporting Services (SSRS), Crystal Reports
+Application Servers Windows Server 2008/2003/NT, Microsoft IIS
+Operating Systems Windows Vista/ XP/2000/2003
+IDE Visual Studio 2019 SQL Server Management Studio
+Frameworks .Net Framework 3.0/3.5/4.0/4.5/4.8, ASP.Net MVC 4.0/5.0/6.0
+Cloud Technology Microsoft Azure and Aws (Amazon Web services)
+
+PROFESSIONAL EXPERIENCE:
+
+Enverus -Austin, TX March 2021 - Till date
+Full Stack Developer
+
+Responsibilities:
+* Working in Agile Methodologies for rapid development and regular adaption to the varying
+requirements and continuous delivery of the working software.
+* Involvement in requirement gathering, analysis, designing, documenting, implementing and
+testing websites for maintaining the customizable components for different customers.
+* Worked with Agile and Scrum Methodology to produce high Quality software.
+* Used VSTS for Sprint activities.
+* Built numerous C# UI components and business modules. Utilized .NET Web API.
+* Designing web pages and fixing performance issues in the application using HTML, CSS, Java Script
+, TypeScript, jQuery, knockout.js, C# and SQL Server
+* Implemented Presentation layer using CSS Framework, knockout.js, Wire-framing, HTML5.
+* Come up with POCs to provide alternate implementation of a specific functionality
+* Worked on various client internal frameworks to develop application like HYDRA, CTS, and NEXTGENES
+.
+* Created Typescript reusable components and services to consume REST API's using Component based
+architecture provided by Angular.
+* Language-Integrated Query to EF implementation for data retrieval. Transaction management in LINQ
+queries for Create-Read-Update-Delete (CRUD). Created tables, stored procedures.
+* Implemented various screens for the front end using Angular.js and used various predefined
+components from NPM (Node Package Manager) and redux library.
+* Created different business classes and interfaces using .Net Framework with Object Oriented
+Programming Methodology.
+* Experience working with Azure Micro services.
+* Design and development of web pages using HTML, CSS including Ajax controls and XML.
+* Worked in using Angular.js components, Forms, Events, Keys, Router, Animations and Flux
+concept.
+* Converted the application to Microsoft Azure Cloud Service Project as part of cloud deployment.
+* Designed from the ground up to be incrementally adoptable by the using of Vue.js.
+* Developed JavaScript development using jQuery and Knockout.js to create front end.
+* Developed windows desktop application using C#, Web API and WPF
+* Building web application using Template jQuery and Bootstrap.
+* Created, modified existing Store Procedures, Views and Functions in SQL Server 2018
+* Use Window Azure to deploy the application on cloud and managing the session.
+ENVIRONMENT: Visual Studio 2018/2019, .Net Framework 4.5, C#, WPF, SQL Server 2018, Knockout.js v3.
+5.1, Angular 9.0, Web API, HTML, CSS, JavaScript, MVC6, jQuery, WCF, XML, Swagger, Postman, IIS 7.0,
+TFS, Jenkins, Browser Stack, GIT Hub, GIT Bash and Agile Scrum.
+
+Mu Sigma Inc -India Jan 2016 - Sep 2020
+Full Stack Developer
+
+Responsibilities:
+* Followed Agile and Scrum methodology for continuous integration & continuous delivery with
+regular small releases.
+* Designed Application architecture for Process Flow, Security and Error Handling.
+* Designed and developed WebPages using ASP.NET, VB.Net, HTML5, JavaScript, AJAX, jQuery, CSS
+and server control.
+* Developed and enhanced Master Pages, User Controls, Custom Controls, and User Interface by
+using HTML5, CSS3, ASP.NET Controls along with Bootstrap Framework, Telerik MVC Kendo UI
+Controls.
+* Developed Web forms for registration, to update the policy installment pages and application
+logic in ASP.NET, .NET MVC 4.5.
+* Designed and developed application logging using Log4net logging framework, created custom
+appended to save log information in database.
+* Used Microsoft Exception Handling Block Component to handle errors and worked on .NET security
+features such Authentication & Authorization, Authorizing Users, Roles and User Account
+Impersonation.
+* Bind two data from MONGODB, NoSQL database to UI meteor modules.
+* Created Web HTTP binding to make WCF rest services to improve the performance.
+* Developed REST based services, MVVM Web application using Knockout.js, require.js, bootstrap.css
+, Web API 2.0.
+* Implemented Restful services based on SOA and Microservices architecture patterns using
+ASP.NET Web API.
+* Used Team foundation server (TFS) as source control repository for code version on CI/CD.
+* Used N-Inject dependency injection library to initialize the objects and inject the services
+to them.
+* Implemented Web Application using MVC (Model-View-Controller) architecture with extensive
+multi-threading
+to allow a responsive and elegant UI.
+* Developed restful Services using WEB API to expose business logic.
+* Designed and developed user interfaces using VB.NET and ASP.NET.
+* Responsible to Create TFS (Team Foundation Server) Projects, Work Items, and Versioning,
+Automation of build process using TFS API, TFS Build, and MS Build tools.
+* Designed and Consumed XML Webservices using Microservices.
+* Used the OWIN middleware for logging the HTTP Request and Response.
+* Created Server Side of application for project management using Node.js and MongoDB
+* Involved in consuming Restful services using Angular.js, https services.
+* Designed the Win Form UI screens using WPF and XAML.
+* Developed ASP.NET WEB API 2.0 to allow the Angular.js application handle with HTTP requests
+like get, post, put, delete when the user request fired for displaying or manipulating of the
+data.
+* Used ADO.NET, LINQ in connecting to Data Access management with SQL Server.
+* Used Knockout.js for Automatic UI refreshing and for native template.
+* Developed test pages for different flows of application using Angular.js, JavaScript, jQuery,
+HTML, CSS, AJAX and JSON.
+* Implemented a code branching strategy to allow for continuous development and reproducible
+production deployments using TeamCity and Octopus Deploy.
+* Actively assisted the development team, allowing them to build a pipeline for continuous
+delivery, fostering the programming, Test Driven Development (TDD), and continuous integration
+.
+* Created a multi-threading program to pull data in parallel, sources including restful API.
+* Re-engineering VB6 import utility into WPF XAML frond end.
+* Used JavaScript and JavaScript libraries Angular.js and Implemented Angular.js Controllers to
+maintain each view data. Implemented Angular Service calls using Angular Factory.
+* Implemented AJAX Asynchronous and Asynchronous calls.
+* Involved in Implementing Service Oriented Architecture (SOA) and used WCF to expose business
+logic as services and consumed those services. Defined service contracts, implemented service
+contracts etc.
+* Worked on SOLR search engine for indexing and searching the contents of a Web site.
+* Created several Stored Procedures, SSIS packages, SQL Jobs, Functions and Views in Confidential
+*SQL
+* Developed client side validation code using Typescript, JQuery and ES5.
+* Migrate legacy applications from .Net 4.6 to .Net 4.6.1 Framework.
+* Migrated applications from VB6 to VB.Net.
+* Developed Win forms customized properties of a .NET application from XML Config file.
+* Created Crystal reports in SQL server 2012 by using prior features.
+* Involved in developing the deployment scripts in power shell and creating deployment packages
+for Share Point 2013.
+* Developed program to automatically create Jasmine/Karma test scripts for Angular controllers.
+* Designed new WPF application using MVVM and Repository pattern, from design to completion
+using PRISM Principles
+* GUI was developed using JQUERY with Java script, JSON, LINQ, CSS3, XAML and ASP.NET MVC 6, Web
+APIs,
+angular.js.
+Environment: .NET Framework 4.6.1/4.6, Entity Framework 6.0, ASP.NET MVC 6, WEB API 2.0, Share Point
+2013, VB6, VB.Net, Agile SDM, MS Visual Studio 2015, tal Repots, Bootstrap, TeamCity, Octopus
+Deploy, MS Build, TFS API, TFS Build, HTML5, XML, XSLT, SQL Server 2014, AJAX, Angular.js, Knockout
+V3.2.0, XHTML, CSS3, MVVM, Jasmine, Karma, NHibernate, SOAP & HTTP, Jenkins
+
+Render InfoTech- India Sep 2013 to Dec 2015
+.Net UI Developer
+
+Responsibilities:
+* Responsible for Analyzing the Business Requirements, System Specifications, feasibility
+Analysis. Understanding the business requirements and leverage the Technology to meet Business
+Requirements and Goals.
+* Involved in Full Life Cycle Development (SDLC), provided value added services with development
+teams and clients throughout the life span of a project.
+* Worked on web Application with modern web technologies on .Net Framework 4/4.5 using Asp.Net
+MVC 4/5, Web API, Entity Framework 6, HTML5, CSS3, Bootstrap and React.js.
+* Worked on capturing the user events and rendering the appropriate action and dynamically
+rendering the UI based on user actions using React.js.
+* Designed and developed various abstract classes, interfaces, classes to construct the business
+logic using C#.
+* Used OOPS Concepts and SOLID principles in C# 4.0 to implement business logic and code behind
+view models.
+* Created Responsive UI design using Bootstrap and React material design.
+* Extensively used/modified jQuery to perform AJAX calls for creating interactive web pages on JSON
+response.
+* Worked on implementing current Rest web services to one of cloud computing services AWS.
+* Created and optimized views for user interactions using objects of HTML Helper class, Custom
+Helpers and React.js.
+* Wrote code to fetch data from Web services using jQuery, AJAX via JSON response and updating
+the HTML pages.
+* Involved in Converting mockups into web pages by using HTML5, CSS3 and JavaScript.
+* Wrote SQL Queries, stored procedures and functions to handle business rules data integrity and
+various data transactions.
+* Created message handlers in Web API to implement global level authentication.
+* Developing complex Stored procedures, User Defined Function and Triggers in SQL Server 2014.
+* Unit testing, debugging, problem solving and documented the whole testing phase.
+Environment: C#4.0, .NET 4.5, ASP.NET4.0, MVC 4.0/5.0, HTTP, ADO.NET, AJAX, TDD, Entity Framework
+6.0, HTML5, CSS3, JavaScript, Node.js, Bootstrap, jQuery, TFS 2012/2010, Web API, SSRS, LINQ, SSIS,
+PL/SQL, SQL Server 2012, IIS 7.0, Visual Studio 2012.
+
+Xiphias Software Technology-India Jun 2012 - Aug 2013
+Software Engineer
+
+Responsibilities:
+* Working as an onsite responsible for requirement gathering and analysis.
+* Involved in designing a web form based on the Molina Marketing team's requirement.
+* Development of web forms for client-server interaction using C#, HTML, CSS and JavaScript.
+* Involved in creating Master Pages and Theme.
+* Developing web site in an accessible fashion to meet W3C WAI (Web Accessibility Initiative)
+Standards Accessibility requirements using XHTML, CSS and accessible templates technologies
+* Created Custom Controls to use in entire application.
+* Deployment of web services in the web pages.
+* Develop Crystal Reports (version 10+), ASP.NET MVC3, VB.NET, MS SQL Server 2005, and Visual
+Studio 2010.
+* Validated web forms through JavaScript and jQuery.
+* Designed database in MS SQL Server by creating Tables, Stored Procedures, Functions, Views and
+Triggers and integrate them in the applications.
+* Interface with database and stored procedure using ADO.NET Dataset, Data Reader, Data Adapter
+and Data Grid to interact with databases like 2008/2005/2000 and Oracle 11g/9i
+* Designing User Interface in Silverlight better Performance in Client browser and Procedures. WCF
+using distributed communication transactions to the database.
+* Wrote business logic in C# to handle transactions from and to database using ADO.NET objects
+such as Data Sets, Data Adapters, and Data Readers.
+* Created classes using VB.NET and develop database components to access database using ADO.NET.
+* Troubleshoot and provided resolution for different kind of issues during the various stages of
+project.
+* Expertise in Designing and Developing Datasets according to the requirement.
+* Involved in Report Generation using SSRS.
+Environment: Visual Studio.NET 2010, ASP.NET, C#, MVC, ADO.NET, JSON, Web Forms, HTML, CSS, XML,
+JavaScript, Razor, Ajax, MS SQL Server 2005, SSRS, Web Services, Web API.
+

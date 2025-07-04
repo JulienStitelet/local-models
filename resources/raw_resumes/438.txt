@@ -1,0 +1,243 @@
+
+
+
+
+
+  RESUME OF: Silvi George
+
+                                                    E-mail:silvig4@yahoo.com Phone:(954) 478 9789
+
+
+
+    SUMMARY
+
+
+  Over 9 Years of hands on experience in Software Quality Assurance, Information Technology and
+  Testing on client/server and web-based application development projects, which includes with
+  improving the quality and validation process in all aspects of Software Development Life Cycle.
+
+  Energetic, self-motivated and reliable team player with the ability to juggle multiple tasks and
+  meets tight deadlines.
+
+    *      Experience in Manual and Automated Testing.
+    *      Comprehensive experience with various types of testing including White box, Black Box,
+      Regression, Unit, System, Integration, Stress, Performance and Load Testing.
+
+    *      Done extensive Manual Testing and Test Case documentation.
+    *      Extensive experience in writing Test Plans, defining Test Cases, developing and maintaining
+      test scripts, analyzing bugs, interacting with team members in fixing the Errors.
+    *      Experience in using Mercury test automation tools Win Runner, loadrunner, QTP and Test
+      Director.
+
+    *      Extensive experience in Functional, Integration, Regression, UAT and Data driven testing.
+
+    *      Usage of Trackers/Bug Reporter like Test Director.
+    *      Strong skills in Backend testing using SQL Queries on RDBMS. Expertise in data mining to
+      create valid test cases based on real time data.
+
+
+    *      Strong problem analysis and resolution skills
+    *      Analytical and Systematic thinking ability with a goal and solution oriented approach.
+    *      Ability to perform effectively and efficiently in a team and individually.
+
+    *      Able to study new technologies and tricky concepts rapidly and execute them.
+
+        TECHNICAL SKILLS
+    Testing Tools:        Test Complete, WinRunner, LoadRunner, Quick Test Pro, Test Director and Quality Center
+    Bug Reporting:        Test Director, Quality Center
+    Enviornments:        Java, J2EE, Websphere, JSP, C, C++, Visual basic, ASP, VBScript, JavaScript
+    Databases:        Microsoft SQL Server, IBM AS\400
+    Operating Systems:        Windows 7/Vista/XP/2000/2003, MS-DOS, AS/400
+
+
+
+    PROFESSIONAL EXPERIENCE
+
+
+  Royal Caribbean Cruises International, Florida                  Sept 2007 thru Dec 2009
+  Software Quality Assurance Analyst (Consultant)                  March 2010 till To Present
+  Currently working and have been working over the last several years on various consulting
+  engagements as a SQA consultant for Royal Caribbean Cruise Lines (a global cruise vacation
+  company). Worked broadly on various Web projects (Guest and Travel Agency portals) performing
+  manual and functional testing.
+
+  Worked on various projects that involved n-tiers, globalization (multi language), PCI Compliance
+  (Credit card Encryption), system integration with external partners, system enhancements and bug
+  fixes.
+
+  Environment: Java, J2EE, Web Sphere, Mercury Quality Center 9.0, Test Director 8.2, Quick Test
+  Pro, Oracle, Microsoft SQL Server, IBM AS/400 - DB2
+
+(Continued...)
+Responsibilities:
+    *      Manual and Functional testing.
+    *      Reviewed Business requirements, IT Design documents and prepared Test Plans for all assigned
+      project releases.
+    *      Involved on testing the new functionalities based on test cases and coordinated with
+      development team in fixing the issues.
+    *      Handled several projects with the short deadlines.
+    *      Tracking defects and report defects to the concerned authorities using Quality Center.
+    *      Writing queries using Microsoft SQL Query Analyzer application to extract and validate data.
+    *      Writing queries using AS400 Query Analyzer, WRKQRY, DBU to extract and validate data on the
+      AS400.
+    *      Performed Regression tests to ensure product integrity after modification and enhancements.
+    *      Worked with the technical stall to validate test requirements, resolve design issues and
+      software defects
+    *      Involved in creating UAT test plans and subset of Functional test cases for UAT testing.
+    *      Coordinate testing across various international offices and users.
+    *      Contributed in regular status meetings to state any bugs, problems and risks.
+    *      Shared test faults and outcomes to the project managers and the application developers.
+    *      Offered weekly project condition to the project managers and the testing managers.
+
+ABB Concise Optical Group LLC, Florida
+QA Analyst                                                      Dec 2009 thru Feb 2010
+
+ABB CONCISE is one of the nation's leading distributors of optical products, including contact
+lenses, ophthalmic lenses, frames, sunglasses, accessories and contact lens solutions, also
+manufactures Gas Permeable (GP) contact lenses.
+
+Projects:
+      Gas Permeable Orders: Enhance ABBCONCISE.com with GP order form by adding limitations to the
+      parameter entry, highlighted the required parameter in Red & ignored paramenter entry with a
+      K-reading.
+
+      Future Ship: Enhance ABBCONCISE.com with ability to select shipment date for the current, make
+      auto shipment for the future with updated quantity with specified interval.
+
+      Replenishment Grid: Ability to add Multiple replenishment orders at a time by choosing
+      different manufactures & product.
+
+Environment: Winrunner, QTP, Test Director, SQL Server 2000, .NET, J2EE
+
+Responsibilities:
+     *      Interpreted functional specifications
+     *      Defined and created use cases, test plans, test procedures, test cases for website
+     *      Created test scripts in win runner/QTP for functional testing.
+     *      Interfaced with the performance team to load test the application using Load Runner
+     *      Performed defect tracking, analysis and reporting using Test Director
+     *      Worked closely with Development on de-bugging issues
+     *      Performed Functional, Integration, Regression, UAT and Data driven testing.
+     *      Provided assistance to Customer Support using Remedy Support
+     *      Conduct comparison reviews of baselines vs. automated test results
+     *      Participate in project meetings contributing to the leadership
+
+
+Tracfone Wireless Inc., Miami, Florida
+Software Quality Assurance Tester      March 2006 to August 2007
+
+Performed manual and automated SQA testing on TracFone and NET10 website applications, IVR and
+WebCSR systems. Working with different types of cell phone technology, exp. CDMA, TDMA, Analog, and
+GSM. Major functionality of the testing is to optimize the activation, deactivation, redemption,
+purchasing, and the technical issues. Worked on different projects & BAU's (Business As Usual)
+
+Project Scope:
+WebCSR Rewrite: Rewrite the WebCSR system for faster performance by removing the java code which are
+being repeated and trying to retrieve data when not necessary.
+Promo Controller: Worked on variouse Airtime promo controller with required restrictions & rules.
+GSM Upgrade : Functionality to Upgrade GSM phone to a different technology when moving to different
+area network.
+
+Environment: Mercury Quality Center 9.0, Test Director 8.2, Quick Test Pro,Load Runner, Microsoft
+Visio, Excel, Word, Windows XP, WEBCSR, IVR, TF WEB, and NET10 WEB, Windows NT/2000/2003, SQL
+Server,Toad
+
+Responsibilities:
+    *      Studying the application and preparing the ambiguities from requirement specification.
+    *      Preparation of test plan and test cases for modules.
+    *      System testing, functionality testing, UAT.
+    *      Tracking defects and report defects to the concerned authorities using Quality Center.
+    *      Creating scripts for regression tests using QTP and conducted tests.
+    *      Enhancing the QTP scripts by modifying the same to get the test result more result oriented.
+    *      Generating LoadRunner scripts with LR 8.1 and modified the scripts to enhance the load tests.
+    *      Conducted LoadRunner tests with different load and Number of Users.
+    *      Analyze the LR test results in LR Analysis and submitted to authorities.
+    *      Writing queries using TOAD application to extract appropriate data.
+    *      Participating with the project team to raise issues regarding the application.
+    *      Actively participating in project meetings to plan the test accordingly.
+
+  Bridge Software Inc, Miramar, Florida
+  QA Analyst                                                      April 2003 thru Dec 2005
+
+  Project: Market Share Analysis Tool
+
+  Develop a standard, easy to use web based tool for an insurance company to analyze the
+  competitor's financial performance as a means to validate their own performance and to identify
+  market opportunities.
+  Project: Agent/Broker Tracking System
+
+  This web-based tool developed for an insurance company is intended to keep track of the company's
+  active agents, number of quotes and applications received through an agent, the numbers of visits
+  to an agent by a Marketing Manager on a weekly basis.
+  Environment: AS\400, DB2, SQL Server 2000, Visual Basic, HTML, ASP, Winrunner, QTP, Loadrunner,
+  Test Director
+     *      Interpreted functional specifications
+     *      Defined and created use cases, test plans, test procedures, test cases for website
+     *      Created test scripts in win runner/QTP for functional testing.
+     *      Interfaced with the performance team to load test the application using Load Runner
+     *      Performed defect tracking, analysis and reporting using Test Director
+     *      Developed and executed procedures, functions and triggers using PL/SQL
+     *      Worked closely with Development on de-bugging issues
+     *      Performed Functional, Integration, Regression, UAT and Data driven testing.
+     *      Provided assistance to Customer Support using Remedy Support
+     *      Conduct comparison reviews of baselines vs. automated test results
+     *      Participate in project meetings contributing to the leadership
+
+Unit Trust of India, Mumbai, India
+Programmer            Sept 1997- Dec 1998
+
+Project: Payroll & Hr Administration Product
+
+The project comprises of Leave Attendance, Payroll system package and Admin Administration Package.
+The package deals with recording daily attendance of staff, Leaves as per leave policy, Pay slip
+calculation, Statutory Reports, Income Tax calculation as per FORM16 and FORM 24A
+
+Project: Investor Management
+
+Unit Trust of India an investment institution, which provides various tools for investment. This
+project is a web-based application, which manages applying for various opportunities in investment
+tools. Customers have their own login and they can go and see the mutual funds maturity date and
+other information. There is also one promotional site which works with that and which tells user the
+current promotional offers they can avail. Users can search UTI agents in their area and can leave a
+message so that they can contact them back. This application also gives the full profile and past
+track of that policy and its profitability in percentage.
+
+Environment: VB6.0, ASP4.0, SQL Sever7.0
+     *      Analysis of Business requirements and making use cases
+     *      Coding for Report generation and HR module
+     *      Executed test cases using scripts along with manual testing
+     *      Interacted with development team & Client
+     *      White Box Testing, Reporting Bugs, Bug Fixing
+
+WANDER, Mumbai, India
+Programmer            June 1996-August 1997
+
+Project: Inventory Module of ERP Package
+
+This system monitors opening stock information, creating bill of material, production plan, placing
+of work order to vendor, raising requisition, dispatch of goods, production, goods receipt against
+work order, Generation of reports.
+
+Environment: VB6.0, SQL Sever7.0
+     *      Creation of tables and indexes to enhance RDBMS database
+     *      Coding of stored procedures, triggers and SQL queries
+     *      Executed test cases using scripts ,along with manual testing
+     *      Interacted with development team & Client
+     *      White Box testing, Reporting of Bugs and Bug fixing
+
+
+EDUCATION
+Bachelors Degree in Computer Science & Technology
+From: M.S. Ramaiah Institute of Technology, Bangalore, India
+
+Visa\Working Permit Status:      US Citizen
+
+References
+  Cesar Caldera      Royal Caribbean Cruise Lines, Miami, Florida
+  954-517-4020
+  Mathew Perkowski      Tracfone Wireless, Miami, Florida
+  954-715-6790
+  Aijaz Quadri      Tracfone Wireless, Miami, Florida
+  954-715-6650
+
+
+

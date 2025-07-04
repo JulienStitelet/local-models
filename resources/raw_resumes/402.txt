@@ -1,0 +1,134 @@
+
+MIKE SUMNER
+
+10206 Champions Circle
+231.668.1993
+Franklin, TN 37064
+mikesumner1969@gmail.com
+
+
+Information Technology Operations Manager
+
+17+ years experience in planning, developing and implementing state of
+the art IT solutions fulfilling the mission and goals of the organization
+while facilitating organizational growth. Fiscal responsibilities include
+short-term and long-term budget projections as well as adhering to
+changing budget constraints. Relational skills include consensus
+building, crisis management, problem-solving, personnel management and
+vendor negotiations.  Lead and participate in cross-functional project
+teams with diverse technical backgrounds.  Well rounded IT background
+including managing the following IT services: network services, service
+desk, systems engineering, systems operations, communication services,
+data storage systems and desktop services.
+
+   * Strategy & Planning - Designed and implemented short-term and
+     long-term IT goals as well as engineering and implementing the
+     infrastructure to meet and support those goals.  These goals and
+     solutions align with the organizations strategic mission.
+   * Innovation and Creativity - Championed segmented network management,
+     infrastructure standards implementation and student management
+     system installation.  Lead the organization into collaboration
+     application installation and efficiencies as well as IT governance
+     standard implementations.
+   * Risk Taking and Risk Management - Utilized project management
+     techniques that highlight risks to each project and adhered to risk
+     avoidance and business continuity planning techniques. Maintain IT
+     risk management, security awareness and disaster recovery skills
+     through attending numerous training sessions to keep skills
+     current.
+   * Results Orientation - Serve constituency with a customer oriented
+     service style.  Determine project and request goals, work to
+     meet/exceed those goals.
+   * Coaching and Mentoring - All team members performed at or above
+     expectation and raised the level of their performance through
+     communication and leading by example.
+
+Consistent success meeting all target goals and deadlines within or below
+budget.
+
+
+Professional Experience
+
+Deloitte & Touche LLP                         03/08 to Present
+ Operations Manager - Oversee and manage multiple infrastructure
+ platforms that include: BizTalk, WebLogic, JBoss, Terminal Services,
+ IIS, Citrix and SharePoint. Lead teams in the creation/adherence of a
+ Service Catalog according to ITIL v3 standards, Lead the creation of KPI
+ methodologies and KPI implementations across the enterprise, Maintain
+ enterprise intranet/extranet portal environment (40,000 users),
+ Participate in team managed upgrade of portal technologies, Utilize
+ automated monitoring for enterprise portal systems, Manage various
+ environments associated with ERP (SAP) connections for intranet portal,
+ Direct and mentor team members as well as associated personnel
+ management tasks, Oversee management of hundreds of applications and
+ application deployments to the portal(s) utilizing SDLC methods, Lead
+ and participate in multiple simultaneous projects and project
+ management, Coordinate with various departments and personnel to resolve
+ complex enterprise challenges, Create and adhere to SLA with associated
+ constituents, Maintain load balancing, DR, BCP and HA throughout the
+ environment, Utilize process improvement technologies and procedures to
+ increase environment efficiencies, Maintain up-to-date environment
+ documentation.
+
+
+Interlochen Center for the Arts                 06/02 to 02/08
+System Manager - Provide project management for IT Ops Team and various
+IT projects, Develop strategic long range planning for all facets of IT
+for the department and infrastructure, Assist in developing budget
+projections and reports, Assist in implementation of ITIL, Direct a team
+of IT professionals, Provide workstation support for 1000+ computers,
+server support for 32+ servers, network support for 45+ Cisco
+switches/routers.  Direct IT security team, develop/maintain IT security
+strategic planning. Administer various Microsoft Server OS installations
+(2000, 2003, SMS, SUS, Exchange, SharePoint 2003/2007, Microsoft AD
+Administration). Modify/maintain Cisco network equipment, Utilize various
+reporting tools for the domain/infrastructure, Standards development and
+maintenance, Image creation and maintenance using Symantec Ghost & Apple
+tools, Support Microsoft RMS system, Maintain current OS standards
+(Windows & Mac OS).  Coordinate with other team members for problem
+solving, Client/Server software maintenance for Macs and pcs, End-user
+relations & training, Asset Tracking responsibilities.
+
+PCS Consulting                         10/98 to 06/02
+IT Consultant - Provide IT management, system management, project
+management, system integration, network administration, network design,
+desktop troubleshooting, and software installation for various schools
+and manufacturing firms.  Submit budget proposals for cyclical asset
+replacement & department operation.  Install servers and workstations (MS
+2000 & XP).  Setup and install server-side and workstation databases and
+software. Design corporate websites, maintain fixed asset inventories,
+and troubleshoot Cisco router installations.  Work with various OS's &
+platforms (WIN 98, ME, NT, 2000, XP, MAC, AS400).  Use software
+applications (Symantec Ghost) for desktop software standardization.
+
+Hoosier Energy REC                        10/93 to 10/98
+Instrument Technician - Install, calibrate, maintain, troubleshoot, and
+repair various measurement devices.  The devices are electronic,
+pneumatic, hydraulic, or pressure in nature.  Perform preventative
+maintenance on various electronic devices.  Maintain and troubleshoot
+computers and network peripherals.  Participate in a team environment to
+problem solve and troubleshoot to resolution.
+
+
+Education
+Bachelors Degree - EET
+ITT Technical Institute
+Indianapolis, IN 46268
+
+
+Licenses/Memberships/Training
+
+      * Harvard Business School - Management training, Leadership
+        training
+      * ITIL V3 Certified - 10/09
+      * PMP training - 02/09
+      * CISSP training - Training Camp - 11/06
+      * IT Security Training  - SANS Security Essentials 401- 06/05, SANS
+      Audit 410 training - 09/07
+      * MCSE (Microsoft Certified Systems Engineer) NT track
+      * MCP (Microsoft Certified Professional), MCP + Internet
+      * Microsoft TechEd - 2005, 2007
+      * FCC GROL (Replaces first class FCC license)
+
+
+REFERENCES FURNISHED UPON REQUEST

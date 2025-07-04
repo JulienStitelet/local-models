@@ -1,0 +1,160 @@
+
+Nilesh Jadhav
+
+Washington D.C. Metro Area
+Software Developer at Freddie Mac
+
+
+Summary
+
+Experienced Software Engineer and technology enthusiast with a demonstrated history of working in
+the software industry. I like exploring new tools and technologies and incorporating them in solving
+the real world problems to help the end users of the application achieve an excellence in their
+domain.
+Graduated with Master of Science (MS) in Computer Science major from State University of New
+York at Binghamton in May 18.
+
+
+As a software developer I am enthusiastic to work with new tools and technology, elegant in code and
+design, minimal with resources and time, and always delighted to work in a pack!
+
+
+Worked with C, Java, Spring, Hibernate, JavaScript, jQuery, HTML, CSS, XML, Angular 2, ASP.NET,
+C#.NET, MS SQL Server, Android Development, RDBMS, MySQL, Oracle 9i/10g, Apache Solr,
+Apache Tomcat, Apache Lucene, Apache Hive, Apache Hadoop, Apache Mahout, Apache Hive,
+Google Analytics, Flurry Analytics, Countly Analutics, AWS S3, EC2, RDS, , GCP, Kubernetes,
+Docker containerization, Jenkins CI, Version One.
+
+
+3.5 years of work experience as a Software Engineer in Larsen and Toubro(L&T) Infotech. Received
+multiple awards and recognition during this tenure.
+
+
+Good understanding of Front end, Middle ware and Backed web Development,Web Services,Object
+Oriented Programming, Design Patterns, Agile Development and Quality Assurance.
+
+
+Fully aware of Development Life Cycle,from project initiation until design, implementation and testing.
+
+
+An optimistic, motivated, responsible and team player with good communication skills.
+
+
+Email : njadhav2020[at]gmail[dot]com
+
+
+Experience
+
+Software Developer at Cognizant
+August 2018 - Present      (7 months)
+
+
+
+
+  * Developed a project in Java, Spring boot and REST to implement retrofit functionality.
+  * Used SonarQube to monitor code quality and SonarLint eclipse plugin to detect and fix quality
+  issues during coding.
+  * Developed software application using Java, J2EE, Spring, Maven, XML, Javascript, Jenkins.
+  * Programmed unit test cases using Junit, Mockito and Power mockito.
+  * Following Scaled Agile Framework SAFe and agile methodologies to ensure quality deliverables
+  as per business requirements.
+  * Handling the project in all stages of SDLC such as requirement gathering, design, coding, testing
+  and deployment.
+  * Developed and maintained code bases using Git.
+
+Software Developer at Freddie Mac
+August 2018 - Present      (7 months)
+
+Research Intern at Department of Computer Science at Binghamton University
+June 2018 - August 2018       (3 months)
+
+ITS Consultant - PODS at Binghamton University
+February 2017 - May 2018       (1 year 4 months)
+  * Assisted university wide printing operations which prints approximately 13 million prints per
+    academic year.
+  * Assisted students in software/hardware related queries in printing operations.
+  * Performed Software as well as Hardware maintenance on the Xerox 46xx and 6600 model
+  * Trained/enabled new associates for the ITS Student Assistant role.
+
+Software Engineer at L&T Infotech
+February 2013 - June 2016       (3 years 5 months)
+  * Contributed to the web application development for the commercial insurance policy decisions
+  suite.
+  * The application quoted/issued 500 million policies per year to the end client, a top 10 fortune
+  company in the commercial insurance business.
+  * Programmed enhancements to the existing application.
+  * The application used for quoting, issuing and renewing the policies, and to perform various
+  transactions like change endorsements, void, cancellation etc.
+  * Solved production critical programming issues for the end client operations.
+  * Implemented search engine to search the policies and scheduled them in a bulk for common
+  transaction type processing.
+  * Made a detailed study and programmed a utility for importing the the Vehicle information from
+    flat files to Relational database to ensure the continuity and compatibility when the data migration
+    was done for all Auto insurance policies across the North American region.
+  * Successfully implemented automation for Schedule Mods screen to avail a single page solution
+
+
+
+
+   for editing countrywide Schedule mods.
+  * Designed and developed/programmed, debugged and unit tested solutions for the business
+  requirements.
+
+Project Engineer at e-Zest Solutions
+August 2012 - February 2013       (7 months)
+  * Contributed to the development of various short term projects for fortune 500 companies.
+  * Contributed to the projects as a part of Research and Development team, exploring various open
+    source platforms, tools and utilities to improve existing product/application efficiencies against
+  the
+    traditional processes/architectures.
+  * Successfully implemented Naive Bayes classifier algorithm for categorizing the legal case
+    judgement documents and used the same algorithm to search the new input against the relevant
+  cases in the categorized database.
+  * Implemented sentiment analysis engine on twitter data for the client portfolio user base to
+    derive the feedback and display it on a dashboard.
+
+
+Education
+Thomas J. Watson school of Engineering and Applied Science
+Master of Science (MS), Computer Science, 2016 - 2018
+Activities and Societies: Played a major role as a Student Assistant helping students in printing
+operations.
+University of Pune
+Bachelor of Engineering - BE, Computer Engineering, 2008 - 2012
+Activities and Societies: Co-ordination between the departments for Recruitment process, managed
+and organized various college/departmental events. Actively participated in study tours, college
+symposium and quiz programs.
+
+
+
+
+Nilesh Jadhav
+
+Washington D.C. Metro Area
+Software Developer at Freddie Mac
+
+
+
+
+1 person has recommended Nilesh
+
+  "Nilesh has worked with me for 3 plus years. He is technically very sound and is always keen
+  and observant to learn more and more. He has very good knowledge and his problem solving
+  skill is amazing. Best part of Nilesh is he is very responsible and process oriented. Also, he never
+  compromises on the standards while delivering. For me, working with Nilesh was a great and
+  enriching experience."
+
+  -Ninad Kulkarni, Business Consultant, L&T Infotech, worked with Nilesh at L&T Infotech
+
+
+
+Profile Notes and Activity (4)
+
+  8/28/2018-InMail sent by Bobby Hite ({1})
+
+  1/10/2019-InMail sent by Michael Saldi ({1})
+
+  2/5/2019-InMail sent by Dan Caton ({1})
+
+  2/7/2019-InMail sent by Michael Saldi ({1})
+

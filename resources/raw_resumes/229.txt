@@ -1,0 +1,222 @@
+
+                                                                                                       (+974) 70735139
+ AARZOO AMIR                                                                                (+92) (345) 5009834
+
+                                                                                                       syedaarzooamir@gmail.com
+                                                                                                       https://pk.linkedin.com/in/aarzoo-amir-7651aa56
+CISM, CEH (exp), ISO 27001:2013 LAC, ITIL Foundation Certified
+
+
+
+
+                                                                 PROFILE
+
+           A resourceful cyber security professional, with more than 09 years of experience in information and cyber security governance, risk and compliance. Well-versed in
+           information and cyber security governance domain (managed national level information and cyber security policy consultations, documentation, frameworks, strategy
+           designing, roadmaps, implementation plans, operating model, architecture designing, ISO 27001 information security management system certification cycle
+           implementation, maintenance and auditing, governance metrics and maturity model implementation). Successfully completed one international information security
+           governance project for a renowned middle east client (RTA, Dubai). Served Pakistan's leading Telecom Operators, Telecom Regulatory Authority and other
+           multinational companies.
+
+           Currently providing GRC consultancy services to a leading Oil and Gas Provider in the state of QATAR (including design, implementation, management and
+           compliance of FIFA Qatar Cybersecurity Framework, NIA, ISO 27001, including other international standards such as NIST, ISF and ISO compliant company
+           integrated management system). Keenly looking forward for a permanent role with top-notch companies in Qatar with a clear strategic vision for information and
+           cyber security.
+
+
+                                                  CORE COMPETENCES
+
+
+            *   International standards implementation and compliance including *    Pakistan national telecom sector cyber security management, readiness
+                ISMS 27001, 27005, Qatar Cyber Security Framework, NIA, NIST,        assessment, audits and reporting
+                ISF, integrated management system                               *    Pakistan national cyber security policy and regulations consultation
+
+            *   National Telecom SOC/CSIRT planning                             *    Entity level SOC/CSIRT operations management
+
+            *   ISMS External and Internal Audits                               *    Information and cybersecurity governance planning (strategy, operating model,
+                                                                                     architecture, roadmap, implementation plan)
+
+            *   Technical expertise and hands-on in Microsoft dynamics ERP      *    Technical documentation (Technical security proposals, bids, policies, procedures,
+                security implementation, GRC Archer solution, FireEye network        standards, national consultation responses, guidelines, contracts, minutes, reports,
+                security/malware protection, Kaspersky antivirus solution            management presentations etc.).
+                                                                                *    Top management reporting on security on the agenda
+
+
+
+
+                                                                                                                                           RESUME - AARZOO AMIR
+
+
+
+                                         ACADEMIC QUALIFICATION
+
+           RIPHAH INTERNATIONAL UNIVERSITY, ISLAMABAD, PAKISTAN
+           *   [Bachelor of Sciences (BS) Software Engineering (2011), GPA 3.74]
+
+
+                                     AWARDS AND ACHIEVEMENTS
+
+           RIPHAH INTERNATIONAL UNIVERSITY, ISLAMABAD, PAKISTAN
+           *   [Gold Medal, For Best Academic Record BS (SE), Session 2007-2011]
+
+
+             PROFESSIONAL CERTIFICATIONS AND TRAININGS
+
+           SECTOR REPRESENTATION IN INTERNATIONAL WORKSHOPS:
+
+           *  ARCC/HD Workshop on Regional Cybersecurity Dialogues and Information Sharing in The Middle East | January, 2022, Muscat, Oman
+
+           ACQUIRED CERTS:
+
+           *  Certified Information Security Manager (CISM) | ISACA, 2020
+           *  Certified Ethical Hacker v10 | EC Council, August 2018 - August 2021
+           *  ISMS Auditor Transition Course Certified ISO 27001:2005 to ISO 27001:2013 | IRCA, April 2015 - Present
+           *  ISMS 27001:2013 Awareness Training Course Certified | SGS, September 2014
+           *  ISMS 27001:2005 Lead Auditor Training Course Certified | IRCA, May 2013 - Present
+           *  ITIL Foundation Certified | BCS, August 2012 - Present
+
+           ACQUIRED TRAININGS:
+
+           *   Trained on Certified Ethical Hacking Course | Trillium Information Systems, July 2018
+           *   Trained on Enterprise Architectures | PRAGO, 2018, Trained on Nessus Vulnerability Assessment Tool | In-house Training, Telenor Pakistan, 2018
+           *   Trained on PCI-DSS | Risk Associates, 2017
+           *   Trained on FireEye Web Malware Protection System | Commtel, August 2016
+           *   Trained on MacAfee Nitro Security Information and Event Management Principal Training | Snskies, April 2016
+           *   Trained on Microsoft Dynamics AX 2012 R2 Application Security | In-house Training, Interactive Group, May 2014
+           *   Trained on CDCP & CDCS (Data Center) | In-house Training, Interactive Group, Jan 2014
+
+           PLANNED CERTS:
+           *   Certified Information Systems Auditor (CISA) | Planned for 2022-2023 | Self Learning- In-progress
+
+
+
+
+                                                               PROJECTS
+
+
+           GOVERNANCE, RISK AND COMPLIANCE REVAMP (QATAR FUEL, WOQOD) | JUNE 2022                    - PRESENT
+
+           Project Scope: QATAR FUEL (WOQOD)
+           Project Role: GRC Consultant
+           Project Activities and Milestones: WOQOD information security strategic planning, ISMS integrated management system maturity, and compliance assurance
+           with national and regulatory standards i.e. Qatar Cybersecurity Framework, NIA.
+
+           SECTOR SECURITY OPERATIONS CENTER ESTABLISHMENT (PAKISTAN TELECOMMUNICATION AUTHORITY) |MAR 2021 -JUNE 2022
+
+           Project Scope: National Telecom Sector Security Operations Center Establishment.
+           Project Role: Project Lead
+           Project Activities and Milestones: National Sector SOC concept development, International and Local stakeholders' consultation, proceedings, reporting and
+           documentation on the SOC development.
+
+           NATIONAL CYBER SECURITY/IT SECURITY LAWS, POLICIES, RULES (PAKISTAN TELECOMMUNICATION AUTHORITY) | MAR 2020                          - JUNE 2022
+
+           Project Scope: Regulatory Drafting and Framing According to PECA 2016 law.
+           Project Role: Stakeholder Consultation Process Reporting
+           Project Activities and Milestones: Consultation written responses to International and Local stakeholders, Proceedings and reporting on National Cyber Policy
+           2021, National CERT Rules 2021, Personal Data Protection Bill 2020_21, National Cloud First Policy 2021, Citizens Protection against Online Harm Rules 2020-21.
+
+           DEFENDABLE SECURITY ARCHITECTURE (TELENOR PAKISTAN) | JAN 2018                - MAR 2018, JUN 2019    - NOV 2019
+
+           Project Scope: Defendable Transformed Infrastructure of Pakistan
+           Project Role: Documentation Management, Auditing, Reporting
+           Project Activities and Milestones: Telenor Pakistan transformed infrastructure readiness assessment & reporting including HLD assessment, Configuration
+           assessment, vulnerability assessment and IT governance assessment. Handled Transformed IT infrastructure project documentation including network, Enterprise
+           Systems AD and Exchange and critical applications documentation under the supervision of Group body.
+
+           CYBER SECURITY OPERATIONS CENTER (PTCL ETISALAT PAKISTAN) | MAR 2016                - DEC 2017
+
+           Project Scope: PTCL SOC and CSIRT Processes Development
+           Project Role: Manager Cyber Security Operations
+           Project Activities and Milestones: Development of PTCL cyber security operations center and computer security incident response processes, Handling of web
+           malware and advanced persistent cyber threats operations, IPS and vulnerability assessment operations and providing cyber security advisory services.
+
+           GRC SOLUTION (ROADS AND TRANSPORT AUTHORITY, GOVERNMENT OF DUBAI) | JULY 2015                    - AUG 2015
+
+           Scope: RSA Archer GRC Solution
+           Project Role: GRC Consultant Project Activities and Milestones: Consultant for RTA on RSA Archer software design and implementation, solution testing, and project coordination.
+
+
+
+
+           ERP ROLE BASED SECURITY IMPLEMENTATION (INTERACTIVE GROUP) | JUNE 2014                 - JUNE 2015
+           Project Scope: Microsoft Dynamics AX 2012 ERP Role Based Security implementation
+           Project Role: ERP Ambassador, Security Administrator
+           Project Activities and Milestones: Implemented role-based security in Microsoft Dynamics AX 2012 among all offices.
+
+           INFORMATION SECURITY MANAGEMENT SYSTEM 27001:2013 (INTERACTIVE GROUP) | SEP 2014                     - Nov 2014
+
+           Project Scope: Information Security Management System 27001:2013
+           Project Role: ISO 27001:2013 Lead Auditor
+           Project Activities and Milestones: Up-graded and Certified Interactive Group from old ISO 27001:2005 to new ISO 27001:2013 ISMS standard.
+
+
+                                                  WORK EXPERIENCE                                                 EXPERIENCE: >9 YEARS
+
+
+           PERMANENT EMPLOYMENT
+
+           JUNE 2022  - PRESENT|INFORMATION SECURITY CONSULTANT, HIT SECURITY | (CONSULTANT FOR QATAR FUEL (WOQOD)) | (Experience: > 1 month.)
+
+           *   Performing Woqod enterprise gap analysis for Qatar cyber security framework and ISO 27001 compliance.
+           *   Performing GRC strategic revamp and ISMS program maturity implementation.
+           *   Involved in IT control assurance, information security risk management, compliance and assurance program.
+
+           NOVEMBER 2019    - JUNE 2022 |ASSISTANT DIRECTOR CYBER SECURITY, PTA TELECOM REGULATOR | (Experience: 2.5 year approx.)
+
+           *   Conducting Pakistan Telecom Industry Cyber Security Regulatory compliance audits, cyber security surveys and reporting based on ITU cyber security practices.
+           *   Conducting Pakistan Telecom Industry Cyber Security Assessment and reporting including all Telco Operators, ISPs, and National Telecom Operators.
+           *   Involvement in National Telecom Cyber Security regulation, frameworks and SoPs preparation.
+           *   Involvement in National Consultation Process on Draft Data Protection Legislation, Citizen Protection Rules ,2020 (PECA), National Cyber Security Policy,
+               National CERT Rules, National Cloud Policy, National Telecom Policy, Critical Telecom Data and Infrastructure Security Regulations.
+           *   Conducting in depth research on Dark Web, Data Protection and Social Media regulations, preparing national level security measures and draft strategies.
+
+           NOVEMBER 2019    - JUNE 2022 |ASSISTANT DIRECTOR CYBER SECURITY, PTA TELECOM REGULATOR | (Experience: 2.5 year approx.)
+
+           *   Conducting Pakistan Telecom Industry Cyber Security Regulatory compliance audits, cyber security surveys and reporting based on ITU cyber security practices.
+           *   Conducting Pakistan Telecom Industry Cyber Security Assessment and reporting including all Telco Operators, ISPs, and National Telecom Operators.
+           *   Involvement in National Telecom Cyber Security regulation, frameworks and SoPs preparation.
+           *   Involvement in National Consultation Process on Draft Data Protection Legislation, Citizen Protection Rules ,2020 (PECA), National Cyber Security Policy,
+               National CERT Rules, National Cloud Policy, National Telecom Policy, Critical Telecom Data and Infrastructure Security Regulations.
+           *   Conducting in depth research on Dark Web, Data Protection and Social Media regulations, preparing national level security measures and draft strategies.
+
+           NOVEMBER 2017    - NOVEMBER 2019 | INFORMATION SECURITY SPECIALIST, TELENOR PAKISTAN | (Experience: 2 years.)
+
+           *   Drafted information security strategy for Governance and SOC functions.
+           *   Drafted Information Security Incident Management, Secure SDLC Process, OLAs, quarterly dashboards and annual dashboards for Telenor Pakistan and Group.
+
+
+
+
+           *   Worked on ISF international best practice standard implementation and maturity assessment.
+           *   Conducted Data Center Green field security audit, and critical applications access reviews.
+           *   Successfully delivered transformed infrastructure project assessment and reporting.
+           *   Successfully completed 70% of transformed IT infrastructure documentation with Telenor Group.
+
+           FEBRUARY 2017    - DECEMBER 2017 | MANAGER CYBER SECURITY OPERATIONS | PTCL, MARCH 2016               - FEBRUARY 2017 | (RE PTCL) | COMMTEL |
+           (Experience: 1.8 years.)
+
+           *   Managed FireEye Web Malware Protection Operations of PTCL.
+           *   Managed Kaspersky Antivirus Endpoint Security Operations of PTCL.
+           *   Drafted policies, standard operating procedures, processes and CSIRT reports for PTCL Cyber Security Operation Center.
+           *   Provided monthly cyber security and threat intelligence dashboard/reports to PTCL Top Management.
+           *   Worked as Cyber Security Advisory for PTCL advanced cyber threat intelligence and incident remediation.
+           *   Drafted policies, standard operating procedures, and processes for PTCL Cyber Security Operations Center.
+           *   Designed computer security incident response processes and procedures for PTCL CSIRT.
+           *   Designed cyber security and threat intelligence dashboards for PTCL Top Management.
+
+           JUL 2014 - MAR 2016 | SR. INFORMATION SECURITY (IS) ANALYST, SEPT 2012     - JUN 2014 | IS ANALYST, INTERACTIVE GROUP | (Experience: 3.5 years)
+
+           *   Worked directly with executive management to document the information security policies, procedures, standards, guidelines and best practices.
+           *   Prepared Information Security Proposals for Dubai Government entities, National Defense and Intelligence companies.
+           *   Managed complete ISMS documentation of the organization. Coordinated with internal audit and third-party teams in conducting ISO 27001 audits.
+           *   Prepared audits reports, management review reports, corrective actions, information security agreements (OLAs), security products, processes and services
+               presentations, developed and delivered information security awareness trainings throughout the organization.
+           *   Conducted monthly management review meetings, prepared meeting minutes and presentations.
+           *   Worked collaboratively with Finance, Procurement, HR, IT and Internal Audit departments to implement companywide ERP role-based security. Provided Level
+               1 and Level 2 support for ERP application security.
+
+
+
+
+                                                                                                                                                     Page 5 of 5
+

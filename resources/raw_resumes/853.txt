@@ -1,0 +1,308 @@
+
+Siddharth Aerva
+469-310-3476
+akshitek-siddharth@yahoo.com
+
+SUMMARY
+    *      71/2 years of professional experience in design, development and implementations of robust
+     technology systems, with specialized expertise in Hadoop Administration, Big Data and Linux
+     Administration.
+    *      Experience in using various Hadoop infrastructures such as Map Reduce, Pig, Hive, Zookeeper,
+     HBase, Sqoop, YARN, Spark, Kafka, Oozie, and Flume for data storage and analysis.
+    *      Experience in deploying and managing the Hadoop cluster using Cloudera Manager and Apache
+     Ambari.
+    *      Installed and configured various Hadoop distributions like CDH and HDP.
+    *      Involved in Hadoop Cluster environment administration that includes adding and removing
+     cluster nodes, cluster capacity planning, performance tuning, cluster monitoring,
+     Troubleshooting.
+    *      Supporting Hadoop developers and assisting in optimization of map reduce jobs, Hive Scripts
+     and HBase ingest required.
+    *      Collected logs of data from various sources and integrated into HDFS Using Flume and Sqoop.
+    *      Experienced in running MapReduce and Spark jobs over YARN.
+    *      Excellent understanding of Hadoop Cluster security and implemented secure Hadoop cluster using
+     Kerberos.
+    *      Setting up automated 24x7 monitoring and escalation infrastructure for Hadoop cluster using
+     Nagios.
+    *      Experience in using NOSQL databases like HBase and Cassandra.
+    *      Experience in Sentry, Ranger, Knox configuration to provide the security for Hadoop components
+     depending on distribution tool.
+    *      Good experience on Design, configure and manage the backup and disaster recovery for Hadoop
+     data.
+    *      Hands on experience in analyzing Log files for Hadoop and eco system services and finding root
+     cause.
+    *      Experience in understanding the security requirements for Hadoop and integrating with Kerberos
+     authentication infrastructure- KDC server setup, creating realm /domain, managing principals.
+    *      Experience in using automation tools like puppet and chef.
+    *      Experience in setting up of Hadoop cluster in cloud services like AWS and GCP.
+    *      Knowledge on AWS services such as EC2, S3, Glaciers, IAM, EBS, SNS, SQS, RDS, VPC, Load
+     Balancers, Auto scaling, Cloud Formation, Cloud Front and Cloud Watch.
+    *      Experience in Linux System Administration, Linux System Security, Project Management and Risk
+     Management in Information Systems.
+    *      Involved in the functional usage and deployment of applications to Oracle WebLogic, JBOSS,
+     Apache Tomcat, Nginx and WebSphere servers.
+    *      Worked on Monitoring Tool Nagios for Resource Monitoring/Network Monitoring/Log Trace
+     Monitoring.
+    *      Experience on working with VMware Workstation and Virtual Box.
+    *      Capable of managing multiple projects simultaneously, comfortable troubleshooting and
+     debugging and able to work under pressure.
+    *      Excellent communicative, interpersonal, intuitive, analysis and leadership skills with ability
+     to work efficiently in both independent and team work environments.
+    *      Experience in requirements gathering, analysis, solution design, development, implementation,
+     setup, testing, customization, maintenance, and support and data migration.
+
+TECHNICAL SKILLS
+Hadoop/ Big Data    HDFS, MapReduce, Yarn, Pig, Hive, Sqoop, Flume, Kafka, Spark, Solr, Oozie, Zookeeper, CDH, HDP,
+Ambari, Cloudera Manager, Kerberos
+Languages    C, C++, Java, HTML, JavaScript
+Scripting    Shell Script, Powershell, Python
+Operating System    Linux/Unix (Redhat (6,7), Ubuntu (12.04,14.04), OEL (6,7), Centos), Windows XP, Windows 8.1, 10
+Virtualization    VMware, Virtual Box, Vagrant
+Databases    Oracle 10g, PL/SQL, MySql, PostgreSQL, HBase, Cassandra
+Devops/Cloud Tools    AWS, Azure, Chef, Puppet
+Monitoring Tools    Nagios, Splunk
+Others    Apache Tomcat, Weblogic, WebSphere, Tableau
+
+
+EDUCATION
+    *      Bachelor of Technology in Computer Science.
+
+PROFESSIONAL EXPERIENCE
+
+Hadoop Administrator
+84.51, Cincinnati, OH      Feb 2019 - Present
+84.51 is a consumer insights subsidiary to Kroger. It is majorly a data science analytics company
+whose applications help in building strong relationship between people and brands.
+Responsibilities:
+    *      Administering and managing large-scale Hadoop clusters (6 Pb Storage) and also part of
+     capacity planning team for optimizing/scaling the clusters for future needs.
+    *      Worked on different Hadoop clusters running on Cloudera and Hortonworks distributions.
+    *      Responsible for day-to-day activities which include Hadoop support, Cluster maintenance,
+     handling nodes, and Monitoring/ Troubleshooting clusters.
+    *      Supported and configured Pyspark jobs through Jupyter sessions and R scripts through RStudio.
+    *      Installed various python and R packages.
+    *      Implemented high availability, DR strategies, load balancers for all the Hadoop services along
+     with Cloudera manager to overcome single point of failure.
+    *      Worked with fellow developers in compressing the data, modifying Spark application code with
+     repartition, coalesce methods in order to reduce the small files and storage on cluster side.
+    *      Installed and configured Unravel (Application Performance Management tool) to optimize the
+     resources and run the applications effectively.
+    *      Used/Configured Nifi Flows on Hortonworks platform for data ingestion purposes and also to
+     export data from hdfs to Exadata.
+    *      Worked on setting up Kafka to integrate with Nifi to ingest the live streaming data.
+    *      Worked with Cloud Team (GCP and later Azure) to migrate hdfs data into cloud.
+    *      Automated various Day to Day works using shell and python scripts.
+    *      Oozie workflows, Airflow jobs, shell/python scripts were setup for effective Cluster
+     Monitoring and to run applications.
+    *      Integrated both Hadoop clusters and Cloud Infrastructure with Grafana and Dynatrace for
+     performance monitoring.
+    *      Secured the data/user access with ACL's, Kerberos, Sentry and Encryption Zones.
+Environment: Hadoop, Hdfs, Spark, MapReduce, Yarn, Hive, Sqoop, Oozie, Airflow, Nifi, Kafka,
+Kerberos, Shell Scripting, Unravel.
+
+Hadoop Administrator
+MasterCard, O'Fallon, MO      Oct 2017 - Jan 2019
+Mastercard is the leading global payments & technology company connecting businesses, consumers,
+merchants, issuers & governments around the world. Its global operations headquarters is located in
+O'fallon, Missouri.
+Responsibilities:
+    *      Installing and Configuring Hadoop ecosystem (HDFS/Spark/Hive/Yarn/Kafka) using Cloudera
+     manager and securing the cluster with Kerberos and encryption servers (KTS &KMS)
+    *      Worked on administration and management of large-scale Hadoop clusters (300 nodes) and was
+     part of capacity planning team in scaling these clusters for future needs.
+    *      Responsible for day-to-day activities which include Hadoop support, Cluster maintenance,
+     creation/removal of nodes, Cluster Monitoring/ Troubleshooting, Manage and review Hadoop log
+     files, Backup restoring and capacity planning.
+    *      Worked with the vendor Infoworks for Data migration between 2 large-scale hadoop clusters.
+    *      Created DR for both production clusters and scheduled replication jobs to copy data between
+     the clusters.
+    *      Made backups and Recovered data using HDFS snapshots.
+    *      Configured the HUE and CM SSL on the cluster using certificates.
+    *      Involved in setting up the KAFKA MirrorMaker on the production clusters to make sure the same
+     set of streaming data reaching production cluster is replicated to DR cluster.
+    *      Configured Kafka Brokers to receive all the streaming data and then connected it to Flume to
+     send data to Hbase and Hdfs.
+    *      Worked with Informatica team in connecting Informatica Stand Alone Servers with the cluster
+     metadata for visualizing the data and generate reports.
+    *      Created an exclusive hadoop cluster for Informatica and also made sure GDPR norms being
+     followed.
+    *      Various Spark jobs were run to refine the streaming data and store only the refined data in
+     hdfs.
+    *      Enabled security to the cluster using Kerberos and integrated clusters with LDAP/AD at
+     Enterprise level.
+    *      Secured the directories with ACL's and Encryption Zones.
+    *      Restricted the User Access on the data using Sentry by providing adequate read/write
+     permissions.
+    *      Extensively worked on different versions of Oracle Enterprise Linux (OEL).
+    *      Handled the OS upgrade project from OEL 6 to 7 on all hadoop nodes with minor cluster
+     downtimes.
+    *      Configured the cluster to use PostgreSQL database for storage.
+    *      Created and maintained various Shell scripts for automating various processes.
+    *      Installed and configured Flume, Hive, Hbase, Sqoop, Impala and Oozie on the hadoop cluster.
+    *      Worked with developers and data analysts in running hive and Impala queries and even
+     configured the resources needed for those jobs.
+    *      Configured various service resource parameters in the cluster to make sure jobs run quicker
+     and doesn't fail in the cluster.
+    *      Worked on POC to automate the configuration/building of hadoop cluster using Chef and also
+     running hadoop jobs using Docker.
+    *      Set up the Hadoop cluster on Google Cloud Platform (GCP) using cloudera director.
+    *      Experience with Splunk Administration, ran splunk queries to gather all the hadoop/server data
+Environment: Hadoop, Hdfs, Spark, MapReduce, Yarn, Hive, Sqoop, Oozie, Kafka, Solr, OEL, PostgreSQL,
+HBase, Kerberos, Shell Scripting, Chef, Docker.
+
+Hadoop/Cloud Administrator
+Bank of The West, San Francisco, CA      Jan 2016 - Sep 2017
+Bank of the West is a diversified financial service holding company, headquartered in San Francisco,
+California. This bank has more than 700 banking centers in the Midwest and Western United States.
+Responsibilities:
+    *      Installing and Configuring Hadoop ecosystem (HDFS/Spark/Hive/Oozie/Yarn) using Cloudera
+     manager and CDH.
+    *      Monitored job performances, file system/disk-space management, cluster & database
+     connectivity, log files, management of backup/security and troubleshooting various user issues.
+    *      Imported and Exported the analyzed data to the relational databases using Sqoop for
+     visualization and to generate reports for the BI team.
+    *      Experience in setting up Dynamic Resource pools for distributing resources between pools.
+    *      Implemented the workflows using Apache Oozie framework to automate tasks and Developed Job
+     Processing scripts using Oozie Workflow.
+    *      Used Spark streaming to receive real time data from the Kafka and store the stream data to
+     HDFS using Scala and NoSql databases such as HBase and Cassandra.
+    *      Responsible for Performance Tuning of Spark Applications for setting right Batch Interval
+     time, correct level of Parallelism and Memory tuning.
+    *      Installed and Configured Hive and Pig. Worked with developers to develop various Hive and
+     PigLatin scripts.
+    *      Involved in implementing High Availability and automatic failover infrastructure to overcome
+     single point of failure for Name node utilizing zookeeper services.
+    *      Experience in setting up Hadoop clusters on cloud platforms like AWS.
+    *      Worked with teams in setting up AWS EC2 instances by using different AWS services like S3,
+     EBS, Elastic Load Balancer, and Auto scaling groups, IAM roles, VPC subnets and CloudWatch.
+    *      Used Nagios to monitor the cluster to receive alerts around the clock.
+    *      Experience with Splunk Administration, Add-On's, Dashboards, Clustering and Forwarder
+     Management.
+    *      Enabled security to the cluster using Kerberos and integrated clusters with LDAP/AD at
+     Enterprise level.
+    *      Extensively worked on Linux systems (RHEL/CentOS).
+    *      Worked with different file formats such as Text, Sequence files, Avro, ORC and Parquet.
+Environment: Hadoop, Hdfs, Spark, MapReduce, Yarn, Pig, Hive, Sqoop, Oozie, Kafka, Linux, AWS,
+HBase, Cassandra, Kerberos, Scala, Shell Scripting.
+
+
+Big Data Engineer
+TMobile, Bellevue, WA                                                         Sep 2014 - Dec 2015
+As America's Un-carrier, T-Mobile US, Inc. (NASDAQ: TMUS) is redefining the way consumers and
+businesses buy wireless services through leading product and service innovation.
+Responsibilities:
+    *      Installed and Configured Hortonworks Data Platform (HDP) and Apache Ambari.
+    *      Installed and Configured Hadoop Ecosystem (MapReduce, Pig, Sqoop. Hive, Kafka) both manually
+     and using Ambari Server.
+    *      Supported in setting up QA environment and updating configurations for implementing scripts
+     with Pig and Sqoop. Worked on tuning the performance Pig queries.
+    *      Converted ETL operations to Hadoop system using Pig Latin Operations, transformations and
+     functions.
+    *      Capturing data from existing databases that provide SQL interfaces using Sqoop.
+    *      Worked on YARN capacity scheduler by creating queues to allocate resource guarantee to
+     specific groups.
+    *      Responsible for adding new eco system components, like spark, flume, Knox with required custom
+     configurations based on the requirements.
+    *      Installed and configured Kafka Cluster with additional zookeeper service.
+    *      Helped the team to increase cluster size. The configuration for additional data nodes was
+     managed using Puppet manifests.
+    *      knowledge of open source system monitoring and event handling tools like Nagios.
+    *      Integrated BI and Analytical tools like Tableau, Business Objects, and SAS with Hadoop
+     Cluster.
+    *      Worked with Ranger, Knox configuration to provide centralized security to Hadoop services.
+    *      Expertise with NoSQL databases like Hbase and Cassandra.
+    *      Planning and implementation of data migration from existing staging to production cluster.
+     Even migrated data from existing databases to cloud (S3 and AWS RDS).
+    *      Analyze escalated incidences within the Azure SQL database. Implemented test scripts to
+     support test driven development and continuous integration.
+    *      Developed Python and Shell/Perl Scripts for automation purpose.
+    *      Troubleshooting experience in debugging and fixed the wrong data or data missing problem for
+     Oracle Database.
+Environment: Hadoop, Hdfs, Spark, MapReduce, Yarn, Pig, Hive, Sqoop, Kafka, Linux, Azure, HBase,
+Cassandra, MySQL, Kerberos, Python, Shell Scripting, Tableau, SAS.
+
+Hadoop Engineer
+Reply Inc., Chicago, IL                                          Jun 2013 - Aug 2014
+Reply is a company that specializes in consulting, system integration & digital services, with a
+focus on the design and implementation of solutions based on the web and social networks. It
+utilizes a network model consisting of companies operating in different sectors, including big data,
+cloud computing, digital media and the internet of things.
+Responsibilities:
+    *      Installed/Configured Hadoop Map Reduce, HDFS and developed Map Reduce jobs in Java for data
+     cleaning and processing.
+    *      Responsible for troubleshooting issues in the execution of Map Reduce jobs by inspecting and
+     reviewing log files.
+    *      Implemented and Configured High Availability Hadoop Cluster (Quorum Based).
+    *      Worked on Ingesting data into HDFS using Sqoop and Flume.
+    *      Loaded/ Transformed large sets of structured, semi structured and unstructured data.
+    *      Worked on different databases such as Oracle and MySql.
+    *      Developed Oozie Workflows for daily incremental loads, which gets data from Teradata and then
+     imported into hive tables.
+    *      Used Cloudera manager to pull metrics on various cluster features like JVM, Running Map and
+     reduce tasks.
+    *      Developed PIG Latin scripts to extract the data from the web server output files to load into
+     HDFS
+    *      Performed upgrades and configuration changes, Commissioned/decommission nodes as needed to
+     maintain load balancing and latency on the servers.
+    *      Maintained DNS, NFS, and DHCP, printing, mail, web, and FTP services for the enterprise.
+    *      Administered VMware and Virtual Box environment, evaluated and implemented new hardware and
+     software.
+    *      Worked on NGINX for proxy and reverse proxy rewrite rules.
+    *      Worked on the Oracle databases in the backend to execute the DMLs and DDLs.
+Environment: Hadoop, HDFS, MapReduce, Sqoop, Hive, Flume, MySQL, MR, HBase, PIG Latin, Sqoop, Chef,
+Oracle db,
+
+Big Data Analyst
+Applied Materials, Austin, TX                                                Dec 2012 - May 2013
+Applied Materials, Inc. is an American corporation that supplies equipment, services and software to
+enable the manufacture of semiconductor (integrated circuit) chips for electronics, flat panel
+displays for computers, smart phones and televisions, and solar products. In order to process their
+huge data, they started using Hadoop.
+Responsibilities:
+    *      Participated in the review of functional and non-functional requirements.
+    *      Designed and implemented Map Reduce jobs to analyze the data collected by the Flume server.
+    *      Worked with Hadoop Administration team to debug various slow running MR jobs and perform the
+     necessary optimizations.
+    *      Monitored cluster health status on daily basis, tuning system performance related
+     configuration parameters, backing up configuration XML files.
+    *      Worked with network and Linux system engineers/admin to define optimum network configurations,
+     server hardware and operating system.
+    *      Developed and implemented APIs to retrieve the data from Hadoop Platform to Web Application.
+    *      Created Hive tables and worked on them using Hive QL.
+    *      Performed Bug fixing of various modules that were raised by the Testing teams in the
+     application during the Integration testing phase.
+    *      Facilitated knowledge transfer sessions.
+Environment: Hadoop, Cloudera CDH, Java, Eclipse, Pig, Hive, Ubuntu, Shell Scripting.
+
+System Analyst/Admin
+Dwaith Infotech, India       Dec 2011 - Nov 2012
+Dwaith Infotech, a leading IT Outsourcing, IT Consulting firm offering managed IT services,
+Enterprise Business Solutions and Collaborative client partnerships through its flexible Global
+Delivery model. Dwaith focus on select industries and service lines, enabling us to deliver the best
+possible solutions to meet our clients' needs.
+Responsibilities:
+    *      Have been responsible for administering large, multi-site UNIX/LINUX server environments and
+     operating systems, software installation, upgrades, system integrity, security, disaster
+     recovery and performance.
+    *      Implemented Cloudera Hadoop clusters for three different environments on HPE ProLiant servers.
+    *      Configured/Managed Cisco and Brocade Fabric environment for soft/hard Zoning.
+    *      Worked on MySQL and successfully launched queries to provide required data to the department.
+    *      Created users, manage user permissions, maintain User & File System quota on Redhat Linux.
+    *      Installation & Configuration of Logical Volume Manager - LVM and RAID.
+    *      Automated administration tasks through use of scripting and Job Scheduling using CRON.
+    *      Wrote shell scripts for taking data backups, cleaning junk content and updating software
+     regularly.
+    *      Experience in using protocols/services like Http, Https, TLI/SSL, DHCP, DNS, SSH, SFTP,
+     TCP/IP, FTP/SFTP, SMTP
+    *      Provided Linux System Administration, Linux System Security, Project Management and Risk
+     Management in Information Systems.
+    *      Day to day provisioning of storage including (Storage device/LUN/Volume selection & creation,
+     Fabric Zoning, LUN Masking & Mapping).
+    *      Administration of environment running VMware ESXi Hosts and Virtual Machines.
+    *      Worked successfully towards improving and maintaining the Backup Success rate to > 98%.
+    *      Worked with server teams to insure the configuration and installation of the proper drivers,
+     firmware, and multipath drivers to support the SAN environment.
+    *      Provide performance tuning and regular maintenance in order to minimize downtime and maximize
+     performance.
+    *      Take care about Data Center (DC) by ordering and upgrading necessary hardware, supporting
+     RAIDs, maintaining servers and installing new ones.
+Environment: Linux, VMware, Storage

@@ -1,0 +1,103 @@
+
+Data Analyst
+
+           Faysal
+     NAIT MERZEG
+      24 years oldUniversité
+
+        +33 6 24 21 76 26
+
+      faysal-naitmerzeg@outlook.fr
+
+
+
+
+  *   Advanced Microsoft
+      Excel
+
+  *   Python
+
+  *   SAS
+
+  *   SQL
+
+  *   Surveys programming
+
+  *   Strong analysis and
+      presentation skills
+
+  *   Adaptability
+
+  *   Proactive
+
+
+
+
+  *  French   - Native
+  *  English  - Bilingual
+     TOEIC (945/990)
+
+  *
+
+
+
+Football
+9 years
+
+Travelling
+Ireland, Spain, Turkey, Morocco,
+Algeria, Portugal
+
+          Experience
+
+    Reserving Analyst     - Fixed-term Contract, 1 year
+    Credit Agricole Creditor Insurance, Dublin
+*   Developed SAS codes to automate technical reserves calculation
+*   Worked closely with Data Management Team to build up knowledge
+    of the internal systems and data architecture
+*   Participated in the updating of reserving policies and measure of
+    their impact using Python
+*   Provided hands-on inspection of data in source systems to
+    troubleshoot issues that arise
+*   Conducted experience surveys on mortality, morbidity, lapse etc.
+*   Prepared technical notes of findings for presentation to relevant
+    stakeholders and internal management
+*   Calculated reserves in a timely and accurate manner
+
+   Marketing Analyst     - Work Training Program,  2 years
+   Carmila, Paris
+*   Data Analytics : updated a statistical model, use of advanced
+    Microsoft Excel to set up reports, analyzed and interpreted data to
+    draw conclusions for commercial and marketing strategies
+*   Developed regular reports on turnover, footfall and digital
+    marketing data, used data visualization tools to present results
+*   Mystery shopping and satisfaction tracker: continuous data analysis
+    to monitor KPI such as customer satisfaction and NPS
+*   Carried out ad hoc studies to analyze consumer behavior and market
+    trends
+*   Programmed customer surveys, analyzed and presented data to key
+    stakeholders and conclusions to improve customer knowledge
+
+   Econometric thesis    - Data Project, 4 months
+   Paris Descartes University
+*  Analyzed a multiple regression model from a database
+*  Processed database variables on Rstudio
+*  Time series analysis and application of econometric tests
+*  Correction of the heteroscedasticity and interpretation of the
+   variables significance
+
+
+            Education
+       MASTER'S DEGREE, DIGITAL MARKETING & DATA ANALYTICS                  -
+       EMLV PARIS
+       Predictive Analytics, Data Visualization, Web analytics, SEO...
+       2019-2021
+
+       BACHELOR'S     DEGREE, ECONOMY        - PARIS DESCARTES
+       Econometrics, Public Economy, Political Economy...
+       2018-2019
+       2-YEARS-DEGREE, SALES TECHNIQUES            - PARIS DESCARTES
+       Marketing, Communications, Computer Science, Accounting...
+       2016-2018
+
+

@@ -1,0 +1,185 @@
+
+Stuart Quincy
+
+Java/J2EE Developer
+stuartquincy@outlook.com
+ 6100 Monterey Hwy, San Jose, CA
+
+Professional Summary:
+
+ * Around 9+ years of experience in all the phases of software application involving Analysis,
+ Design, Development, Testing, Implementation and Distributed n-tier applications using Java and
+ J2EE Technologies in different domains.
+ * Expertise in development of Java/J2EE Applications using Java, Core Java, Servlets, JDBC, JSP,
+ XML, JNDI, JMS and EJB.
+ * Strong working knowledge in Design, Development and implementation of several J2EE frameworks
+ like Struts MVC, Spring IoC, Spring MVC, React.js, Spring Web Flow, Spring JDBC and Hibernate
+ Frameworks.
+ * Expertise in client-side validations using HTML, DHTML, CSS, Java Script, JSP, J Query, Angular
+ JS, Node.js, and JSTL.
+ * Good knowledge on Software Development Life Cycle (SDLC) process that includes translation of
+ requirements into functional and technical specifications, Designing, Developing, Testing
+ Implementation & Post Production support using development methodologies like Waterfall and
+ Agile.
+ * Strong background and has very good knowledge of project design using CASE tools like Rational
+ Rose and has good proficiency in designing the projects using ER diagrams.
+ * Good understanding in designing Front End using HTML5, CSS3, Bootstrap, Angular JS, Node Js,
+ JavaScript, AJAX, JSP, JSTL, j Query.
+ * Expertise in using IDEs like, Spring Tool Suite, WSAD, RAD, and Eclipse, used Configuration
+ Management tools like GIT and SVN.
+ * Expertise in modeling applications using UML with the help of Rational Rose.
+ * Experience in working with different software methodologies like waterfall and agile
+ methodologies.
+ * Integration experience with Legacy Applications using JMS, JCA, etc.
+ * Experience in developing single page applications using Angular JS and Bootstrap.
+ * Experience working with JavaScript frameworks Angular JS MVC.
+ * Experience in using Oracle ADF (Application Development Framework)
+ * Have Strong experience in using Web Services Technologies like SOAP, REST, JAX-WS and WSDL.
+ * Experience in developing both SOAP and REST based web services using Spring and CXF
+ * Building test cases using J Unit.
+ * Good exposure on database queries, stored procedures, triggers and cursors.
+ * Good exposure on various internal Service/Incident management tools.
+ * Quick learner and adoptable to new design patterns/frameworks for fast and quality development.
+ * Good experience with deployment and release of the application with ANT and Maven build tools,
+ * Excellent communication skills, have clear understanding of business procedures and ability to
+ work as an individual and also as a part of a team.
+ * A resourceful team player with good Interpersonal, effective problem solving and decision
+ making skills, looking ahead for great career in a fair working environment with opportunities
+ to grow.
+
+Education:
+Bachelors in Computer Science from San Jose state University - San Jose, CA
+
+Technical Skills:
+
+Programming Languages C, C++, Core Java, JSP, SQL, PL/SQL, Java Script
+Java Technology J2EE, EJB 2.1/EJB 3, JNDI, Java Bean, JDBC.
+Web UI Technology Java Script, Ajax, HTML4/5, DHTML, J Query, CSS2/3, Smart GWT
+Databases Oracle 10g/11g, MySQL 4.x, DB2, SQL Server 2005
+Application Server Apache Kaylin, Web Sphere Server, JBOSS, Apache Tomcat
+Application Frameworks Struts, Spring, Hibernate, Angular Js, React Js, Bootstrap
+Code Maintenance Tools SVN, Git
+QA Tools Junit, Find bug
+Virtualization Software VMware Player
+IDE RAD, Net Beans, Eclipse
+Design Tool Adobe Dreamweaver
+
+
+Professional Experience:
+
+
+Cisco Systems - San Jose, CA Dec 14 - Till Date
+Role: Java/ J2EE Developer
+
+Responsibilities:
+ * Worked in AGILE development environment while supporting requirements changes and
+ clarifications.
+ * Understand business requirements, translate them into design and implementation approaches, and
+ rapidly drive convergence towards the best solution.
+ * Develop prototypes and proofs of concept for proposed solutions participating in application
+ demos with users and enhancing user experience.
+ * Creating website promotional material, web banners and optimized landing and home pages.
+ * Establishing the core purpose of the website by identifying its users.
+ * Building up and enhancing integration within existing systems.
+ * Liaised with departmental representatives to improve website appearance.
+ * Improving a customer's experience in all digital channels.
+ * Updated new information into the website.
+ * Tested and checked website regularly
+ * Experience in understanding front end technologies such HTML5, CSS3, Bootstrap, JavaScript, j
+ Query, AJAX, JSP and Angular JS for Product Builder UI screens.
+ * Worked with Bootstrap for compiling CSS, JavaScript and building the System with the convenient
+ methods.
+ * Developed reusable components and utility classes, which are commonly used in the project.
+ * Development of shell scripts to build IDL structures.
+ * Used JIRA as the Project Management and Issue tracking tool.
+ * Installed continuous integration and build with Maven (both Intelligence and Eclipse as IDE).
+ * Implementation of Server (spring, WSDL, SQL, SOA, JDBC, Web Logic) and Client (GWT, GIN, Rest
+ services, JS, J Query) project tasks.
+
+Environment: Java, JSP, J Query, Servlets, Struts, Tomcat , Ant, HTML, SQL , JavaScript,
+Dreamweaver, JSON, Xml, PL/SQL, XSD, XSLT, Oracle, CSS, Microsoft Visio.
+
+
+Oracle America - San Jose, CA Jul 12 - Nov 14
+Role: Java/J2EE Developer
+
+Responsibilities:
+ * Analyzing the requirement document and preparing queries for clarification from client.
+ * Developed logics for Model and Controller.
+ * Implemented SOAP to develop REST based Web services
+ * Development of Web application using spring framework based on MVC architecture.
+ * Implemented and configured various Action classes for handling the client requests using spring
+ framework.
+ * Used EJBs (Stateless Session beans) to implement the business logic, MDBs (JMS) for
+ asynchronous communication internal and external to the system.
+ * Involved in development of Spring IOC components.
+ * Developed JSP, Spring Action class, Form bean for presentation layer.
+ * Used Session Facade and DAO design patterns for business logic.
+ * Used PL/SQL queries and stored procedures to generate account opening criteria in the system.
+ * Used J Unit for Unit Testing.
+ * Extensively used Java Server Pages, JavaScript, J Query, CSS and HTML for developing visually
+ appealing User Interface pages of the web modules.
+ * Written JavaScript to parse the XML object return from the web service using AJAX via JSON.
+ * Used EJBs in the application and developed Session beans to house business logic at the middle
+ tier level.
+ * Worked with JAXB, SAXP and XML Schema for exporting data into XML format and importing data
+ from XML format to database.
+ * Used JSF for internal report generation by fetching data from database with customized view
+ using CSS and AJAX for form processing. Implemented Message Driven Bean Using JMS.
+
+Environment: Java, Hibernate, Spring, Struts, Web sphere, REST, Angular JS, Oracle, SQL, CVS, ANT,
+JSP, Servlets, HTML, JavaScript.
+
+
+Infinite Energy - Atlanta, GA May 09 - Jun 12
+Role: Java/J2EE Developer
+
+Responsibilities:
+ * Involved in all the phases of SDLC including Design & Analysis of the Customer Specifications,
+ Implementing and testing.
+ * Involved in designing the technical Design Documents as per the Business requirements.
+ * Experienced in developing web applications with Single Page Applications (SPAs) Framework using
+ Angular JS
+ * Implemented Spring JMS message container listener to retrieve log objects from queue and send
+ different destinations.
+ * Implemented, configured spring message sources, resource bundles for labels, message properties
+ for internationalization.
+ * Implemented centralized dispatch controller to pass incoming request to helper classes using
+ Spring MVC annotations, custom annotations and Java reflection technology.
+ * Wrote test cases using Groovy scripts and J Unit.
+ * Worked on server side implementation using spring core, spring annotations navigation from
+ presentation to other layers using spring MVC and integrated spring with Hibernate using
+ Hibernate template to implement persistent layer.
+ * Designed the UML, created class, sequential diagrams using modified code
+ * Reviewed the code for increasing the application performance.
+ * Integrated the application with Spring Quartz framework.
+ * Testing and production support of core java based multithreading ETL tool for distributed
+ loading XML data into Oracle11g database using JPA/Hibernate.
+
+Environment: Java 1.7, Spring MVC , Hibernate, JSP, HTML, CSS3, XML, XSLT, SOAP 1.3, JavaScript, J
+Unit, Web logic, JMS, JDBC, IBM Web sphere, RLM, Apache CXF, SOAP UI, WSDL, Maven, Eclipse IDE,
+Rational Rose, Agile, AWS, Bootstrap, Angular JS, Node.js, Backbone.js, Ember.js, Oracle11g/10g,
+SQL.
+
+
+Lennox - Dallas, TX Aug 06 - Apr 09
+Role: Java Developer
+
+Responsibilities:
+ * Created partitioned tables in Hive.
+ * Extensively used Pig for data cleansing
+ * Worked extensively in creating Map Reduce jobs using to power data for search and aggregation
+ Server side scripting using Java Server Pages (JSP)
+ * Developed multiple Map Reduce jobs in Java for data cleaning and preprocessing.
+ * Client side presentation layer coding was involved with DHTML/HTML and JavaScript
+ * Developed and enhanced existing persistence framework in combination of hibernate and DAO
+ design pattern.
+ * Worked with Hibernate Configuration using XML config esp., hibernate.cfg.xml
+ * Developed back end using Oracle and also used for error handling.
+ * Worked with PL/SQL for implementation of SQL triggers for preventing invalid transactions and
+ imposing security authorization.
+ * Implemented Test First unit testing framework driven using J Unit, and published assertion
+ framework build on top of the J Unit Assertions.
+
+Environment: Web logic, Spring 2.5, Hibernate 3.0, XML, Maven 3.0, HTML, CSS, SQL, Git, Eclipse 3.5,
+Junit, Jenkins, XML, Oracle 10g and MS SQL Server 2012.

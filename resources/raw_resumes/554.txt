@@ -1,0 +1,161 @@
+
+
+Steven Lee Cornejo
+Houston, TX
+214.883.3284                  https://www.linkedin.com/in/stcornejo/      compuguru888@gmail.com
+IT Professional with 20 years of experience in multiple areas in the industry. Skills include:
+Managing and maintaining MS Windows server and workstation environments as well as Linux Red Hat
+workstaions; Client relations, Contract negotiation, Analysis and enhancement for users experience
+in corporate environments.
+
+
+PROFESSIONAL ATTRIBUTES
+Independent Consultant                                                June 2022 - Present
+Houston, Texas
+
+Freelance consultant serving IT needs for entrepreneurs, contractors and small business clients.
+
+Sr. Technical Analyst, System Services                                    July 2015 - February 2022
+Memorial Hermann, Houston, Texas
+
+Executive second tier and third tier of customer support for the corporate headquarters personnel
+including physicians and Memorial Hermann employee's system wide.
+Setup Online Archiving of Emails using PST Enterprise for customers.
+Main facilitator of Health Quest term id's, backing up the database and application support.
+Maintained and managed patching of Server OS.
+Racked and ran cabling to managed servers and network switches.
+Supported, configured network/local printers on the front end and back end of specialized healthcare
+applications
+Managed Microsoft, Citrix and VmWare VDI clients, VmWare Administration, MS Active Directory,
+Microsoft Exchange 365 administration, Altiris system for asset management and software
+distribution..
+Utilized Solarwinds for network analysis of switches, access points, and routers as well as SNMP
+monitoring for multiple servers.
+Handled Dell Protection & Encryption updates, configuration and reactivation.
+Hosted progress monthly meetings of a 36 person team.
+Collaborated with department and end-users to plan infrastructure expansion and upgrades based on
+business goals and assessment of existing technologies.
+
+Systems Consultant, MITS Team                                    January 2014 - September 2014
+LongView Systems, Houston, Texas
+
+Clients: Patara OG, Laredo Energy, Hi Crush Proponants, Susan G Komen, Express Energy and Linn
+Energy
+Liason for sales leads and aspects required by clients.
+Manage various aspects ot IT systems for multiple clients, including blades and virtual
+environments.
+Configuration of VOIP systems for clients
+Manage multiple server farms of VmWare and Windows 2008 / 2012 environments.
+Assisted with troubleshooting network related issues and replacement when necessary
+Support desktop environment for multiple clients when part of agreement.
+Maintain up to date system environment inventory from office to datacenter.
+Creation and deletion user accounts in Active Directory and Exchange 2007 / 2013.
+Verified WSUS server updates as necessary for environment.
+Video Conference assistance.
+Surveyed OG field sites systems setup .
+
+Systems Analyst, Hess Corporation                                    April 2011 - December 2013
+LongView Systems, Houston, Texas
+
+Systems support for 2000 users at corporate headquarters.
+Maintain Dell D600 series laptops, HP 8400 / 2500 series laptops, HP 8000 series desktops, Z600
+systems
+Setup and configuration of blackberry via Blackberry Enterprise Server and Iphone and Android setup
+and configuration for MS exchange.
+Handle accounts via Active Directory for users utilizying Maximo Ticket system.
+Support multiple applications for geological purposes. XP and Windows 7 environment
+Crestron Video Conference support
+SAP restart project support.
+Provided guidance and support for Cisco polycom and Cisco Telepresence systems.
+
+Desktop Contractor, Memorial Hermann                                    April 2007 - April 2009
+AD Susman & Assoc, Houston, Texas
+
+Involved with numerous projects in migrating and updating configurations from Windows 2000 to
+Windows XP
+Replaced and configured numerous Lexmark series printers for Memorial Hermann at all locations
+Worked with various applications : Healthquest, Care4, Lawson prod, PFS Sovera, Carbon Copy, etc.
+Assisted with Helpdesk support at Corporate location for all Hermann network issues.
+Familiar with Dell Laptops D620, 630s and Dell Desktop Optiplex 745 and 755 series.
+Installed, configured and replaced administrative and clinical pc's in corporate and hospital
+environments.
+
+Desktop System Administrator                                          May 2000 - October 2002
+Oracle Corporation, Redwood City, California
+
+Network and application support for local and remote users at Headquarters running Windows and
+Linux-based operating systems.
+Configured and maintained Linux file servers running Samba and Apache.
+Implemented and administered NT Domain, file, and print servers.
+Troubleshoot and configured DNS, WINS, TCP/IP, IPX/SPX and NetBEUI protocols.
+Monitored and managed daily server backups
+Performed system maintenance by providing security patches administrated by Symantec and Microsoft
+technology.
+Installed and configured image-based Windows operating systems on proprietary hardware from Compaq,
+Toshiba, and Dell.
+
+System Support Technician, System Analyst                                    June 1997 - April 2000
+Advanced Micro Devices, Sunnyvale, California
+
+Provided technical support in troubleshooting microprocessors to Latin America and U.S customers.
+Trained in and developed thorough knowledge of family products including microprocessors, flash
+memory and embedded controllers.
+Handled detailed inquiries with Flash memory, Ethernet controllers and Embedded Micro controllers to
+board and component level.
+
+I.T Technician/Tutor/Lab Assistant                                          June 1996 - April 1997
+Heald Institute of Technology, San Francisco, CA
+
+Configured, installed and diagnosed computer systems.
+Maintained and repaired Electronic equipment.
+Assisted students of various backgrounds in concepts, architectures, and troubleshooting in
+electronics and computers.
+
+EDUCATION
+
+Global Knowledge , Advanced IP routing                                          March 2017
+Houston, Texas
+
+Boot camp for advanced cisco ip routing.
+
+Cisco Network Academy, Cisco Network Certificate                              August 2002 - May 2003
+City College of San Francisco, San Francisco, California
+
+The Cisco CCNA certification for network associates validates the ability to install, configure,
+operate, and troubleshoot medium-sized routed and switched networks, and implement and verify
+connections to remote sites in a wide-area network (WAN).
+
+Microsoft & Novell Certification                                    January 1998 - April 2000
+Lanop Test Prep Center, Burlingame, CA
+
+Trained and acquired Novell and Microsoft Certification.
+
+Computer and Electronics Technology                                    October 1995 - April 1997
+Heald Institute of Technology, San Francisco, California
+Associate in Applied Science : Computer science and Electronics Engineering GPA: 3.9
+
+Completed Courses related to computer science and electronics.
+
+PROFESSIONAL SKILLS
+
+Languages: English , Spanish      Video: Zoom, Crestron, Cisco TelePresence, Skype, Livestream,
+Streamyard
+Hardware: Dell Laptops, Dell Desktops, HP Laptops, HP Desktops, Lexmark Network Printers, HP Network
+Printers, HP Blades, Dell Poweredge Servers, Cisco 1600/2500/2600, NetApp FAS2220, Iphone, Android,
+Blackberry
+Software: Adobe Acrobat, Adobe Illustrator, Adobe Photoshop, Macromedia Dreamweaver, GIMP, Inkscape,
+Altiris, Olympus, Healthquest, Systrack, Microsoft Project: 2010/2013/2016, Microsoft Visio:
+2000/2003/2007/2010/2013/2016, Microsoft Office: 1997/2000/2003/2007/2010/2016, Microsoft 365;
+Microsoft Exchange 2010, Exchange 365; DNS, TCP/IP, Remedy, IBM Maximo, IBM ServiceNow
+Operating Systems: Windows XP, Windows 7, Windows 10, Windows 11; Windows Server: NT 4.0, 2000,
+2003R2, 2008R2, 2012; Linux Red Hat 7.5; Suse 7.3
+
+VOLUNTEER
+
+True Buddha Society, Houston TX                                                November 2009
+Project lead for video broadcast event of GrandMaster Sheng Yen Lu across multiple countries.
+
+REFERENCES
+
+Available upon request.
+

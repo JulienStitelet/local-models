@@ -1,0 +1,196 @@
+
+Viresh Singh
+************
+
+NameName VIRESH SINGH
+200 Horseshoe Road
+Schwenksville, PA  19473
+Ph: 484-425-7734 / 610-388-3997
+Email: vireshsingh999@gmail.com
+
+
+SUMMARY OF EXPERIENCE
+
+
+Most of experience listed in here is related to the SAP Programming and
+Analyses area, where I have dealt extensively with internals clients as
+well as external customers/clients.  Included in here is brief mention of
+my career as an Environmental Engineer also. I am open to any other jobs
+related or not related to IT.
+
+Senior ABAP Lead with about 9+ years of  SAP/ABAP experience; Experienced
+in SD/MM/PP/PM/FI/QM/PM modules. Excellent understanding of the technical
+aspects of these modules and reasonably good understanding of the
+functional aspects of these modules and how they are interconnected;
+Experienced with SAP versions 4.6 C, 4,7, ECC 5.0 and ECC 6.0; Good
+understanding of ABAP Workbench, Report/Dialog programming, BDCs, SAP
+Scripts,  EDI / IDOCs, ALE SAP User Exits, Interface and Conversions, OSS
+Notes; Responsible for new development, managing off-shore resources,
+code reviews and performance tuning of custom programs; Excellent skills
+dealing with internal users and external clients; Have a reasonable
+(self-taught ) understanding of Network Securities and computer systems;
+Good knowledge and experience of SQL and Database;
+
+Environmental Engineering consulting in the field of Groundwater & Soils
+pollution assessment, evaluation and remediation.
+
+WORK EXPERIENCE - SUMMARY
+
+06/2013 - Current:    Self-training in HANA and SAP BI
+08/2012 - 09/2012:    SAP MM & PP related work at AKER Philadelphia
+Shipyard (15 days)
+01/2010 - 07/2012:    Part Time:  Engineering consulting work related to
+Geothermal and HVAC design.
+07/2011 - 09/2011:    On-line SAP Access - Refresher SAP.
+
+08/2007 - 11/2008:    Sr. System Analyst - Dupont, Wilmington, DE
+(through Accenture)
+Development and enhancements, error corrections and testing of custom
+ABAP transactions and reports. Development of specifications & technical
+design for new requirements, troubleshooting and unit testing of existing
+programs as per AFS/SNOW project requirements.  Code review, debugging
+and performance tuning of new and existing programs. Interface with
+internal users and external clients to collect date about new and fix
+existing ABAP-related SAP issues, address problems and find acceptable
+solutions.  Review of Functional specifications and addressing gaps,
+development &review of Technical Specifications. Responsible for code
+review, performance tuning of programs developed by junior ABAP
+developers, ensuring quality of code and standards.
+
+
+01/2007 - 07/2007:    Lead Analyst - Wyeth GBO Project  (through
+Accenture)
+
+Used ECC  5.0 as Lead Analyst on the Center of Excellence team,
+responsible for review and completion of
+Functional and Technical Specifications, responsible for resolution of
+day-to-day production issues,  adding
+functionality to existing processes, coordinating new development work
+with the India Development Center
+(IDC) from inception to conclusion, assigning development work to IDC
+Team, coordinating the development
+work at IDC and QA/QC of the deliverables to the client. Development and
+enhancements, debugging and
+error corrections, ,performance tuning, and unit testing of  custom ABAP
+transactions and reports per the
+project requirements. ABAP WebDynpro coding;
+
+03/2006 - 11/2006:    Programmer/Analyst - Lockheed Martin (Independent
+Contract)
+Used ECC  6.0 as Lead Analyst.  Worked as independent consultant with
+ATSI, Inc.  for a Large Defense manufacturing Company (Lockheed Martin)
+in NY.  Working as part of the Global Enterprise Modernization (GEM)
+project team. Working on several SD/MM related customized programs,
+enhancement, using ALV and User Exits, etc.  All projects involved detail
+Functional Specifications and creation of very immaculate Technical
+Specifications. Customized transaction VF04 - Billing Due List, modified
+resulting ALV to accommodate client-specific functionality; Customized
+transaction DP95 - Resource Related Billing - DMR; Dialog to update the
+Billing Plant Management screen of transaction VA02; Added custom screen
+to Sales Order transaction VA02 - Additional Data & B Screens - Billing
+Plan Management
+
+02/2002- 12/2005:    Programmer/Analyst, Dopaco, Inc, Exton, PA
+
+Requirement gathering and development of technical specifications;
+Development of custom reports in SD/FI/MM/QM and Forecasting (Both Dialog
+and Reports Programming); Development of BDCs to load transactional data,
+Scheduling Batch jobs; Enhancement of existing SAP functionality via user
+exits, SAP Modifications; Creation of SAP Scripts related to Purchase
+order, modification to existing Sap Scripts related to Purchase Orders,
+Invoices, Pick Logs, Delivery Documents, Quality notifications;
+Production support  related activities - EDI /IDocs Maintenance and
+support, trouble-shooting day to day problems in SAP and GENTRAN;
+Mentoring less experienced developers, manage help hot-line with for SAP
+ABAP related issues; OSS Notes research and application to relevant
+problems; SAP Upgrade project 3.1I to 4.6C;  Some configurations and
+implementation with WM and WM modules;
+
+
+11/2000 - 11/2001:    Programmer, Endo Pharmaceuticals, Inc. Chadds Ford,
+PA
+
+Requirement gathering and development of technical specifications;
+Creation of SAP Scripts related to Purchase order, modification to
+existing Sap Scripts related to Purchase Orders, Invoices, Pick Logs,
+Delivery Documents, Quality notifications; OSS Notes research and
+application to relevant problems; Development of custom programs in
+SD/MM/FI based on user specifications (Both Report and Dialog
+Programming). These reports are used in inventory planning. Management
+and forecast; Modifications to existing programs to improve performance,
+enhance functionality (especially related to Medicaid). These programs
+are used extensively by the customer service group in providing efficient
+and better services to the company clients/customers; Production support
+related activities - trouble shooting day-to-day production problems,
+access functionality gaps and provide alternate solutions
+
+
+01/1999 -  07/2000:    Analyst/Programmer, Symbol Tech. Inc., Holtsville,
+NY
+
+Development of custom ABAP/4 programs as required by users, SD/MM/FI/PP
+related; Modifying existing programs per user specifications for
+SD/MM/FI/PP functional areas; Development of SAP Scripts, modifying
+existing ones for invoices, sales orders, purchase orders, returns,
+cancellations, dunning, payment, delivery documents, picking slips;
+Production support -  Helping international users in England, Sweden,
+Germany, France, Denmark, Italy, Australia, Belgium, Finland, Holland,
+Austria, identify problems/bugs in ABAP/4 programs and fix the problems
+in addition to resolving daily production issues; Data loads via
+interfaces, BDCs
+Background Job scheduling, processing and monitoring; Enhancements and
+modifications to existing SAP functionality
+
+WORK EXPERIENCE:    As an Environmental Engineering Consultant
+
+
+01/98 - 09/98    Senior Engineer, Michael Baker Jr. Corporation,
+Princeton, New Jersey.  Primarily worked on groundwater & soils pollution
+assessment, evaluation and remediation
+
+
+07/94 - 12/97    Senior Engineer, Versar, Inc., Bristol, Pennsylvania.
+Worked on various projects in PA, NJ, VA, IN,MI funded by private and
+government, mainly dealing with groundwater and soils pollution and
+remediation involving monitoring wells evaluation and remediation system
+design and implementation
+02/92 - 06/94    Engineer, Jacobs Environmental, Inc., Piscataway, New
+Jersey.
+02/91 - 01/92    Assistant Project Engineer, EEC Inc., Philadelphia,
+Pennsylvania. Worked on various Civil Engineering projects
+11/89 - 01/91    Staff Engineer, Roux Associates, Inc., Huntington, New
+York.
+01/88 - 10/89    Research Assistants, Department of Civil Eng., Auburn
+University, Alabama
+
+EDUCATION
+
+1.    M.E. Civil Engineering        Auburn University, Alabama
+1988-90
+2.    B.S. Ag. Engineering        Allahabad University, India
+1981-85
+
+
+TRAINING COURSES
+
+
+1.    On-Line SAP Access        Licensed SAP Vendor
+07-08/2011
+2.    EDI Training (GENTRAN)    Sterling Commerce                06/2002
+3.    SAP Upgrade Delta 4.6        SAP Academy, Waltham, MA
+02/2001
+4.    SAP Script            Symbol Technologies (In-house)
+06/1999
+5.    SAP ABAP            SAP Academy, Waltham, MA            12/1998
+6.    Intro. to Programming in C/C++    Mercer County College
+06/1998
+7.    Introduction to Visual Basic    Mercer County College
+06/1998
+8.    Introduction to UNIX        Mercer County College
+12/1997
+9.    Introduction to HTML        On-line and self-taught
+
+
+Residence Status:    US Citizen
+
+* This is an abridged resume.  More detailed resume is also available.

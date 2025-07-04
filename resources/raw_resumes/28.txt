@@ -1,0 +1,37 @@
+
+                                       Jonathan Yee
+                                 jonathanyee011@gmail.com
+
+Education
+California State Polytechnic University, Pomona                                         2012
+Bachelor of Science, Computer Science
+
+Technologies Used:
+Swift, Auto Layout, XCTest, Fastlane, GraphQL - Apollo, CircleCI
+Java, JUnit, Robolectric, Espresso, Kotlin
+
+Work Experience
+Acorns
+Mobile Developer                                                         9/2017 - Present
+   * Acorns iOS App (Swift)
+           * Updated our investor question settings page with possible answers
+              from GraphQL
+           * Developed support features that allows users to view FAQs and to
+              contact our customer support team through phone, email and live
+              chat.
+   * Acorns Android App (Kotlin)
+           * Developed features such as one-time and recurring investments for
+              Core and mobile check deposit for Spend.
+Spokeo
+Mobile Developer                                                         3/2014 - 8/2017
+   * Spokeo Android App (Java)
+           * Built a caller ID and call blocking app from scratch using Realm
+   * Family.me Android and iOS apps (C#)
+           * Social network for families to collaboratively build their family trees
+              and share memories together.
+           * Built using Xamarin
+Onescreen
+Android Developer (Java)                                                 1/2012 - 12/2013
+   * Wall Street Journal Live Android app
+           * Worked with WSJ team to develop a video streaming app for tablets
+

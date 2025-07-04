@@ -1,0 +1,169 @@
+
+Patrick Casimir
+6800 Kimberly Boulevard  *  North Lauderdale, FL 33068
+Phone: (954) 984 - 9056 * Cell: (954) 614 - 1178
+Email: patrcasi@nsu.nova.edu
+
+EDUCATION
+
+Philosophy Doctorate: Biomedical Informatics (Expected Graduation, Fall
+2014)
+Rutgers University, Newark, New Jersey (Final Dissertation Defense
+Phase)
+Master of Science: Biomedical Informatics, GPA: 3.95/4.0, December 2009
+Nova Southeastern University, Ft. Lauderdale, Florida
+   * Dean's Award Highest Scholastic Achievement, March 2010
+   Bachelor of Science: Computer Science, GPA: 3.8/4.0, December 2001
+   Nova Southeastern University, Ft. Lauderdale, Florida
+
+
+HIGHLIGHTS
+
+   * Ability to use informatics to improve the performance of physicians
+     and nurses within the health care system
+   * Ability to use information science to enhance clinical performance
+     and
+ improve patient safety (e.g., reduce medical errors)
+ * Knowledge of HIE standards (HL7, CDT, ICD, CPT, DICOM, X12N, LOINC)
+ * Knowledge in information security and policy formation
+ * Understanding and knowledge of privacy, security, and confidentiality
+  of patient health information in compliance with HIPAA rules and
+  regulations
+ * Understanding of JCAHO, MQSA, and ACR guidelines, standards and
+  accreditation requirements
+ * Understanding of clinical operations and processes
+ * Ability to communicate effectively with clinical and information
+  technology personnel verbally and in writing
+ * Good interpersonal communication and relation skills
+ * Proficiency in various programming and clinical application reporting
+  tools
+ * Character, Honesty, Integrity, Flexibility, Adaptability, and Ethics
+
+CLINICAL INFORMATICS SKILLS
+
+ * Electronic Health Record: Ability to design, analyze, implement,
+   maintain, and manage electronic medical record (EMR) systems in
+   helping health care organizations improving quality of care, service
+   and clinical outcomes, patient safety and satisfaction, staff
+   efficiency and productivity, and financial revenues.
+ * Biomedical Informatics: Training in the development, dissemination,
+   and evaluation of information technology as it relates to the
+   healthcare environment such as hospitals and health systems, health
+   information technology system vendors, eHealth companies, insurers,
+   pharmaceutical companies.
+ * Academic Skills: Acquisition of academic skills in biomedical systems
+   technology, health-information systems, medical decision support
+   systems, image and signal analysis, statistical techniques and
+   modeling, education and training, telemedicine, health care
+   management, and human machine interface.
+
+WORK EXPERIENCE
+
+HEALTH DATA SPECIALISTS, LLC
+   Siemens' Soarian Clinicals Senior Consultant
+   2/11 - Now
+
+   Peconic Bay Medical Center, NY
+   Garden City Medical Center, MI
+   Arkansas Heart Hospital, AR
+   Community Health Systems, PA
+   Mountain States Health Alliance, TN
+   Hamilton Medical Center, Dalton, GA
+
+   * Provide subject matter expertise for Soarian Clinicals
+     Configuration, Operations, Orders and Results Management, Crystal
+     Reporting, Security, Integration and Interfaces, Documentation, Plan
+     of Care, Adaptability Tool, Siemens Pharmacy and MAK
+     Implementation.
+   * Provide subject matter expertise in using Soarian Admin Desktop and
+     Clinical Desktop to build order sets, results, form assessments,
+     create other services, and manage clinical users preferences and
+     activities.
+   * Provide subject matter expertise in workflow analysis and redesign
+     to improve performance optimization in preparation of CPOE
+     implementation.
+   * Participate in new module/application implementation, systems
+     upgrades, testing, and training for Soarian Clinicals and work with
+     the Director of Clinical Informatics to actively promote and support
+     division standardization, utilization, health information exchange,
+     integration and optimization plans for all clinical applications.
+
+
+NOVA SOUTHEASTERN UNIVERSITY, Fort Lauderdale, FL               8/10 -
+Now
+Adjunct Professor Master of Science Biomedical Informatics
+
+   * Provide guidance and preceptorship to MSBI graduate students in
+     accomplishing a practicum experience that fulfills requirements for
+     their degree in Biomedical Informatics.
+   * Assist MSBI graduate students in identifying sources of appropriate
+     potential practicum experiences within the Biomedical Informatics
+     spectrum.
+   * Provide MSBI graduate students with advanced career counseling in
+     the field of Biomedical Informatics so that they may better evaluate
+     and comprehend any specific career choices that they are
+     considering.
+   * Help graduate students in developing, demonstrating, and applying
+     the skills necessary to be successful in their future career
+     endeavors.
+   * Help graduate students in making application of knowledge obtained
+     throughout the MSBI program and acquiring a clear understanding of
+     requirements for job opportunities in their future field of work.
+   * Develop and teach MI 6414 Basic Skills for Clinical Analysts (Since
+     Fall 2012)
+   * Develop and teach MI 6420 Medical Image Processing Analysis (Winter
+     2014)
+
+KINGMAN REGIONAL MEDICAL CENTER
+6/10 - 1/11
+Senior Clinical Applications Analyst III
+
+   * Provide application management over the clinical and/or business
+     information system software portfolio.
+   * Responsible for analyzing and resolving software problems and
+     performing annual software upgrades.
+   * Provide project management support as directed by the Director of
+     Clinical Informatics and/or project manager.
+   * Responsible for establishing information management as defined by
+     process owners.
+   * Responsible for planning the information integration across the
+     continuum of care
+   * Responsible for software design and configuration.
+   * Provide support and status on issues to resolve incidents and users'
+   complaints
+   * Fulfill requests received from the division Service Desk, other
+   departments, and facility service resources such as Siemens' Soarian
+   Clinical, NextGen EHR, and Carecast.
+   * Work with enterprise subject matter experts, services resources and
+   the enterprise Service Desk in managing resolution of clinical
+   application incidents and requests.
+   * Participate in new module/application implementation, testing, and
+   training for the facility and work with the Director of Clinical
+   Informatics to actively promote and support division standardization,
+   utilization, health information exchange, integration and optimization
+   plans for all clinical applications.
+
+FUSION TELECOM
+5/02 - 2/09
+Information System Analyst
+   * Monitor operability and reliability of the overall network by
+     utilizing software
+            products provided to ensure high level of service
+            availability.
+   * Track and report of relevant Networking performance metrics.
+   * Troubleshoot sophisticated, third party applications.
+   * Monitor changes in call count (volume) and call duration for
+   hardware.
+   * Coordinate with NOC to maintain the routing table of by removing
+   carriers with
+   the inability to complete outbound traffic.
+   * Meet with Management to report NOC composite reports of problems.
+   * Support the technical and commercial evaluation of new
+   interconnection
+   agreements, cross-checking billing and accounting information.
+   * Prepare and review the ad hoc and daily measured traffic reports on
+   a
+   bi-weekly basis.
+   * Coordinate with NOC personnel to resolve capacity, quality and
+   out-of-service
+   condition for Fusion customers and vendors.

@@ -1,0 +1,102 @@
+
+EASTON RICHARDS
+11452 205 St, St. Albans
+Queens, NY. 11412	Email: easton_r@hotmail.com 
+M: 347-283-2620
+
+SUMMARY OF QUALIFICATIONS 
+
+ 
+2012 - Queensborough Community College - CUNY
+ 
+2008 - Windows Server 2003 Environment - MCP Certification
+ 
+2007 - Windows XP Professional - MCP Certification
+ 
+2006 - Brooklyn Adult Learning Center (Certificate - Microsoft Office Suite 2003)
+ 
+2000 - Global Technology Training Center (Guyana)
+ 
+1996 - Collage of Accountancy, Business, and Social Studies (Guyana)
+ 
+1995 - Alleyne's High School - Diploma (Guyana)
+
+
+EXPERIENCE & ACCOMPLISHMENTS 
+
+Laparkan Trading Ltd (Brooklyn, NY) U.S.A
+IT ASSISTANT February 2007 - May 2009  
+ 
+Played pivotal role in managing and maintaining 10 offices LAN / WAN Networking and Remotely Troubleshooting End User Problems via VPN Routers; 3 Windows 2003 Servers, Printer Server, User Active Directory; Managing 12 Multifunction Network printers. Maintain, Setup and Configured VPN Internet Connection for 10 Offices in New Jersey, Brooklyn, Queen, Bronx.
+ 
+Setup and configured NT 4.0/2000/2003 Servers for domain networks, and maintained services such as DHCP, WINS, DNS, FTP and HTTP
+ 
+Repairs all PC's and Servers Hardware/Software a for all 10 Offices located in New York and New Jersey 
+ 
+Setup and support users in Active Directory NT/2K/2003 Servers
+ 
+Created and published online LAN/WAN network Charts Diagram with full IP documentation
+ 
+Administrator and Manage User Active Directory 2000/2003 Server
+ 
+Crimp networking cables and setup Network points for LAN PC connect
+ 
+Install, Setup and support MS Office 2000/2003/2007, Outlook Express and MS Outlook 2003/2007
+ 
+Help Support over 100 users with Desktop Trading support software 
+ 
+Setup and Configure Symbol Wireless Access Points Wireless and hand held scanner
+ 
+Configuring Cisco Routers and firewalls, wireless access points, and unmanaged switches
+ 
+Wireless Device Support; Wireless Internet modem, Blackberry devices, PDAs, etc.)
+ 
+Installing, Replacing PC Hardware, Reloading PC OS/MAC OS, Maintaining PC Parts and internet network connectivity
+ 
+Implementing and Install Anti-Virus security and active directory/group policies
+ 
+Basic UNIX Servers, creating users, scheduling backup and restore data in UNIX Environment
+
+Guyana Revenue Authority (GRA) Guyana
+TECHNICAL SUPPORT OFFICER  June 2002 - March 2006  
+ 
+Played pivotal role in coordinating the move of a 30-node network (twice) from one location to another including cabling, workstations, servers, switches, ISP with minimal interruptions
+ 
+Troubleshoot hardware/software problems and network connectivity issues
+ 
+Installed Windows NT/XP pro/2K/2003
+ 
+Setup, upgraded, Repair and supported Windows NT/2002 Servers
+ 
+Created and published online network procedures and documentation
+ 
+Basic administration of SQL Server 
+ 
+Assisted in quality assurance by testing applications in development
+ 
+Was made available on-call during non-business hours via a pager
+ 
+Provided telephone support for hardware and software issues to retailers and home users
+ 
+Assisted and trained retailers in setup and maintenance of a business card printer
+ 
+Performed a variety of troubleshooting for Internet connectivity problems
+ 
+General networking, TCP/IP and awareness of security and troubleshooting skills.
+ 
+Regarded in the team as specialist in Internet, hardware, and software issues
+ 
+
+ENVIRONMENT EXPERIENCE 
+
+Operating Systems	Windows NT/2000/XP pro/Vista/Server 2003/Small Business Sever, Unix, Mac OS X
+Hardware	PC, Compaq Proliant, CCTV, Cisco PIX Firewall, Cisco Router, APC Matrix UPS, HP SureStore DLT, RAID, DELL
+Programming Languages	Visual Basic, HTML
+Software	PhotoShop, FrontPage, Word, Excel, Access, Adobe Acrobat, Symantec Norton Antivirus, Internet Explorer Outlook 2003/2007, PowerPoint, Visio, CorelDraw, Norton AV Corporate Edition, MS Exchange 2003, MS Active Directory, VMware, UNIX, Desktop Support Software, User Scripting, X_Trader Pro Software
+Databases	Basic SQL Server, Access 2000/2003
+Services & Protocols	TCP/IP, Telnet, SMTP, POP3, IMAP 4, HTTP, FTP, VPN, PPTP, IPSec, BIND/DNS, DHCP, WINS 
+
+EMPLOYMENT HISTORY 
+
+February 2007 - May 2009	IT Assistant, Laparkan Trading Ltd (Brooklyn, NY) U.S.A.
+June 2002 - March 2006  	Technical Support Officer, Guyana Revenue Authority (GRA) Guyana

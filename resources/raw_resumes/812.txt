@@ -1,0 +1,126 @@
+
+
+Frederick L. Wagner
+8361 39th Avenue North mobile: (727) 641-0615
+Saint Petersburg, Florida 33709 cmderf@gmail.com
+
+SUMMARY
+* EXPERIENCED LEADER. Demonstrated leadership experience in software development, technical support,
+and problem-solving, successfully mentoring subordinates and colleagues.
+* PROBLEM SOLVING. Translator between technologists and users. Committed to process automation.
+Regularly sought by colleagues, customers, and managers for technical guidance, and
+trouble-shooting.
+* TECHNICAL EXPERTISE. Fluent in multiple programming languages and paradigms, from scripting to
+objectoriented
+and database programming, from dynamic web pages to data flows and graphical interfaces.
+
+PROFESSIONAL EXPERIENCE
+Depository Trust & Clearing Corporation since 2010 Tampa, FL
+Senior Automation Developer, Enterprise Automation
+Technical lead for multi-site team responsible for automating processes for operations and risk
+departments.
+* Created automated system of daily/weekly/monthly tasks, supporting multiple holiday sets, for data
+transformation involving Monarch, Access, SQL Server, Excel, Outlook, Perl, Python, DOS batch files.
+* SQL Server-based security enforcing access controls to data in SQL Server and Access databases.
+* Designed and implemented export-and-compare utility for comparing Access databases.
+* Designed and implemented export-and-compare utility for comparing SQL Server schemas
+* Designed and implemented automated creation of Word document describing Access database systems.
+St. Petersburg College 2004 to 2010 Saint Petersburg, FL
+Manager of Technical, Operational, and Desktop Support
+Hands-on technology manager of a 20-person information systems department, overseeing department
+budget,
+and planning and implementation of technology components of organizational projects.
+* Personally designed 2000-sq-ft state-of-the-art data center, and managed shutdown and relocation
+of
+college's data center to new site -- which was accomplished ahead of schedule and without incident.
+* Provided leadership in, and direct guidance for, various areas of responsibility including:
+Desktop Support Staff Technical Support Desk PeopleSoft Operations Team
+File Server Security PeopleSoft DBAs College-wide Software Licensing
+Pay-per-print services SQL Server Cluster Data Center Design and Maintenance
+Staff print/copy logging Special Projects for the President Disaster Recovery Site Management
+* Analyzed bottlenecks in third-party strategic planning software package, and recommended
+corrections
+which were implemented by vendor, resulting in dramatic performance improvements.
+* Guided PeopleSoft programmers to make major speed improvements in several key SQR programs.
+* Implemented data flows between the college's PeopleSoft Oracle database and various SQL Server
+databases, including three on-line learning systems, a student advisement tracking system, the photo
+ID
+system, and the printout/photocopy accounting database.
+* Designed and implemented Perl programs for test question generation, Active Directory maintenance,
+server and security maintenance, data-flows, and Excel file creation/roll-up for SPC budget process.
+St. Petersburg College 2002 to 2004 Saint Petersburg, FL
+Business Technologies Instructor
+As a MCSD/MCT-certified full-time Business Technologies instructor, taught courses including:
+* Hardware Design * Introduction to Computers&Programming
+* Java Programming * Microcomputer Applications (MS Office)
+* SQL Server Programming * XML Web Services and ADO.NET
+
+
+
+
+Through SPC Corporate Training, taught various levels of Visual Basic and C# including ADO.NET,
+ASP.NET,
+and XML Web Services, at SPC and on-site at Raymond James Financial. Substitute-taught in Assembly
+Language, Database Design, C++, Operating Systems, and Management classes.
+Metro-OptiX 2000 to 2002 Allen, TX
+Configuration Management Lead
+Responsible for providing ClearCase/MultiSite/ClearQuest-based CM infrastructure and training for
+the
+company's sites in Allen, TX; Santa Clara, CA; Bangalore, India; and Madras, India.
+* Automated the ObjecTime build process, the code review/promotion process, and configuration of
+development machines -- with tools hosted in SnapShot views and a Perl/Tk script adjusting the
+registry.
+* Obtained and configured ClearCase MultiSite servers for each site, with NT/Win2000 ClearCase
+clients.
+* Managed ClearQuest installation and schema changes, and databases used by code generators.
+Texas Instruments 1997 to 2000 Dallas, TX
+Configuration Management Lead
+"ClearCase Czar" providing CM infrastructure and training for DSL modem and related projects.
+* ClearCase MultiSite with ClearCase/Attache on UNIX/NT/Win95 in Dallas; San Jose and Freising.
+* Established development flows with source and tools in ClearCase, and performed release
+management.
+* Primary ClearCase resource for the entire Semiconductor Group, travelling to San Jose, Santa
+Barbara,
+and Toronto, making overview presentations, conducting training, guiding conversions from other
+version
+control systems to ClearCase, and providing assistance on all aspects of ClearCase, from workstation
+and network configuration through instruction on Configuration Management best practices.
+* Received TI Key Contributor recognition in 1998 and 2000, including bonus/stock option packages.
+Texas Instruments 1986 to 1997 Dallas, TX
+Lead Software Developer
+Lead developer on software projects providing automation and analysis for Design and Product
+Engineering.
+* Multi-platform software suite using Perl, C, Sybase, HTML, and JavaScript; graphical waveform
+analysis
+of transistor-level simulations; logic-level circuit simulator/fault-grader. ATPG for
+internal/external use
+* Influenced the development of Perl/Tk, developing general-purpose Tk widgets submitted to the
+Perl/Tk
+mailing list, and other enhancements incorporated into the standard Perl/Tk code base.
+* Provided Configuration Management leadership, pioneering ClearCase and MultiSite use in TI.
+* Member of corporate IT tool selection committee, and corporate C coding standards committee.
+* Regularly taught UNIX Overview class for interns and new engineers.
+* Received TI Incentive awards in 1990 and 1992, TI Key Contributor awards in 1996 and twice in
+1997.
+* Received TI Total Quality Group Award for saving $400,000 through innovative relocation planning.
+
+EDUCATION
+Education: Graduate Certificate of Community College Executive Leadership, University of Florida
+Institute of
+Higher Education & Department of Educational Administration and Policy, November 2005
+M.S. Computer Science, University of Texas at Dallas, August 1993
+B.S.E. (with Honors) Computer and Information Engineering Science, University of Florida, May 1986
+Certificates: Microsoft Certified Trainer (MCT), spring 2004; CompTIA CTT+, spring 2004
+MCSD .NET, spring 2003; MCAD .NET (Early Adopter), fall 2002
+Patents: November 12, 1996 (#5,574,853) and July 13, 1999 (#5,923,836) both for "Testing integrated
+circuit
+designs on a computer simulation using modified serialized scan patterns"
+
+EXPERTISE
+Hardware (OS): PC (DOS, Windows XP, Windows 7, Linux) Macintosh (OS X) HP/Sun (UNIX)
+Programming: SQL (T-SQL,PL/SQL, Sybase, Access) Perl (Tk, DBI, Win32, CGI,...) PHP
+NET (VB, C#, ADO, ASP, WebSvc) C/C++ Assembler Java VB6/VBA
+Databases: SQL Server Oracle Sybase Access MySQL
+Config. Mgmt.: ClearCase MultiSite ClearQuest Purify Hindsight
+Other: Monarch Visio MS Office, including Excel-Access integration
+

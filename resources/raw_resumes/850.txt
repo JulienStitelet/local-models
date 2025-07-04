@@ -1,0 +1,122 @@
+
+
+
+
+JEEVAN ACHARYA
+304W Hempstead Ave, Apt 5 * Fairfield, Iowa 52556
+641.819.1103 * jeevanacharya81@gmail.com * https://www.linkedin.com/in/jeevan-acharya/
+
+
+JAVA FULL STACK DEVELOPER
+
+Skilled Full Stack Developer with 6+ years of hands-on experience leading enterprise and web
+projects through all phases of software development life cycle. Maximize quality and functionality
+by ensuring best practices and industry standards during development process. Skilled in
+implementing technologies such as Java, JSP, MS SQL, Spring, and Hibernate. Experienced in
+developing projects using design patterns, Angular, and Node.js for all modules of frontend,
+backend, and database related applications.
+
+
+Software Development Life Cycle * Frontend / Backend Development * Design Patterns
+Unit Tests * User / System Analysis * Java Programming * Dependency Injection
+
+Languages: Java
+Web: JavaScript, React, HTML, CSS, JSP, Servlet, Thyme leaf, jQuery, Ajax, SCSS, Junit, Jest,
+Angular
+Web Services: REST, JSON, Microservices
+Web and Application Servers: Apache Tomcat
+Frameworks: Spring (MVC / Boot, Security, JPA), Hibernate, Angular, React
+Databases: MySQL, Oracle ,Postgres, MongoDB,
+Design Patterns: Singleton, Factory, Composite, Façade, Template, Prototype
+SDLC: Agile / Scrum, RUP, TDD
+Tools: Jira, Jenkins, Open Shift, Git , GitHub, ,Maven, AWS (EC2, S3, AWS Lambda), Gradle, Postman,
+IntelliJ Idea, DBeaver , Eclipse, VS Code , Spring Tool Suite, UML, Lucid Chart, Slack
+Platforms:  Windows, Linux
+
+
+
+PROFESSIONAL EXPERIENCE
+
+CAREER NOTE: Completed on-campus studies and currently taking distance education courses to complete
+a master's degree in Computer Science.
+
+Verizon Wireless., East Telecom Parkway, Temple Terrace, FL * 2020 May - Current
+Verizon is an American Telecommunication company.
+
+Software Engineer
+Contributed to the backend and frontend of the 5G one fiber system.
+Tasks Performed:
+ *      Involved in requirement capture and implementation.
+ *      Implemented and consume Microservices based services/APIs.
+ *      Enhanced the existing features and implemented the innovative features for UI.
+ *      Utilized Spring Data JPA along with Specification and Predicates to query database.
+ *      Utilized the Swagger framework to fully test the functionality of our RESTful web services.
+ *      Utilized SonarQube to ensure submitted code was clean and followed Java Standards.
+ *      Used AWS cloud for the cloud deployment.
+ *      Utilized Junit, Mockito, Mock MVC, Jest to maintain the 100% code coverage.
+Achievements:
+ *      Followed the Agile software methodology for the project development.
+ *      Leveraged a full continuous integration pipeline including, Gradle, Jenkins, GIT.
+
+
+continued ...
+
+JEEVAN ACHARYA * Page 2
+641.819.1103 * jeevanacharya81@gmail.com
+
+
+
+
+Technologies Used: Java, Spring Boot, Oracle, Postgres, React, AWS Cloud, Jira, Jenkins, Open Shift,
+Git, Gitlab, JUnit, Mockito, Jest, Gradle, Tomcat, STS, Postman, VSCode, DBeaver, Windows.
+
+
+SMART LABS & IT SOLUTIONS PVT. LTD., Kathmandu, Bagmati, Nepal * Jan 2015- July 2019
+Software company specializing in web and mobile application development.
+
+Software Engineer
+Led enterprise systems and web application projects through all phases of software development life
+cycle using Spring technologies.
+Tasks Performed:
+ *      Gathered requirements, analyzed feasibility, and created functional specifications.
+ *      Developed backend and innovative user interface for enterprise application.
+ *      Implemented Spring MVC and Boot framework for the development of web application, webservices and
+   microservices using REST API.
+ *      Implemented Unit tests with JUnit and Mockito.
+ *      Established source and version control Git.
+Achievements:
+ *      Aligned development with high quality industry standards and best practices.
+ *      Optimized existing code to enhance functionality.
+ *      Streamlined communication with clients and analyzed user and system requirements.
+
+Technologies Used: Java, Spring (MVC, Boot, Security), Hibernate, MySQL, AngularJS, Git, JUnit,
+Mockito, Maven, Tomcat, IntelliJ, Postman, Windows, Linux.
+
+
+
+ACADEMIC PROJECTS
+
+Student Enrollment System, MIU (2020): Created Rest API for the school student enrollment system. Technologies
+ Used: Java, Spring Boot, Spring Security, Hibernate, MySQL, Git, Spring Cloud, Eureka,
+Microservices, Ribbon, Feign, Hystrix, JUnit, Tomcat, IntelliJ.
+
+ASK MIU, MIU (2020): Led team in designing web-based Quora-like application for users to post
+relevant topics and comment on posts. Technologies Used: Node.js, Angular, Mongo DB, Mongo DB Atlas,
+HTML, CSS, Material Design, Git, Trello, VS Code.
+
+MUM Tube, MIU (2019): Designed video sharing web application providing various services to users to
+upload videos, create playlists, and like and comment on videos. Technologies Used: Java, Spring
+(Boot, Security, Hibernate), HTML, JSP, CSS, Bootstrap, JavaScript, MySQL, Maven, Git, Mockito,
+Docker, IntelliJ, Tomcat.
+
+EDUCATION
+
+Master of Science in Computer Science
+(In progress via distance education; expected completion April 2022)
+Maharishi University of Management, Fairfield, Iowa
+
+Bachelor of Computer Engineering in Computer Science
+National College of Engineering, Lalitpur, Kathmandu
+Resume
+
+

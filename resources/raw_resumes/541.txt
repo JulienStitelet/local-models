@@ -1,0 +1,95 @@
+
+MAHAL G.T. DJINADOU
+Hot Springs | Arkansas 71913
+Philadelphia | Pennsylvannia 19120
+Mihundi@googlemail.com| (312) 998-2772
+
+Red Hat Certified System Administrator
+Certification ID: 220-022-263
+
+
+
+
+SUMMARY
+    *      Over 6 years of experience in the Information Technology Industry. A detail-oriented
+      professional with a strong experience in working as a Linux System Administrator and Linux
+      Specialist
+    *      Hands-on experience in the administration and management of Red Hat Enterprise Linux 7x, 8x,
+      Centos 7x, and 8x operating systems
+    *      Compute automation skills utilizing script language bash shell
+    *      Solid background in operating systems installation RHEL 7&8, Centos 7&8, user group
+      administration, role base access control, file transferring and sharing, file systems, volume
+      and storage, and patch management
+    *      Configure and connect to a single sign on LDAP/AD server and configure Auto-mount
+    *      Skilled in a wide range of desktop applications, their uses, and how to maintain and repair
+      them
+    *      Adaptable, collaborative, strong team player, ability to multitasking, excellent verbal and
+      written communication skills French and English, ability to work within strict deadlines and
+      with a wide spectrum of people
+    *      Install and Configure Apache HTTPD
+    *      Familiar with data management tools like RAID, cloud based service like Azure / AWS , database
+      technologies and Ansible.
+
+PROFESSIONAL EXPERIENCE
+WINDOW MART , Hot Springs , AR      January 2021 - Present
+Linux System Administrator
+    *      Supporting the following platforms: Red Hat Enterprise Linux v7/8
+    *      Building, running, and managing Linux containers using podman on Red Hat Enterprise Linux 8
+    *      Build, Install, configure virtual and physical servers, test, deploy RHEL 7&8, CentOS 7&8
+      servers to network
+    *      Perform file system management using LVM, NAS and SAN tools
+    *      Installed and configured samba server and mapping to the windows servers
+    *      Performed patching trough RedHat satellite
+    *      Use the Virtual Data Optimizer (VDO) to manage deduplicated and compressed storage pools in
+      RHEL 8
+    *      Setup, configured and troubleshoot TCP/IP, DHCP, DNS; NFS, and samba servers in a
+      multiplatform LAN
+    *      Task automation of infrastructure and application provisioning using bash scripting
+    *      System administration including configuration of server-based systems, system installation and
+      configuration fundamentals of security, and installing third party software
+    *      Ensuring all environments meet scale and resiliency requirements
+    *      Track and complete assigned tasks via remedy ticketing system
+
+ALL ONE STOP LLC , Philadelphia , PA      April 2015 - October 2020
+Linux Specialist
+    *      Built, Installed, configured virtual and physical servers, test, deploy RHEL 7&8, CentOS 7&8
+      servers to the network: OS installation and configurationstandard and advanced using
+      Kickstart , and VMware
+    *      Monitored log management on Linux servers, including processes, crash and swap management,
+      with password recovery and performance tuning
+    *      Setup, managed and troubleshoot DNS, DHCP
+    *      Troubleshoot Red Hat Enterprise Linux 7&8 and CentOS 7&8 issues in hardware and software
+      related and configuration issues
+    *      Virtualization (Oracle Virtual Box, and KVM)
+    *      Connected to Single Sign On LDAP/AD server and configured Auto-mount
+    *      Participated in root-cause analysis of recurring issues, provide 24/7 support in testing,
+      development, and production environments
+    *      Administered new user accounts, passwords, and privileges/rights as assigned and directed by
+      IT Management
+
+
+TranslateMedia , London , UNITED KINGDOM      September 2012- March 2014
+Administrator / Accountant
+
+    *      Preparing management accounts including balance sheet.
+    *      Preparing banks reconciliations , Vat return and EC Sales list
+    *      Assisting with year-end accounts
+    *      Liaising with group subsidiaries' accountants in New York, Munich, Paris and Hong Kong
+    *      Provided professional, courteous, prompt, and accurate support and solutions to users
+    *      Installed, upgraded, supported, and troubleshoot Windows OS, authorized desktop applications,
+      hardware, and peripheral equipment
+    *      Addressed user tickets regarding hardware, software, and networking
+    *      Reporting to the Managing Director
+
+
+EDUCATION
+
+LINUX TRAINING ACADEMY January 2021
+RHCSA
+LONDON SCHOOL OF BUSINESS AND FINANCE (United Kingdom)      2006-2010
+Bachelor's Degree in Accounting and Finance
+UNIVERSITY OF ORLEANS, PARIS ( FRANCE ) August 2004
+
+LANGUAGE SKILLS
+FLUENT IN ENGLISH ( WRITTEN & SPOKEN )
+FLUENT IN FRENCH ( WRITTEN & SPOKEN )

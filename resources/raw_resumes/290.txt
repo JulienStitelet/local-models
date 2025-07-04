@@ -1,0 +1,201 @@
+
+KEVIN R. BARRY
+krbarry@comcast.net * Home 410.535.6277 * Cell 410.610.2154
+
+PRINCIPLE SOFTWARE SYSTEMS ENGINEER / PROGRAM MANAGER
+Leveraging 35+ years of software engineering, system engineering, and program management success to
+advance technology and business goals for DoD industry customers
+Versatile and accomplished engineering expert with extensive experience in NAVAIR PMA-205 Training
+Systems acquisition processes and development, C4I/C2 systems, ocean acoustics, distributed Live /
+Virtual / Constructive (LVC) simulation, real-time software / hardware design, and end-to-end
+project management. Proven expertise in driving development of state-of-the-art Navy and Air Force
+training and RTD&E systems; highly adept at utilizing Earned Value Management (EVM) to meet targets
+on Firm-Fixed-Price (FFP) delivery & customer support contracts, and building relationships with
+NAVAIR system acquisition, cyber security, and T&E teams to insure that new ACAT systems are meeting
+all NAVAIR acquisition program requirements. Active Top Secret DoD security clearance; firm
+understanding of DoDI 5000.02, SECNAVINST 5000.2D, NAVAIR 4355.19D and related DoD / NAVAIR
+instructions and SETR processes. Highlights of Expertise:
+  *      Engineering Management
+  *      Systems & Software Engineering
+  *      Project Planning & Execution
+  *      Configuration Management
+  *      Real-time Modeling & Simulation
+  *      MIL-STD-498 & CMMI Processes
+  *      HW / SW Integration & Testing
+  *      Requirements & Documentation
+  *      DREN / SDREN Networks
+  *      DIS / HLA / TENA Systems
+  *      Risk Management
+  *      Cross-Agency Cooperation
+
+
+
+PROFESSIONAL EXPERIENCE
+SCIENCE APPLICATIONS INTERNATIONAL CORPORATION (SAIC), Lexington Park, MD      Sept. 2003 - Present
+Principle Software Systems Engineer
+Provide LVC Interoperability Subject Mater Expertise (SME), Lead System Engineering and Program
+Management support for the NAVAIR Training Systems PMA-205 ACAT Tactical Combat Training System
+(TCTS) Integrated Project Team (IPT), NAVAIR Ocean Systems Range IPT and PMA-205
+Live/Virtual/Constructive (LVC) IPT. As an Integral member of PMA-205's IPTs providing LVC SME
+support, systems engineering, System of Systems (SoS) interoperability, and program management
+support to NAVAIR's PMA-205 TCTS, Ocean Systems and LVC Training programs; partner with customer and
+contractor teams to enhance and provide system engineering for Integrating Live, Virtual, and
+Constructive systems to meet new Navy Training requirements, TCTS to meet NAVAIR system performance
+and acquisition requirements, develop requirements for TCTS encryption / Advanced Data Link (ADL)
+and NAVAIR Ocean Systems Range programs. Deliver technical and program management guidance, reducing
+risks by ensuring training programs comply with customer's system engineering processes. Key
+Projects & Achievements:
+    *      PMA-205 LVC IPT LVC Roadmap and System of Systems development efforts.
+    *      Lead SoS interoperability engineer for the NAVAIR LVC IPT.
+    *      Manage the LVC Test Bed and development efforts
+    *      Leading the development of the NAVAIR LVC Training system and architecture
+    *      Lead engineer on the LVC and TCTS Increment II ACAT System Performance Specifications
+    *      NAVAIR's TCTS Technology Readiness Assessment (TRA) team
+    *      Helped steer the acquisition process and development of PMA-205 Navy Airborne Training System.
+    *      Made valuable enhancements to PMA-205 systems providing instrumented "live" training
+      capability with distributed virtual and constructive threats and players, as well as to
+      systems providing both ACAT-4M fixed and portable Undersea Warfare (USW) Tracking Ranges (UTR)
+      for Fleet Training and Test & Evaluation (T&E) of USW systems.
+
+Manager V - Senior Engineer
+Helped standup the Secretary of Defense-mandated Test Resource Management Center (OSD TRMC) & Joint
+Mission Environment Test Capability (JMETC) program; worked closely with Program Managers and
+engineers to develop Test and Evaluation Master Plan (TEMP) for persistent LVC distributed test
+architecture. Key Projects & Achievements:
+    *      Promoted use of JMETC architecture and capabilities by providing cost-effective
+      LVC-distributed test solutions to DoD ACAT-I programs; selected as SAIC's Technical Proposal
+      Book Boss and for key proposal position as SAIC's JMETC Team Lead.
+    *      Promoted use of JMETC products and services within Defense Information Systems Agency (DISA)
+      Net-Enabled Command Capability (NECC) program and Information Operation (IO) Range, creating
+      reliable and persistent distributed T&E network and test environment.
+
+Senior Systems Lead Engineer
+Partnered with multiple U.S. Navy agencies to expand Maritime Synthetic Range (MSR) program by
+developing Live-Virtual-Constructive (LVC) technology for distributed simulations, operational range
+capabilities, and synthetic training; created interface that allowed seamless integration of LVC
+P-3C and MH60R aircrafts into PMA-205's Navy Continuous Training Environment (NCTE) infrastructure.
+Served as Lead Engineer at NAVAIR's Air Combat Environmental Test & Evaluation Facility (ACETEF),
+providing technical guidance for Network Centric Warfare (NCW), Visual Laboratory (VLAB),
+BAMS/Global Hawk Maritime Demonstration (GHMD), Joint Service Battlespace Environment (JSBE), and
+I/ITSEC Demo projects. Interviewed customer to gather and document requirements, prepared design and
+interface documents, and developed system tests for Measures of Effectiveness (MOE) / Measures of
+Performance (MOP). Chaired project meetings at multiple facilities, and generated new business by
+leading tours and presentations for potential customers. Key Projects & Achievements:
+    *      Capitalized on unique knowledge and expertise in ASW and real-time LVC distributed simulation
+      to provide SAIC with cost-effective solution that enabled Air ASW aircraft to participate in
+      live Fleet Synthetic Training (FST) events.
+    *      Saved MSR program tens of thousands of dollars by negotiating with NAVAIR's PMA-264 and P-3
+      AIP labs to allow free use of Acoustic Test Generator and lab facilities.
+    *      Participated in development and integration of real-time 3D visualization programs, including
+      OpenGL, AGI's Satellite Tool Kit (STK) and MetaVR's VRSG, into ACETEF labs; integrated MUSE
+      (UAV Simulator) and developed STK 3D interface to represent UAV sensors.
+    *      Harnessed SDREN / DREN / FORCENet networks to drive distributed simulation projects; developed
+      distributed M&S systems that seamlessly linked three facilities to simulate command and
+      control of Intelligent Autonomous Unmanned Air Vehicle (UAV) and Unmanned Surface Vessels
+      (USV).
+
+J.F. TAYLOR, INCORPORATED, Lexington Park, MD      1998 - Sept 2003
+Senior Systems Lead Engineer
+Served as Project Coordinator and Project Lead Engineer on development of sophisticated training and
+simulation technologies for NAVAIR and MFS/ACETEF. Led interactions with prime system contacts,
+internal project management, and external project stakeholders; established and enforced schedules,
+and managed step-wise development and testing. Key Projects & Achievements:
+    *      Spearheaded creation and testing of real-time acoustic simulation systems and HLA systems for
+      PMA-205's MH-60R trainer at NAVAIR's Manned Flight Simulator (MFS).
+
+    *      Lead Engineer for PMA-205's Navy Aviation Simulation Master Plan (NASMP) and Next Generation
+      Threat System (NGTS) external interfaces providing common environment for all Navy Air
+      trainers. NASMP was successfully used on the PMA-205's Navy's F/A-18C Distributed Mission
+      Training (DMT).
+    *      Successfully completed modification of Multistatic Active Systems Model (MSASM) for target
+      detection of active sonobuoys and MH-60R's dipping sonar and developed ACETEF to Ship Ground
+      Station (SGS) interface that allows ACETEF's JIMM model to control acoustic targets and
+      sonobuoys for MH-60R helicopter simulation and testing.
+    *      Provided SME services for the PMA-205 MH-60R acoustic stimulation system that later became
+      NAVIAR T&E and PMA-205's Common Acoustic System.
+    *      Established Research Development Test and Evaluation (RDT&E) network that integrated LVC
+      systems from nine laboratories / ranges. Developed NCW HLA Interface to ACETEF's JIMM / SWEG
+      model, along with GUIs to view HLA interface status in real-time; wrote software to generate
+      Model Output Files for data analysis.
+    *      Orchestrated Joint Test & Training Capability Assessment (JTTCA) project, providing ACETEF
+      with simulated warfare environment and HLA link with ATR.
+    *      Developed Windows-based sensor model for SPAWAR's Surveillance-Reconnaissance Management Tool
+      (SRMT) program; successfully delivered project on time and on budget.
+
+
+DCS CORPORATION, Lexington Park, MD      1997 - 1998
+Project Manager / Technical Advisor
+Excelled as Infrared Stimulator System (IRSS) Project Manager and Technical Lead on development of
+large area terrain, cultural features, and entity database for both visual and Infrared (IR)
+simulation, including real-time correlation and OpenGL for rendering of visual Out-The-Window (OTW)
+and IR display in NAWCAD-ACETEF aircraft mini-crew station. Key Projects & Achievements:
+    *      Developed generic modular interface between ACETEF's Simulated Warfare Environment Generator
+      (SWEG), DIS / HLA interface, ACETEF 2D map display, and OpenGL for rendering of both OTW and
+      EO/IR mini-crew displays.
+    *      Supported International Test and Evaluation Association (ITEA) Distributed Interactive
+      Simulation (DIS) demo with ACETEF, Point Mugu, and China Lake, demonstrating BLUE air strike
+      and land attack on RED high value target.
+    *      Advanced goals of Joint Theater Missile Defense (JTMD) program by investigating methods and
+      technology for suppressing and destroying enemy missiles; received letter and Certificate of
+      Appreciation from USAF Colonel John D. Carlile, Joint Test Director.
+
+Eagan, McAllister Associates, Inc., Lexington Park, MD                              Mar 1993 - 1997
+Senior Systems Lead Engineer
+Worked as JTMD Technical Lead Coordinator NAWCAD ACETEF. Successfully completed JTMD Phase I and
+continued as Project Coordinator for Phase II. Responsible for coordinating and interfacing with
+ACETEF management, engineers and other ACETEF support contractors, and the overall design of the
+JTMD project. The JTMD's models included the F/A-18C, F-15C, F-16C(G), U-2/CARS, Predator UAV,
+Tactical Event System (TES)/Missile Warning Center (MWC) and Command and Control models.
+    *      Responsible for the design and development of ACETEF's first High Level Architecture (HLA)
+      interface.
+    *      Responsible for the development of the PMA-205's Tactical Airborne Encrypted Test Station. The
+      Test Station tested an encryption device (KGV-23) called the Advanced Message Oriented Data
+      Security Module (AMODSM). AMODSM was used to encrypt datalink data between live players and
+      ground systems on Tactical Training Ranges.
+    *      Authored two white papers one paper proposed the development of a Shallow/Deep Water ASW and
+      Mine Warfare Model for ACETEF's High Performance Computer (HPC) Program and the other proposed
+      the development of an analytical process to analyze the future architecture of Joint
+      Suppression of Enemy Air Defenses (JSEAD) as an element of deep attack operations.
+
+ADDITIONAL EXPERIENCE
+CAE LINK CORP. (SINGER LINK), Silver Spring, MD      July 1981- Mar 1993
+Field Engineer/ Systems Lead Engineer/ Technical PM (12 years)
+Demonstrated superior engineering management and leadership to earn steady career advancement while
+driving Firm-Fixed-Price (FFP) trainer development and product delivery contracts. Led teams of
+engineers and took point on all aspects of system design and development; drafted proposals,
+developed cost estimates and schedules for FFP contracts, and presented system designs at major
+review meetings. Prepared risk reports, and leveraged Earned Value Management (EVM) techniques to
+track program KPIs and ensure achievement of all system and schedule requirements. Key Projects &
+Achievements:
+    *      Systems Lead Engineer responsible for coordinating, staffing, scheduling, budgeting, and
+      design for NAWCAD-TSD USS Seawolf SSN-21 High Frequency BSY-2 Sonar trainer.
+    *      Successfully completed R&D prototype of real-time high frequency ray trace model and AN/BSY-2
+      Sonar Displays.
+    *      Led development of top-level designs, real-time modeling, HW / SW engineering, and technical
+      engineering of system components for all NAVAIR PMA-205's S-3A and S-3B trainers and some
+      P-3A/ B/C trainers.
+* * *      * * * * *      * * *
+Will provide additional experience on systems engineering, managing design and development of
+training and RDT&E systems upon request.
+
+EDUCATION AND TRAINING
+MASTER OF SCIENCE IN PROJECT MANAGEMENT
+FLORIDA INSTITUTE OF TECHNOLOGY (FIT), Melbourne, FL
+
+MASTER OF SCIENCE IN COMPUTER INFORMATION SYSTEMS
+FLORIDA INSTITUTE OF TECHNOLOGY (FIT), Melbourne, FL
+BACHELOR OF SCIENCE IN ELECTRICAL ENGINEERING TECHNOLOGY
+PENNSYLVANIA STATE UNIVERSITY, University Park, PA
+Technical Proficiencies
+    *      Software Languages: C, C++, Ada, FORTRAN, Java, XML, Assembly
+    *      Operating Systems: UNIX, VOS, VMS, DOS, Windows NT / 98 / XP
+    *      Graphics: X Window System, Qt, OSF / Motif, OpenGL, Silicon Graphic Library, AGI's STK,
+      MetaVR's VRSG
+    *      Distributed Simulation Protocols: DIS, HLA, TENA
+    *      Simulation Software: MUSE, JIMM, MODSAF, JSAF, NASMP / NGTS, IMAT
+
+Volunteer Experience
+    *      Religious Education Teacher
+    *      Member of the Church Pastoral Council
+    *      Men's Club Leadership Council
+    *      Head Church Usher

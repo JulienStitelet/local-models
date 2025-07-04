@@ -1,0 +1,120 @@
+
+Contact
+
+ ?  Kiev, Ukraine
+ ?  +380936959505
+ ?  assassin199126@email.com
+ ?  https://t.me/Reve1ation
+
+ ?  www.linkedin.com/in/adubovskiy
+ ?  www.facebook.com/dubovskiy.a
+
+
+
+Tools
+
+?    Rider + C# + Selenuim
+     Webdriver + NUnit
+
+?    Testrail, Squash, Jira
+
+?    Git/Octopus/TeamCity
+
+?    Kafka tool
+
+?    MS SQL
+
+?    Robo3T/MongoDB
+
+?    Docker/Kubernetes/Kon
+     tena Lens
+
+?    Java + Selenium + Intellij
+     IDEA + TestNG
+
+?    Postman/REST API
+
+
+Strength
+
+?    Detail Oriented
+
+?    Analytical Thinking
+
+?    Disciplined
+
+?    Hard Working
+
+?    Team Worker
+
+ ?   Sociability
+
+ANATOLIY                    DUBOVSKIY
+SENIOR QUALITY ASSURANCE ENGINEER
+
+
+
+About
+
+Over 5+ years of IT experience as a Manual and Automation QA
+Engineer in Software Testing, proficient in Client/Server and Web
+based applications. Expert in Automation Testing (Selenium
+WebDriver), API Testing, Mobile Testing. Experience in performing
+clerical and administrative tasks and providing excellent customer
+support
+
+
+Experience
+
+   07.19 - Present    TT Solutions
+                      AQA Engineer, Kiev
+                      Responsibilities:
+                      - Manual and automation software testing;
+                      - Analyzing, testing and specifying
+                      requirements;
+                      - Create test scenarios, test cases, checklists,
+                      test results reports, and bug reports;
+                      - Regression testing and bug handling;
+                      - Discover bugs' root cause, prioritization of
+                      bugs, assign to right team member;
+                      - Improving tests;
+                      - Communication with other QA and
+                      development team;
+                      - Design and execute automated tests to
+                      streamline testing process;
+                      - Code review of tests of other engineers;
+
+   10.16 - 06.19      Developex
+                      QA Engineer, Kiev
+                      Project: Gaming software for Corsair input
+                      devices
+
+   07.15 - 09.16      Eda.ua
+                      QA.AQA Engineer, Kiev
+                      Project: Web and Mobile service that allows
+                      user to order a food. It's an online
+                      takeawayfood ordering marketplace.
+
+   01.15 - 05.15      AMgrade
+                      QA Engineer, Kiev
+                      Project: Onefile
+                      Web service allowing users to securely backup,
+                      organize, and manage their emails and
+                      attachments from various email accounts
+                      such as Yahoo, Gmail, Outlook and more.
+   03.14 - 10.14      ATK SOFT
+
+                      QA Engineer, Kiev
+                      Project:b-start
+                      Web application that contains an information
+                      of entertainment and business events.
+
+Languages                                  Education
+Foreign                                        2008 - 2013       KYIV NATIONAL ECONOMIC UNIVERSITY
+
+English                                                          Master's degree, Kiev
+                                                                 Finaance, General
+Native
+
+Ukrainian
+Russian
